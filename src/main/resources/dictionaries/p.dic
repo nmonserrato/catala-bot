@@ -1,0 +1,5268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<Entry frequency="40300">pa<nouns>
+			<translations>
+				<translation catagory="food" gender="m">bread<plural>pans</plural>
+					<catexamp>Pa integral</catexamp>
+					<engexamp>Wholemeal bread</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+                <expressions>el / la que es guanya el pa
+                <translations>
+                <translation>breadwinner</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="1510">pa amb tomàquet<nouns>
+			<translations>
+				<translation gender="m">bread smeared with fresh tomato and oil<engnote>'Pa amb tomàquet' is a traditional Catalan 'dish'.  Essentially it consists of slices of bread (cut from a good crusty loaf, not your average British sliced) and smeared with a nice juicy halved-tomato, drizzled with olive oil and sprinkled lightly with salt (yum!).</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8400">paciència<nouns>
+			<translations>
+				<translation gender="f">patience</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20800">pacient<nouns>
+			<translations>
+				<translation catagory="medical" gender="m / f">patient</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="533">pacientment<adverbs>
+			<translations>
+				<translation>patiently</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="10900">pacífic<adjectives>
+			<translations>
+				<translation>peaceful<fems>pacífica</fems><femplural>pacífiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="887">pacíficament<adverbs>
+			<translations>
+				<translation>peacefully</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="585">pacificar<verbs conj="CtoQU">
+			<translations>
+				<translation>to calm / to pacify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1340">pacifisme<nouns>
+			<translations>
+				<translation gender="m">pacifism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3010">pacifista<nouns>
+			<translations>
+				<translation gender="m / f">pacifist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31100">pacte<nouns>
+			<translations>
+				<translation gender="m">pact</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="144">padrastre<nouns>
+			<translations>
+				<translation catagory="family-marriage" gender="m">stepfather</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1590">padrí<nouns>
+			<translations>
+				<translation catagory="family" gender="m / f">godfather<fems>padrina</fems><plural>padrins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="781">padrina<nouns>
+			<translations>
+				<translation catagory="family" gender="f">godmother</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1940">padrins<nouns>
+			<translations>
+				<translation gender="m">godparents</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6790">paella<nouns>
+			<translations>
+				<translation catagory="food" gender="f">paella</translation>
+				<translation catagory="household-room-kitchen" gender="f">frying pan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2460">pagà<nouns>
+			<translations>
+				<translation gender="m / f">pagan</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>pagan<fems>pagana</fems><plural>pagans</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="62400">pagament<nouns>
+			<translations>
+				<translation catagory="financial" gender="m">payment<catexamp>(Televisió) de pagament</catexamp>
+					<engexamp>Pay (TV)</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="55400">pagar<verbs conj="GtoGU">
+			<translations>
+				<translation catagory="financial">to pay</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="27000">pagès<nouns>
+			<translations>
+				<translation gender="m / f">peasant / farm worker</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>rural<fems>pagesa</fems><plural>pagesos</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="331000">pàgina<nouns>
+			<translations>
+				<translation gender="f">page</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="226000">país<nouns>
+			<translations>
+				<translation gender="m">country<plural>països</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1080">paisà<nouns>
+			<translations>
+				<translation gender="m / f">peasant<plural>paisans</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="95200">paisatge<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">countryside</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="488">País de Gal·les<nouns>
+			<translations><date>0605</date>
+				<translation catagory="country-europe" gender="m">Wales</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="37000">Països Baixos<nouns>
+			<translations><date>0605</date>
+				<translation catagory="country-europe" gender="m">Holland / The Netherlands</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8260">Pakistan<nouns>
+			<translations><date>0605</date>
+				<translation catagory="country-asia" gender="m">Pakistan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="767">pakistanès<adjectives>
+			<translations><date>0605</date>
+				<translation>Pakistani<fems>pakistanesa</fems>
+					<plural>pakistanesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="65000">pal<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">stick</translation>
+                                <translation disambiguate="sports" gender="m">bat</translation>
+                                <translation gender="m">pole</translation>
+                                <translation gender="m">mast</translation>
+			</translations>
+		</nouns>
+	</Entry>       
+        <Entry frequency="9080">pala<nouns>
+			<translations><date>0805</date>
+                        <translation gender="f">shovel / spade</translation>
+				<translation gender="f">bat</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2810">palanca<nouns>
+			<translations>
+				<translation gender="f">lever</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="366">palangana<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">washbowl</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="72700">palau<nouns>
+			<translations>
+				<translation gender="m">palace</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11900">palès<adjectives>
+			<translations>
+				<translation>clear<plural>palesos</plural>
+					<fems>palesa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5650">palestí<nouns>
+			<translations>
+				<translation catagory="nationality-asia" gender="m / f">Palestinian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Palestinian<fems>palestina</fems>
+					<plural>palestins</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7700">Palestina<nouns>
+			<translations>
+				<translation catagory="country-asia" gender="f">Palestine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4730">paleta<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">bricklayer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="333">palíndrom<nouns>
+			<translations>
+				<translation catagory="linguistics" gender="m">palindrome</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4630">palla<nouns>
+			<translations>
+				<translation gender="f">straw</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5650">pallasso<nouns>
+			<translations>
+				<translation gender="m">clown</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="3920">pal·liar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation>to ease<example>El grup explica que el seu objectiu és &lt;b&gt;pal·liar&lt;/b&gt; el sofriment dels pacients terminals.</example></translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="1290">pal·liatiu<adjectives>
+			<translations><date>0405</date>
+				<translation catagory="medical">palliative<fems>pal·liativa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1900">pàl·lid<adjectives>
+			<translations>
+				<translation>pale<fems>pal·lida</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2080">pallissa<nouns>
+			<translations>
+				<translation gender="f">thrashing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="789">palmell<nouns>
+			<translations>
+				<translation catagory="body" gender="m">palm</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4710">palmera<nouns>
+			<translations>
+				<translation catagory="plant-tree" gender="f">palm tree</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1010">palpar<verbs conj="regular">
+			<translations>
+				<translation>to feel</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="499">paludisme<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="m">malaria</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19200">pam<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">palm / span</translation>
+			</translations>
+		</nouns>
+		<expressions>pam a pam<translations>
+			<translation>inch by inch<catexamp>Coneixer (alguna cosa) pam a pam</catexamp><engexamp>To know (something) like the back of your hand</engexamp></translation>
+		</translations></expressions>
+                <expressions>anar a pams
+                <translations><translation>to look at something carefully / in detail</translation></translations></expressions>
+                <expressions>deixar algú amb un pam de nas<translations>
+                <translation>to let someone down</translation></translations></expressions>
+                <expressions>fer pam i pipa<translations>
+                <translation>to thumb your nose at somebody</translation></translations></expressions>
+                <expressions>quedar-se amb un pam de nas<translations>
+                <translation>to be disappointed / to feel let down</translation></translations></expressions>
+                <exclamations><translations><translation>bang!</translation></translations></exclamations>
+	</Entry>
+        	<Entry frequency="120">pamplonès<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Pamplona</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Pamplona<plural>pamplonesos</plural><fems>pamplonesa</fems></translation></translations></nouns>
+	</Entry>	
+	<Entry frequency="2160">Panamà<nouns>
+			<translations>
+				<translation catagory="country-centralamerica" gender="f">Panama</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6100">pancarta<nouns>
+			<translations>
+				<translation gender="f">placard / banner</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="964">pàncrees<nouns>
+			<translations>
+				<translation catagory="body-internal" gender="m">pancreas</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="488">panerola<nouns>
+			<translations><date>0305</date>
+				<translation catagory="animal-insect" gender="f">cockroach</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="550">panet<nouns>
+			<translations><date>0405</date>
+				<translation catagory="food" gender="m">(bread) bun</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4210">pànic<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">panic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="51">Panjab<nouns>
+			<translations><date>0305</date>
+				<translation catagory="geograpy-region" gender="m">Punjab</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="89">panjabi<nouns>
+			<translations><date>0305</date>
+				<translation catagory="language" gender="m">Punjabi</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>Punjabi</translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="21000">panorama<nouns>
+			<translations>
+				<translation gender="m">view</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3700">pansa<nouns>
+			<translations>
+				<translation catagory="food" gender="f">raisin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4660">pantà<nouns>
+			<translations>
+				<translation gender="m">dam / reservoir<synonyms>embassament</synonyms></translation>
+                                <translation gender="m">bog / swamp<plural>pantans</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="39400">pantalla<nouns>
+			<translations>
+				<translation catagory="computers-hardware" gender="f">screen</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5440">pantalons<nouns>
+			<translations>
+				<translation catagory="clothes-item" gender="m">trousers (Br.), pants (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="506">pantalons curts<nouns>
+			<translations>
+				<translation catagory="clothes" gender="mpl">shorts</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="632">pantanós<adjectives>
+			<translations><date>0805</date>
+				<translation>boggy<plural>pantanosos</plural><fems>pantanosa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="606">pantomima<nouns>
+			<translations>
+				<translation gender="f">pantomime</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3320">panxa<nouns>
+			<translations>
+				<translation catagory="body" gender="f">belly</translation>
+                                <translation catagory="body" gender="f">paunch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="98">panxell<nouns>
+			<translations><date>0505</date>
+				<translation catagory="body" gender="m">calf<synonyms>tou de la cama</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11300">pany<nouns>
+			<translations>
+				<translation gender="m">lock<catexamp>Tancar amb pany i clau</catexamp>
+					<engexamp>To lock</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="235">paó<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">peacock<plural>paons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="490">papà<nouns>
+			<translations>
+				<translation gender="m">dad</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3920">papallona<nouns>
+			<translations>
+				<translation catagory="animal-insect" gender="f">butterfly</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="804">paparra<nouns>
+			<translations>
+				<translation catagory="animal-insect" gender="f">tick</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="113000">paper<nouns>
+			<translations>
+				<translation catagory="material" gender="m">paper<catexamp>Paper higiènic</catexamp>
+					<engexamp>Toilet paper</engexamp>
+				</translation>
+				<translation gender="m">role / part</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13500">paperera<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">bin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+          <Entry frequency="6160">papereta<nouns>
+			<translations><date>0805</date>
+				<translation disambiguate="politics" gender="f">ballot (paper)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+               <Entry frequency="662">paper higiènic<nouns>
+			<translations><date>0805</date>
+				<translation catagory="household-room-bathroom" gender="m">toilet paper</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="408">paper pintat<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">wallpaper</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="57600">paquet<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">packet / package / parcel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1130">parabrisa<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="f">windscreen (Br.) / windshield (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="641">paracaigudes<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports-event-parachuting" gender="m">parachute</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="605">paracaigudisme<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports-event" gender="m">parachuting / skydiving</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="291">paracetamol<nouns>
+			<translations><date>0405</date>
+				<translation catagory="medical" gender="m">paracetamol (Br.) / acetaminophen (Am.) / Tylenol (Am.)<catnote>'Tylenol' és un nom comercial.</catnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="59100">parada<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">stop</translation>
+				<translation>stall<engnote>'Parada' means 'stall' as in 'flower stall' / 'fish stall' etc.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="937">parada d'autobús<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="f">bus stop</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20500">paradís<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">paradise / heaven<plural>paradisos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6340">parador<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">roadside inn
+					<catexamp>Parador nacional</catexamp><engexamp>State-run hotel</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13700">paradoxa<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">paradox</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3510">paradoxalment<adverbs>
+			<translations><date>0805</date>
+				<translation>paradoxically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="243">parafang<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="m">mudguard (Br.) / fender (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="54000">paràgraf<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">paragraph</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+                <Entry frequency="6240">Paraguai<nouns>
+			<translations><date>0905</date>
+				<translation catagory="country-southamerica" gender="m">Paraguay</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="275">paraguaià<adjectives>
+			<translations><date>0905</date>
+				<translation>Paraguayan</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="nationality-southamerica" gender="m / f">Paraguayan<plural>paraguaians</plural><fems>paraguaiana</fems></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="7440">paraigua<nouns>
+			<translations><date>0805</date>
+				<translation catagory="clothes-accessories" gender="m">umbrella / brolly<plural>paraigües</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6740">paràlisi<nouns>
+			<translations><date>0805</date>
+				<translation catagory="medical-illness" gender="f">paralysis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="783">paràlisi cerebral<nouns>
+			<translations><date>0805</date>
+				<translation catagory="medical-illness" gender="f">cerebral palsy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6130">paralitzat<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="medical">paralyzed</translation>
+				<translation>at a standstill</translation><fems>paralitzada</fems>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="844">parallamps<nouns>
+			<translations><date>0805</date>
+				<translation catagory="weather" gender="m">lightning conductor</translation>
+			</translations>
+		</nouns>
+	</Entry>\
+	<Entry frequency="31600">paral·lel<adjectives>
+			<translations>
+				<translation>parallel<fems>paral·lela</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="14200">paral·lelament<adverbs>
+			<translations>
+				<translation>at the same time / simultaneously</translation>
+				<translation>in parallel with / in line with</translation>
+				<translation>alongside</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="79700">paràmetre<nouns>
+			<translations><date>0805</date>
+				<translation catagory="computers-programming" gender="m">parameter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="818">paramilitar<adjectives>
+			<translations><date>0805</date>
+				<translation>paramilitary</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5640">parapent<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports-event-paragliding" gender="m">paraglider</translation>
+				<translation catagory="sports-event" gender="m">paragliding</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="80000">parar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to stop</translation>
+                                <translation>to stay<catexamp>On pares quan vas a Figueres?</catexamp><engexamp>Where are you staying / where will you be staying when you go to Figueres?</engexamp></translation>
+                                <translation>to end up<catexamp>La pilota va anar a parar al carrer</catexamp><engexamp>The ball ended up in the street</engexamp><catexamp>No sé com això ha anat a parar a parar a les seves mans</catexamp><engexamp>I don't know how that ended up in his hands / I don't know how he got ahold (Am.) / hold (Br.) of that.</engexamp><catexamp>Noi, si continues així, pararàs boig!</catexamp><engexamp>(Man!) If you go on like that you'll end up (going) crazy (Am.) / mad (Br.)</engexamp></translation>
+                                <translation>to set (up) / to pitch / to lay<catexamp>Parar la taula</catexamp><engexamp>To set the table / to lay the table</engexamp><catexamp>Parar tenda</catexamp><engexamp>To pitch / set up a tent</engexamp><catexamp>Parar una trampa</catexamp><engexamp>To set a trap</engexamp><catexamp>Parar esment / compte</catexamp><engexamp>To pay attention</engexamp></translation>
+                                <translation>to hold out<catexamp>Parar la mà</catexamp><engexamp>To hold your hand out / to beg</engexamp><catexamp>T'haig d'explicar una història increïble! Para l'orella!</catexamp><engexamp>I (simply) must tell you an incredible story! Listen (up)!</engexamp></translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="746">para-sol<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">parasol</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25500">paratge<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">spot / location / setting</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="603000">paraula<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">word</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="434">paraulota<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">swearword</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="287">para-xocs<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="m">bumper</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="316000">parc<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">park</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="235000">pare<nouns>
+			<translations><date>0805</date>
+				<translation catagory="family-blood" gender="m">father</translation>
+                                <translation sourceplural="pares" gender="mpl">parents</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="71200">parell<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">even</translation>
+				<translation gender="m">pair</translation>
+				<translation gender="m">couple</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="92400">parella<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">pair</translation>
+				<translation gender="f">couple</translation>
+				<translation gender="f">partner</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1580">Pare Noel<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">Father Christmas</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1950">parenostre<nouns>
+			<translations><date>0805</date>
+				<translation catagory="religious" gender="m">Our Father</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20800">parent<nouns>
+			<translations><date>0805</date>
+				<translation catagory="family" gender="m / f">relative</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15200">parèntesi<nouns>
+			<translations><date>0805</date>
+				<translation catagory="linguistics" gender="m">bracket / parenthesis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24800">parer<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">mind / opinion
+					<catexamp>Al meu parer</catexamp><engexamp>In my opinion / from my point of view</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="87400">paret<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">wall</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="74500">París<nouns>
+			<translations><date>0805</date>
+				<translation catagory="city-europe-france" gender="m">Paris</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="983">parisenc<nouns>
+			<translations><date>0405</date>
+				<translation gender="m / f">Parisian</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>Parisian<fems>parisenca</fems><femplural>parisenques</femplural></translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="178000">parlament<nouns>
+			<translations><date>0805</date>
+				<translation catagory="politics" gender="m">parliament</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56700">parlamentari<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="politics">parliamentary<fems>parlamentària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="363000">parlar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to talk</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="427">parmesà<nouns>
+			<translations><date>0805</date>
+				<translation catagory="food-dairy-cheese" gender="m">parmesan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4780">paròdia<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">parody</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1100">parpella<nouns>
+			<translations><date>0505</date>
+				<translation catagory="body" gender="f">eyelid</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="259">parpelleig<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">blink</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="348">parquímetre<nouns>
+			<translations><date>0405</date>
+				<translation catagory="transport" gender="m">(parking) meter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14400">pàrquing<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="m">car park</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="39900">parròquia<nouns>
+			<translations><date>0805</date>
+				<translation catagory="religious" gender="f">parish</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="739000">part<nouns>
+			<translations><date>0805</date>
+				<translation disambiguate="sports" gender="f">half<catexamp>La segona part</catexamp>
+					<engexamp>The second half</engexamp>
+				</translation>
+                                <translation disambiguate="medical" gender="m">childbirth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="718000">participació<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">participation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="172000">participant<nouns>
+			<translations><date>0805</date>
+				<translation gender="m / f">participant</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>participating</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="577000">participar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to take part</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="11200">participi<nouns>
+			<translations><date>0405</date>
+				<translation catagory="linguistics" gender="m">participle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20600">partícula<nouns>
+			<translations><date>0805</date>
+				<translation catagory="chemistry" gender="f">particle<catexamp>Física de partícules</catexamp>
+					<engexamp>Particle physics</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="35100">particularment<adverbs>
+			<translations><date>0805</date>
+				<translation>particularly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="26100">partidari<adjectives>
+			<translations><date>0805</date>
+				<translation>in favour of<catnote>(Per exemple: 'The prime minister is in favour of sending more troops to Iraq' > 'El primer ministre és partidari d'enviar més tropes a l'Iraq')</catnote>
+					<engnote>partidari means 'in favour of' in the sense 'Jack Straw is in favour of sending more troops to Iraq' > 'Jack Straw és partidari d'enviar més tropes a l'Iraq'</engnote><fems>partidària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="253000">partit<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">match / game</translation>
+				<translation gender="m">party<engnote>partit means party as in 'political party'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="16700">partitura<nouns>
+			<translations><date>0305</date>
+				<translation catagory="entertainment-music" gender="f">(musical) score<example>La &lt;b&gt;partitura&lt;/b&gt; de la Novena de Beethoven s'ha subhastat per deu milions d'euros.</example></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10900">parvulari<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">nursery (school) (Br.) / kindergarten (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="633">parxís<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">pachisi / Parcheesi</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="963000">pas<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">step<plural>passos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="700">pas a nivell<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport">level crossing (Br.) / grade crossing (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4040">pas de vianants<nouns>
+			<translations><date>0805</date>
+				<translation catagory="transport" gender="m">pedestrian crossing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15800">passadís<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">passageway / corridor / aisle<plural>passadissos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27900">passaport<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">passport</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="850000">passar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to happen<example>Què &lt;b&gt;passa&lt;/b&gt;? No &lt;b&gt;passa&lt;/b&gt; res!</example>
+				</translation>
+				<translation>to spend<example>Els nens i nenes &lt;b&gt;passen&lt;/b&gt; més hores davant la tele que no pas a l'escola.</example>
+				</translation>
+				<translation>to move (on to)<example>Catalunya derrota Andorra i &lt;b&gt;passa&lt;/b&gt; a la final contra Anglaterra.</example>
+				</translation>
+				<translation>to go by<catexamp>Com passa el temps!</catexamp>
+					<engexamp>How time flies!</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4530">passarel·la<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">catwalk</translation>
+                                <translation gender="f">footbridge</translation>
+                                <translation gender="f">gangway</translation>
+                                <translation gender="f">gangplank</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="116000">passat<nouns>
+			<translations><date>0805</date>
+				<translation catagory="time" gender="m">past</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3090">passatemps<nouns>
+			<translations>
+				<translation gender="m">puzzle(s)</translation>
+                                <translation gender="m">hobby</translation>
+                                <translation gender="m">pursuit</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10200">passatge<nouns>
+			<translations>
+				<translation gender="m">passage</translation>
+				<translation gender="m">passageway / alleyway / alley</translation>
+				<translation gender="m">ticket</translation>
+				<translation gender="m">passengers</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8150">passatger<nouns>
+			<translations>
+				<translation catagory="transport" gender="m / f">passenger</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="45200">passeig<nouns>
+			<translations>
+				<translation gender="m">walk / stroll</translation>
+				<translation gender="m">ride</translation>
+				<translation gender="m">avenue</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="209">passejador<nouns>
+			<translations><date>0905</date>
+				<translation gender="m">push along (toy)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11700">passejar<verbs conj="JtoG">
+			<translations>
+				<translation>to walk</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="21900">passió<nouns>
+			<translations>
+				<translation gender="f">passion<plural>passions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27500">pasta<nouns>
+			<translations>
+				<translation catagory="food" gender="f">pasta</translation>
+				<translation catagory="food" gender="f">dough</translation>
+                                <translation register="colloquial" catagory="financial" gender="f">dough / bread</translation>
+				<translation catagory="food" gender="f">pastry</translation>
+				<translation gender="f">paste<catexamp>Pasta de dents</catexamp>
+					<engexamp>Toothpaste</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="374">pasta de full<nouns>
+			<translations>
+				<translation catagory="food">puff pastry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2110">pastanaga<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="f">carrot</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="682">pastera<nouns>
+			<translations><date>0905</date>
+				<translation catagory="transport-mode" gender="f">(small, flat-bottomed) boat</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3800">pastilla<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">pill</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7070">pastís<nouns>
+			<translations>
+				<translation catagory="food" gender="m">pie</translation>
+                                <translation catagory="food" gender="m">cake<plural>pastissos</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8840">patata<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="f">potato</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1110">patates fregides<nouns>
+			<translations>
+				<translation catagory="food" gender="fpl">chips (Br.) / crisps (Br.) / (french) fries (Am.) / chips (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="660">paté<nouns>
+			<translations><date>0705</date>
+				<translation catagory="food" gender="f">pate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1890">paternitat<nouns>
+			<translations>
+				<translation gender="f">paternity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26200">pati<nouns>
+			<translations>
+				<translation gender="m">yard<engnote>'Pati' means 'yard' in the sense of school playground or 'courtyard'.  It does not mean 'yard' in the American sense of the word.  This would be 'jardí'.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9170">patí<nouns>
+			<translations>
+				<translation catagory="sports-event-skating" gender="m">skate<plural>patins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4650">patiment<nouns>
+			<translations>
+				<translation gender="m">suffering</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="589">patinar<verbs conj="regular">
+			<translations>
+				<translation>to skate<catexamp>Patinar sobre gel</catexamp>
+					<engexamp>To ice skate</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4280">patinatge<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="m">skating<catexamp>Patinatge sobre gel</catexamp>
+					<engexamp>Ice skating</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="5360">patinet<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transport-mode" gender="m">scooter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="136000">patir<verbs conj="inceptive">
+			<translations><date>0605</date>
+				<translation>to suffer</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="33100">patologia<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">pathology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1270">patrici<nouns>
+			<translations><date>0905</date>
+				<translation gender="m / f">patrician</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>patrician<fems>patrícia</fems></translation></translations></adjectives>
+	</Entry>
+        <Entry frequency="179000">patrimoni<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">heritage</translation>
+                                <translation gender="m">inheritance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5290">patriota<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">patriot</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2930">patriòtic<adjectives>
+			<translations>
+				<translation>patriotic<fems>patriòtica</fems><femplural>patriòtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="33600">patronat<nouns>
+			<translations>
+				<translation gender="m">board<engnote>'Patronat' means 'board' as in 'board of governors', 'board of trustees' etc..</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="700">patrullar<verbs conj="regular">
+			<translations>
+				<translation>to patrol</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="106000">pau<nouns>
+			<translations>
+				<translation gender="f">peace</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7080">pausa<nouns>
+			<translations>
+				<translation gender="f">pause</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="11600">paviment<nouns>
+			<translations><date>0505</date>
+				<translation catagory="transport" gender="m">pavement (Am.) / road surface (Br.)</translation>
+                                <translation gender="m">flooring</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4160">pebre<nouns>
+			<translations>
+				<translation catagory="food-spice" gender="m">pepper</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2860">pebrot<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="m">pepper</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="165">pectina<nouns>
+			<translations><date>0405</date>
+				<translation catagory="biology" gender="f">pectin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7820">peculiaritat<nouns>
+			<translations>
+				<translation gender="f">peculiarity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="894">pecuniari<adjectives>
+			<translations><date>0605</date>
+				<translation catagory="financial">pecuniary<fems>pecuniària</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1580">pedaç<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">patch<plural>pedaços</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34700">pedagògic<adjectives>
+			<translations>
+				<translation>pedagogical<fems>pedagògica</fems><femplural>pedagògiques</femplural><engnote>'Pedagogical' means 'to do with teaching'.</engnote>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="283">pederasta<nouns>
+			<translations>
+				<translation gender="m">paedophile (Br.) / pedophile (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1870">pediatre<nouns>
+			<translations>
+				<translation catagory="medical, work-job">paediatrician (Br.) / pediatrician (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="304">pedicura<nouns>
+			<translations>
+				<translation gender="f">pedicure</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="266">pedòfil<nouns>
+        <translations><date>0505</date>
+        <translation gender="m / f">paedophile (Br.) / pedophile (Am.)</translation></translations></nouns>
+        <adjectives>
+			<translations>
+				<translation>paedophilic (Br.) / pedophilic (Am.)<fems>pedòfila</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry> 
+	<Entry frequency="41700">pedra<nouns>
+			<translations>
+				<translation gender="f">stone</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="300">pedra filosofal<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">philosopher's stone</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="859">pedregar<verbs conj="GtoGU">
+			<translations><date>0505</date>
+				<translation>to hail</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="15700">pedrera<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">quarry</translation>
+                                <translation catagory="encyclopaedic" capitalized="true" picture="http://photos1.flickr.com/788817_9bda154efc.jpg" flickr="http://www.flickr.com/photos/chris4d/788817/" gender="f">(also known as Casa Milà) la Pedrera is a building on the Passeig de Gràcia in Barcelona, built by Antoni Gaudí between 1906 and 1910</translation>
+			</translations>
+		</nouns>
+	</Entry>
+               <Entry frequency="8820">pegar<verbs conj="GtoGU">
+			<translations><date>0805</date>
+				<translation>to hit / to beat</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="25900">peix<nouns>
+			<translations>
+				<translation catagory="animal-fish, food-fish" gender="m">fish<plural>peixos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="400">Peixos<nouns>
+			<translations>
+				<translation catagory="zodiac">Pisces</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="637">pejoratiu<adjectives>
+			<translations>
+				<translation>pejorative<fems>pejorativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="20000">pèl<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">(body) hair / (facial) hair</translation>
+                                <translation gender="m">fur</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3740">pelar<verbs conj="regular">
+			<translations>
+				<translation>to peel</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5490">pelegrí<nouns>
+			<translations>
+				<translation catagory="religious" gender="m / f">pilgrim<plural>pelegrins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1520">pelegrinatge<nouns>
+			<translations>
+				<translation catagory="religious" gender="m">pilgrimage</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28900">pell<nouns>
+			<translations>
+				<translation catagory="body" gender="f">skin</translation>
+                                <translation gender="f">fur<engnote>'Pell' means 'fur' in the sense 'garment made from fur' (fur coat = abric de pell).</engnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="38700">pel·lícula<nouns>
+			<translations>
+				<translation gender="f">film (Br.) / movie (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="810">pel que respecta a<expressions>
+			<translations>
+				<translation>as regards</translation>
+			</translations>
+		</expressions>
+	</Entry>
+	<Entry frequency="3730">pena<nouns>
+			<translations>
+				<translation gender="f">punishment</translation>
+				<translation gender="f">grief / sadness</translation>
+				<catexamp>Val la pena reciclar paper?</catexamp>
+				<engexamp>Is it worth recycling paper?</engexamp>
+			</translations>
+		</nouns>
+                <expressions>a penes
+                <translations>
+                <translation>barely</translation></translations></expressions>
+	</Entry>
+                	<Entry frequency="657">pena capital<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">capital punishment / death penalty<synonyms>pena de mort</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2590">pena de mort<nouns>
+			<translations>
+				<translation gender="f">death penalty / capital punishment<synonyms>pena capital</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="53300">penal<adjectives>
+			<translations><date>0405</date>
+				<translation catagory="legal">penal</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="sports-event-football" gender="m">penalty</translation>
+                <translation gender="m">prison<synonyms>presó</synonyms></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="2410">penalitzar<verbs conj="regular">
+			<translations>
+				<translation>to penalize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="1760">penedir<verbs conj="inceptive">
+			<translations><date>0305</date>
+				<translation>to be sorry</translation>
+                                <translation>to regret</translation>
+                                <translation catagory="religious">to repent</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3730">a penes<adverbs>
+			<translations>
+				<translation>barely / scarcely / hardly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="4580">penetració<nouns>
+			<translations>
+				<translation gender="f">penetration</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5240">penetrar<verbs conj="regular">
+			<translations>
+				<translation>to penetrate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="354">penicil·lina<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical" gender="f">penicillin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1070">penis<nouns>
+			<translations>
+				<translation catagory="body" gender="m">penis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="852">penitència<nouns>
+			<translations><date>0305</date>
+				<translation catagory="religious" gender="f">penitence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6000">penitenciari<adjectives>
+			<translations>
+				<translation gender="m">prison<fems>penitenciària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="1010">penitent<adjectives>
+			<translations><date>0305</date>
+				<translation catagory="religious">penitent</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="religious" gender="m / f">penitent</translation></translations></nouns>
+	</Entry>
+<Entry frequency="1210">penjador<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">(clothes) hanger / coat rack</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18700">penjar<verbs conj="JtoG">
+			<translations>
+				<translation>to hang</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="190">penja-robes<nouns>
+			<translations><date>0305</date>
+                        <translation gender="m">(clothes) hanger</translation>
+				<translation gender="m">coat rack / wardrobe / closet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="200">Pennsilvània<nouns>
+			<translations>
+				<translation gender="f">Pennsylvania</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="36100">pensament<nouns>
+			<translations>
+				<translation gender="m">thought</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="78600">pensar<verbs conj="regular">
+			<translations>
+				<translation>to think</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="63800">pensió<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">boarding house / guesthouse </translation>
+				<translation gender="m">board <catexamp>Pensió completa</catexamp><engexamp>Full board</engexamp>
+					<catexamp>Mitja pensió</catexamp><engexamp>Half board</engexamp>
+				</translation>
+				<translation gender="m">benefit / pension / allowance / maintenance</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="2000">pentàgon<nouns>
+			<translations>
+				<translation gender="m">pentagon</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="4750">pentinar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation transitive="true">to brush / to comb (somebody's hair)<example>La perruquera acaba de &lt;b&gt;pentinar&lt;/b&gt; la Teresa.</example></translation>
+                                <translation transitive="true">to comb<catexamp>Diversos agents van pentinar la zona</catexamp><engexamp>Several officers combed the area</engexamp></translation>
+                                <translation reflexive="pentinar-se">to brush / comb your hair</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="2140">Pequín<nouns>
+			<translations><date>0405</date>
+				<translation catagory="city-asia-china" gender="m">Peking</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1860000">per<prepositions>
+			<translations>
+				<translation>for</translation>
+			</translations>
+		</prepositions>
+	</Entry>
+	<Entry frequency="10800">pera<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="f">pear</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="164">peralt<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">camber</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15900">percebre<verbs conj="irregular30">
+			<translations>
+				<translation>to perceive / to detect / to discern</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="40200">percentatge<nouns>
+			<translations>
+				<translation catagory="maths" gender="m">percentage</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21500">percepció<nouns>
+			<translations>
+				<translation gender="f">perception<plural>percepcions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2330">perdedor<nouns>
+			<translations>
+				<translation gender="m">loser</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2410">perdiu<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">partridge</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7080">perdó<exclamations>
+			<translations>
+				<translation>excuse me!</translation>
+			</translations>
+		</exclamations>
+	</Entry>
+	<Entry frequency="6200">perdonar<verbs conj="regular">
+			<translations>
+				<translation>to forgive / to excuse</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="77800">perdre<verbs conj="regular">
+			<translations>
+				<translation>to lose</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="48600">pèrdua<nouns>
+			<translations>
+				<translation gender="f">loss</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="689">perenne<adjectives>
+			<translations><date>0405</date>
+				<translation catagory="plants">perennial</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="52000">perfil<nouns>
+			<translations>
+				<translation gender="m">profile</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="666">perforar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to perforate / to drill a hole in / to bore a hole in / to make a hole in</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4470">perifèria<nouns>
+			<translations>
+				<translation gender="f">periphery</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6070">perifèrics<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">peripherals</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="43100">perill<nouns>
+			<translations>
+				<translation gender="m">danger</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27400">perillós<adjectives>
+			<translations>
+				<translation>dangerous<fems>perillosa</fems>
+					<plural>perillosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="8840">perímetre<nouns>
+			<translations><date>0305</date>
+				<translation catagory="maths" gender="m">perimeter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="106000">període<nouns>
+			<translations>
+				<translation gender="m">period</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12500">periodisme<nouns>
+			<translations>
+				<translation catagory="work-field" gender="m">journalism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="32300">periodista<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">journalist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="885">pèrit<nouns>
+			<translations>
+				<translation gender="m">expert</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13100">perjudicar<verbs conj="CtoQU">
+			<translations>
+				<translation>to harm</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="38500">perjudici<nouns>
+			<translations>
+				<translation gender="m">damage</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="9010">perla<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">pearl</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="203000">permanent<adjectives>
+			<translations><date>0805</date>
+				<translation>permanent</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m">perm</translation></translations></nouns>
+	</Entry>
+	<Entry frequency="798000">permetre<verbs conj="irregular4">
+			<translations><date>0805</date>
+				<translation>to allow</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="81500">permís<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">permit / permission<plural>permisos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="583">permís de maternitat<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work" gender="m">maternity leave</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="279">permís de paternitat<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work" gender="m">paternity leave</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9140">pernil<nouns>
+			<translations><date>0805</date>
+				<translation catagory="food-meat" gender="m">ham</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="691000">però<conjunctions>
+			<translations><date>0805</date>
+				<translation>but</translation>
+			</translations>
+		</conjunctions>
+                <adverbs>
+                <translations>
+                <translation>however</translation></translations></adverbs>
+	</Entry>
+	<Entry frequency="3540">perpetrar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to carry out<example>Cap d'aquests assassinats va ser &lt;b&gt;perpetrat&lt;/b&gt; per Companys.</example>
+					<example>El grup terrorista va amenaçar de &lt;b&gt;perpetrar&lt;/b&gt; atacs suïcides.</example>
+				</translation>
+				<translation>to commit<example>Denunciem el genocidi &lt;b&gt;perpetrat&lt;/b&gt; pel govern sudanès.</example>
+					<example>El jove es dedicava a perpetrar robatoris.</example>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        	<Entry frequency="173">perpinyès<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Perpinyà (Perpignan)</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Perpinyà (Perpignan)<plural>perpinyesos</plural><fems>perpinyesa</fems></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="182000">perquè<conjunctions>
+			<translations>
+				<translation>because</translation>
+			</translations>
+		</conjunctions>
+	</Entry>
+	<Entry frequency="727">perruca<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">wig</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="889">perruquer<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work-job" gender="m / f">hairdresser<fems>perruquera</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="1450">persa<nouns>
+			<translations><date>0305</date>
+				<translation catagory="language" gender="f">Persian</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>Persian</translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="18000">persecució<nouns>
+			<translations><date>0805</date>
+                        <translation gender="f">chase</translation>
+				<translation gender="f">persecution<plural>persecucions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34500">perseguir<verbs conj="inceptive">
+			<translations><date>0805</date>
+				<translation>chase</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6360">persiana<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">blind</translation>
+				<translation gender="f">shutter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="650000">persona<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">person</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="662000">personal<nouns>
+			<translations><date>0805</date>
+				<translation gender="m" catagory="work">staff / personnel</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>personal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="36300">personalitat<nouns>
+			<translations>
+				<translation gender="f">personality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20500">personalment<adverbs>
+			<translations>
+				<translation>personally</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="52900">personatge<nouns>
+			<translations>
+				<translation gender="m / f">character</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56200">perspectiva<nouns>
+			<translations>
+				<translation gender="f">perspective</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1200">persuadir<verbs conj="inceptive">
+			<translations>
+				<translation>to persuade</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="56000">pertànyer<verbs conj="irregular35">
+			<translations>
+				<translation>to belong</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7670">pertinença<nouns>
+			<translations>
+				<translation gender="f">membership<plural>pertinences</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6350">Perú<nouns>
+			<translations>
+				<translation catagory="country-southamerica" gender="m">Peru</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1680">perxa<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">pole<catexamp>Salt amb perxa / salt de perxa</catexamp><engexamp>Pole vault</engexamp></translation>
+                                <translation gender="f">(clothes / coat) hanger</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="80">perxar<verbs conj="regular">
+                         <translations><date>0605</date>
+				<translation>to punt</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="51400">pes<nouns>
+			<translations>
+				<translation gender="m">weight<plural>pesos</plural>
+				</translation>
+				<translation catagory="sports-event-athletics" gender="m">shot(put)<engnote>El pes is the actual shot(put) that you throw. El llançament de pes is the actual event.</engnote>
+					<plural>pesos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="23000">pesar<verbs conj="regular">
+			<translations>
+				<translation>to weigh</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5820">pesat<adjectives>
+			<translations>
+				<translation>heavy</translation>
+				<translation>boring<fems>pesada</fems></translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>pain<engnote>'Pesat' means 'pain' as in 'pain in the ass'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="39500">pesca<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="f">fishing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15100">pescador<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">fisherman</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8000">pescar<verbs conj="CtoQU">
+			<translations>
+				<translation catagory="sports-event-fishing">to fish</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1990">pèsol<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="m">pea</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5080">pessebre<nouns>
+			<translations>
+				<translation picture="http://photos4.flickr.com/5347101_5276c34b07.jpg" flickr="http://www.flickr.com/photos/friviere/5347101/" gender="m">(model) nativity scene</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2290">pestanya<nouns>
+			<translations>
+				<translation catagory="body" gender="f">eyelash</translation>
+				<translation catagory="computers" gender="f">tab</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1400">pet<nouns>
+			<translations>
+				<translation gender="m">fart</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1830">pètal<nouns>
+			<translations>
+				<translation catagory="plant-flower" gender="m">petal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7550">petar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to crack</translation>
+				<translation>to die / kick the bucket</translation>
+				<translation>to crash / smash
+					<catexamp>Petar les dents</catexamp><engexamp>To chatter (teeth)</engexamp>
+					<catexamp>Anar a petar</catexamp><engexamp>To end up</engexamp>
+					<catexamp>Fer petar la xerrada / fer-la petar</catexamp><engexamp>To chat / natter</engexamp>
+					<catexamp>Peti qui peti</catexamp><engexamp>Come what may</engexamp>
+					<catexamp>Petar-se de riure</catexamp><engexamp>To laugh your head off / to die laughing</engexamp>
+					<catexamp>Estar que peta</catexamp><engexamp>To be a fat bloater (Br.) / to be seriously fat</engexamp>
+				</translation>
+				<translation>to break</translation>
+				<translation>to snap / shatter</translation>
+				<translation>to fart</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="135000">petició<nouns>
+			<translations>
+				<translation gender="f">request<plural>peticions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="145000">petit<adjectives>
+			<translations>
+				<translation>small<fems>petita</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5500">petó<nouns>
+			<translations>
+				<translation gender="m">kiss<plural>petons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="278">petonejar<verbs conj="JtoG">
+			<translations>
+				<translation>to kiss / cover with kisses</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="339">petrificar<verbs conj="CtoQU">
+			<translations><date>0705</date>
+				<translation>to petrify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="700">petroquímic<adjectives>
+			<translations>
+				<translation>petrochemical<fems>petroquímica</fems><femplural>petroquímiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="61600">peu<nouns>
+			<translations>
+				<translation catagory="body" gender="m">foot<catexamp>A peu</catexamp>
+					<engexamp>On foot</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="159">peülla<nouns>
+			<translations>
+				<translation catagory="animal" gender="f">hoof</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="36700">pi<nouns>
+			<translations>
+				<translation catagory="plant-tree" gender="m">pine (tree)<plural>pins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4140">pianista<nouns>
+			<translations>
+				<translation catagory="entertainment-music" gender="m / f">pianist / piano player</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12200">piano<nouns>
+			<translations>
+				<translation catagory="entertainment-music-instrument" gender="m">piano</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="1380">picabaralla<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">argument / quarrel / dispute</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2500">picant<adjectives>
+			<translations>
+				<translation catagory="food">hot / spicy</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="13200">picar<verbs conj="CtoQU">
+			<translations>
+				<translation>to bite<engnote>'Picar' means for an insect to bite (i.e. 'I was bitten by mosquitos').  To bite as in an animal such as a dog biting would be 'mossegar'</engnote>
+				</translation>
+				<translation>to sting<engnote>'Picar' can mean sting as in 'The bee / scorpion stung me' or 'My eyes are stinging'</engnote>
+				</translation>
+				<translation>to itch</translation>
+				<translation>to peck</translation>
+				<translation>to chop<engnote>'Picar' means to chop as in 'to chop something up' (e.g. 'Chop the garlic into small pieces')</engnote>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+                        <Entry frequency="850">pícnic<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">picnic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="540">picor<nouns>
+			<translations>
+				<translation gender="f">itch / itchiness</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="154">picot verd<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">green woodpecker</translation>
+			</translations>
+		</nouns>
+	</Entry>
+  <Entry frequency="314">pidolaire<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">beggar</translation>
+			</translations>
+		</nouns>
+	</Entry>
+         <Entry frequency="402">pidolar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to beg<synonyms>captar / demanar almoina</synonyms></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="521">piga<nouns>
+			<translations>
+				<translation catagory="body" gender="f">freckle<plural>pigues</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="794">pijama<nouns>
+			<translations>
+				<translation catagory="clothes-item" gender="f">pyjamas (Br.) / pajamas (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="876">pillatge<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">looting</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18400">pilot<nouns>
+			<translations>
+				<translation catagory="work-job, transport" gender="m">pilot</translation>
+				<translation catagory="sports" gender="m">driver<engnote>'Pilot' means 'driver' in the car racing sense (i.e. 'Schumacher is a Formula One driver' / 'Colin McRae is a rally driver').</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14400">pilota<nouns>
+			<translations>
+				<translation catagory="sports" gender="f">ball</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1020">pinça<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">tweezer / pincer</translation>
+				<translation gender="f">claw</translation>
+				<translation gender="f">clothes peg</translation>
+				<translation gender="f">dart<catexamp>Per cosir la pinça, doblegui la peça de roba</catexamp>
+					<engexamp>To sew the dart, fold the fabric</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="938">pinces<nouns>
+			<translations><date>0305</date>
+				<translation gender="fpl">tweezers / pincers</translation>
+				<translation gender="fpl">tongs</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28900">píndola<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">pill<catexamp>Prendre la píndola</catexamp>
+					<engexamp>To be on the pill</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="103">píndola del dia després<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">morning-after pill</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="83">píndola de l'endemà<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">morning-after pill</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4400">ping pong<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="m">ping pong<synonyms>tennis de taula</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1150">pingüí<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">penguin<fems>pingüina</fems>
+					<plural>pingüins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="528">pinso<nouns>
+			<translations><date>0505</date>
+				<translation catagory="animal" gender="m">fodder / (animal) feed</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16700">pintar<verbs conj="regular">
+			<translations>
+				<translation>to paint</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="44000">pintura<nouns>
+			<translations>
+				<translation gender="f">painting</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5410">pinya<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="f">pineapple</translation>
+                                <translation catagory="plant" gender="f">pine cone</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="752">pinyó<nouns>
+			<translations>
+				<translation catagory="food" gender="m">pine seed<plural>pinyons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4040">pinyol<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">stone (Br.) / pit (Am.) </translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="2300">pinzell<nouns>
+			<translations>
+				<translation gender="m">paintbrush</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2790">pipa<nouns>
+			<translations>
+				<translation gender="f">pipe</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="404">pipi<nouns>
+			<translations>
+				<translation register="slang" gender="m">wee (wee)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2670">piragüisme<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="m">canoeing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4920">piràmide<nouns>
+			<translations>
+				<translation catagory="maths" gender="m">pyramid</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5600">pirata<nouns>
+			<translations>
+				<translation gender="m">pirate</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>pirated / bootleg<catexamp>Enregistraments pirates</catexamp><engexamp>Bootleg / pirated recordings</engexamp></translation></translations></adjectives>
+	</Entry>
+        <Entry frequency="620">pirata informàtic<nouns>
+			<translations><date>0805</date>
+				<translation catagory="computers-internet" gender="m / f">hacker</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="670">piratejar<verbs conj="JtoG">
+			<translations><date>0805</date>
+				<translation>to pirate / to bootleg</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="7090">pirateria<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">piracy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="102">pírcing<nouns>
+			<translations>
+				<translation gender="m">piercing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27100">Pirineu<nouns>
+			<translations>
+				<translation gender="f">Pyrenees</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="383">piròman<nouns>
+			<translations>
+				<translation gender="m / f">arsonist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="41500">pis<nouns>
+			<translations>
+				<translation gender="m">flat / apartment<plural>pisos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28400">piscina<nouns>
+			<translations>
+				<translation catagory="sports-event-swimming" gender="f">(swimming) pool</translation>
+			</translations>
+		</nouns>
+	</Entry>
+         <Entry frequency="12300">pissarra<nouns>
+			<translations><date>0805</date>
+				<translation catagory="education" gender="f">blackboard (Br.) / chalkboard (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="139000">pista<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">clue</translation>
+				<translation gender="f">trail<catexamp>Segueixen la pista de l'assassí</catexamp><engexamp>They are on the trail of the killer / they are on the killer's trail</engexamp></translation>
+				<translation gender="f">track
+					<catexamp>Pista de so</catexamp><engexamp>Sound track</engexamp>
+					<catexamp>Pista d'atletisme</catexamp><engexamp>Athletics track</engexamp>
+					<catexamp>Pista de tenis</catexamp><engexamp>Tennis court</engexamp>
+					<catexamp>Pista de gel/ patinatge</catexamp><engexamp>Ice rink / skating rink</engexamp>
+					<catexamp>Pista de ball</catexamp><engexamp>Dance floor </engexamp>
+					<catexamp>Pista d'aterratge</catexamp><engexamp>Runway / airstrip / landing strip</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="292">pistatxo<nouns>
+			<translations>
+				<translation catagory="food-nut" gender="m">pistachio</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3150">pistola<nouns>
+			<translations>
+				<translation gender="f">gun / pistol</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10300">pit<nouns>
+			<translations>
+				<translation catagory="body" gender="m">chest</translation>
+                                <translation catagory="body" gender="m">breast</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="579">pitet<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">bib</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31500">pitjor<adjectives>
+			<translations>
+				<translation>worse / worst</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="595">pit-roig<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">robin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16300">píxel<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">pixel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="797000">pla<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">plan</translation>
+				<translation gender="m">shot<catexamp>Primer pla</catexamp><engexamp>Close-up</engexamp></translation>
+				<translation gender="m">level / plane</translation>
+			</translations>
+                        </nouns>
+		<adjectives>
+			<translations>
+				<translation>flat / even<fems>plana</fems><plural>plans</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+        <Entry frequency="756000">plaça<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">square<plural>places</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="3990">plaça d'aparcament<nouns>
+			<translations><date>0405</date>
+				<translation catagory="transport" gender="f">parking space / place<plural>places d'aparcament</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="423">placenta<nouns>
+			<translations>
+				<translation gender="f">placenta</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3490">pla d'empresa<nouns>
+			<translations>
+				<translation catagory="work" gender="m">business plan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14300">plaer<nouns>
+			<translations>
+				<translation gender="m">pleasure</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="560">plançó<nouns>
+			<translations>
+				<translation catagory="plants" gender="m">seedling<plural>plançons</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>     
+	<Entry frequency="3060">planejar<verbs conj="JtoG">
+			<translations>
+				<translation>to plan / to arrange</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="31500">planeta<nouns>
+			<translations>
+				<translation gender="m">planet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1520">planificador<nouns>
+			<translations>
+				<translation gender="m / f">planner</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>planning<fems>planificadora</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="17200">planificar<verbs conj="CtoQU">
+			<translations>
+				<translation>to plan / to arrange</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="42900">plànol<nouns>
+			<translations>
+				<translation gender="m">map / plan<engnote>Plànol means map but one covering a relatively small area (for example a map of a city or a map of a university campus).  If you are thinking larger scale (i.e. a map of France or a map of the world, you would use 'el mapa'.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="82800">planta<nouns>
+			<translations>
+				<translation gender="f">plant<catexamp>Planta d'interior</catexamp><engexamp>Indoor plant</engexamp></translation>
+				<translation gender="f">floor / storey<catexamp>Un edifici de catorze plantes</catexamp>
+					<engexamp>A fourteen storey building</engexamp>
+					<catexamp>Planta baixa</catexamp>
+					<engexamp>Ground floor</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8000">plantar<verbs conj="regular">
+			<translations>
+				<translation>to plant</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2070">plantar cara a<verbs conj="regular">
+			<translations>
+				<translation>to face / to stand up to</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="58700">plantejament<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">perspective</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="150000">plantejar<verbs conj="JtoG">
+			<translations><date>0605</date>
+				<translation>to bring up / to raise / to suggest</translation>
+				<translation catagory="maths">to set out</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="48900">plantilla<nouns>
+			<translations>
+				<translation catagory="work" gender="f">staff / work force</translation>
+				<translation gender="f">insole</translation>
+				<translation gender="f">pattern / template / stencil</translation>
+				<translation disambiguate="sports" gender="f">team / squad (Br.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">planxa<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">iron</translation>
+				<translation gender="f">plate / board / sheet</translation>
+				<translation gender="f">grill / griddle / hotplate</translation>
+				<translation gender="f">bloomer / blunder</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="3000">planxar<verbs conj="regular">
+			<translations>
+				<translation>to iron</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="41500">plàstic<adjectives>
+			<translations>
+				<translation>plastic<fems>plàstica</fems><femplural>plàstiques</femplural></translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation catagory="material" gender="m">plastic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1200">plastilina<nouns>
+			<translations>
+				<translation gender="f">plasticine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        \<Entry frequency="785">plastró<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">breastplate</translation>
+                                <translation disambiguate="sports-event-fencing" gender="m">plastron<plural>plastrons</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24700">plat<nouns>
+			<translations>
+				<translation catagory="household-room-kitchen">dish / plate</translation>
+				<translation catagory="food">course<engnote>'Plat' means 'course' in the sense 'part of a meal' (e.g. 'three-course meal' or 'main course')</engnote>
+					<catexamp>Primer plat</catexamp>
+					<engexamp>First course</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10400">plata<nouns>
+			<translations>
+				<translation catagory="material" gender="f">silver<synonyms>argent</synonyms></translation>
+				<translation gender="f">platter / serving dish</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="64900">plataforma<nouns>
+			<translations>
+				<translation catagory="computers" gender="f">platform<engnote>'Plataforma' means 'platform' in the computing sense or in the sense 'a place to express your views'. The platform you would find in a train station is 'andana'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2720">plàtan<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="m">banana</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="54500">platja<nouns>
+			<translations>
+				<translation gender="f">beach<plural>platges</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="642">plausible<adjectives>
+			<translations><date>0505</date>
+				<translation>plausible</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="111000">ple<adjectives>
+			<translations>
+				<translation>full<fems>plena</fems>
+					<plural>plens</plural>
+				</translation>
+			</translations>
+		</adjectives>
+                <expressions>ple a vessar
+                <translations>
+                <translation>full to the brim / full to bursting / (jam)-packed<plural>plens a vessar</plural><fems>plena a vessar</fems></translation></translations></expressions>
+                <expressions>ple com un ou
+                <translations>
+                <translation>full to the brim / full to bursting / (jam)-packed<plural>plens com un ou</plural><fems>plena com un ou</fems></translation></translations></expressions>
+                <expressions>ple de gom a gom
+                <translations>
+                <translation>full to the brim / full to bursting / (jam)-packed<plurals>plens de gom a gom</plurals><fems>plena de gom a gom</fems></translation></translations></expressions>
+	</Entry>
+	<Entry frequency="747">ple a vessar<adjectives>
+			<translations>
+				<translation>full to the brim / full to bursting / (jam)-packed<fems>plena a vessar</fems><plural>plens a vessar</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="1280">clonació<nouns>
+			<translations>
+				<translation gender="f">cloning<plural>clonacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13600">plec<nouns>
+			<translations>
+				<translation gender="m">fold</translation>
+				<translation gender="m">crease</translation>
+				<translation catagory="clothes" gender="m">pleat</translation>
+				<translation gender="m">sealed letter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25300">plegar<verbs conj="GtoGU">
+			<translations>
+				<translation>to fold</translation>
+				<translation>to finish work<engnote>plegar can mean to finish work or school for the day (e.g. 'És hora de plegar') or to finish for good (e.g. 'Linford Christie ha anunciat que plega a final de temporada')</engnote>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="87200">plegat<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">folding</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation sourceplural="plegats">together</translation>
+			</translations>
+		</adjectives>
+		<expressions>tot plegat<translations>
+			<translation>in short</translation>
+		</translations></expressions>
+	</Entry>	
+	<Entry frequency="22100">plenament<adverbs>
+			<translations>
+				<translation>fully</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="16700">plenari<adjectives>
+			<translations>
+				<translation>plenary<fems>plenària</fems></translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>plenary (meeting)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="866">plet<nouns>
+			<translations><date>0505</date>
+				<translation catagory="legal" gender="m">lawsuit</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6000">plom<nouns>
+			<translations>
+				<translation gender="m">lead</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6240">ploma<nouns>
+			<translations>
+				<translation catagory="animal" gender="f">feather</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="750">plor<nouns>
+			<translations>
+				<translation gender="m">cry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8580">plorar<verbs conj="regular">
+			<translations>
+				<translation>to cry</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="8100">ploure<verbs conj="irregular36">
+			<translations>
+				<translation catagory="weather">to rain</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="28200">pluja<nouns>
+			<translations>
+				<translation catagory="weather" gender="f">rain<plural>pluges</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+         <Entry frequency="2500">pluja d'idees<nouns>
+      <translations><date>0805</date>
+        <translation gender="f">brainstorming</translation>
+      </translations>
+    </nouns>
+  </Entry>
+	<Entry frequency="23000">pluralitat<nouns>
+			<translations>
+				<translation gender="f">plurality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="307">plusmarca<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports" gender="f">record<synonyms>rècord</synonyms><plural>plusmarques</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="381">plutoni<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">plutonium</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4570">pneumàtic<nouns>
+			<translations>
+				<translation catagory="transport" gender="m">tyre (Br.) / tire (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1760">pneumònia<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="f">pneumonia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="126000">població<nouns>
+			<translations>
+				<translation gender="f">population<plural>poblacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="120000">poble<nouns>
+			<translations>
+				<translation gender="m">town / people</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31800">pobre<adjectives>
+			<translations>
+				<translation>poor<engnote>When placed before a noun, 'pobre' means 'poor' in the sense 'unfortunate' (i.e. 'poor old John').  When placed after a noun, 'pobre' means 'poor' in the sense 'has no money'.</engnote><fems>pobra</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="13700">pobresa<nouns>
+			<translations>
+				<translation gender="f">poverty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="136000">poc<adjectives>
+			<translations>
+				<translation>little / few<fems>poca</fems><femplural>poques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11200">a poc a poc<adverbs>
+			<translations>
+				<translation>slowly / little by little / bit by bit</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="406000">poder<verbs conj="irregular28">
+			<translations>
+				<translation>can / to be able</translation>
+			</translations>
+		</verbs>
+		<nouns>
+			<translations>
+				<translation gender="m">power<catexamp>En poder de</catexamp><engexamp>In the possession of</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3100">poder adquisitiu<nouns>
+			<translations>
+				<translation gender="m">spending power</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13100">poderós<adjectives>
+			<translations>
+				<translation>powerful<fems>poderosa</fems>
+					<plural>poderosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1780">podi<nouns>
+			<translations>
+				<translation catagory="sports" gender="m">podium</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="849">podrir<verbs conj="inceptive">
+			<translations><date>0605</date>
+				<translation transitive="true">to rot</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1390">podrit<adjectives>
+			<translations>
+				<translation>rotten<fems>podrida</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="67700">poema<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">poem</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="118000">poesia<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">poetry</translation>
+				<translation gender="f">poem</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28000">poeta<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">poet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2080">polarització<nouns>
+			<translations>
+				<translation gender="f">polarization<plural>polaritzacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15000">polèmica<nouns>
+			<translations>
+				<translation gender="f">controversy / polemic / dispute<plural>polèmiques</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="51800">policia<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">policeman / policewoman</translation>
+				<translation catagory="work" gender="f">police</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11800">policial<adjectives>
+			<translations>
+				<translation>police</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="17000">polígon<nouns>
+			<translations>
+				<translation catagory="maths" gender="m">polygon<catexamp>Polígon industrial</catexamp>
+					<engexamp>Industrial estate</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="281">poliinsaturat<adjectives>
+			<translations><date>0405</date>
+				<translation>polyunsaturated<fems>poliinsaturada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="7840">polir<verbs conj="inceptive">
+			<translations><date>0305</date>
+				<translation>to polish</translation>
+                                <translation>to steal<example>Li van &lt;b&gt;polir&lt;/b&gt; la cartera.</example></translation>
+			</translations>
+		</verbs>
+	</Entry>
+        	<Entry frequency="15900">pòlissa<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">policy<catexamp>Pòlissa d'assegurança</catexamp><engexamp>Insurance policy</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="130000">polític<nouns>
+			<translations>
+				<translation catagory="politics, work-job" gender="m / f">politician</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation catagory="politics">political<fems>política</fems><femplural>polítiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="110000">política<nouns>
+			<translations>
+				<translation catagory="politics" gender="f">politics</translation>
+				<translation gender="f">policy<femplural>polítiques</femplural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+          <Entry frequency="21100">políticament<adverbs>
+			<translations><date>0705</date>
+				<translation>políticament</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+          <Entry frequency="3680">políticament correcte<adjectives>
+			<translations><date>0705</date>
+				<translation>políticament correcte<fems>políticament correcta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="765">politòleg<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">political scientist<fems>politòloga</fems><femplural>politòlogues</femplural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="61">politologia<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">political science<synonyms>ciències polítiques</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7460">poll<nouns>
+			<translations><date>0605</date>
+				<translation catagory="animal-insect" gender="m">louse</translation>
+				<translation catagory="animal" gender="m">chick / young bird</translation>
+				<translation catagory="plant-tree" gender="m">poplar<synonyms>pollancre</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="299">polla d'aigua<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">moorhen</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6270">pollastre<nouns>
+			<translations>
+				<translation catagory="food-meat" gender="m">chicken</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="824">Pol Nord<nouns>
+			<translations>
+				<translation catagory="geography" gender="m">North Pole</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6950">polonès<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Polish</translation>
+				<translation catagory="nationality-europe" gender="m / f">Pole</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Polish<fems>polonesa</fems>
+					<plural>polonesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6330">Polònia<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="f">Poland</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="154">polp<nouns>
+			<translations>
+				<translation catagory="food-seafood, animal-sea" gender="m">octopus</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17100">pols<nouns>
+			<translations>
+				<translation catagory="medical" gender="m">pulse</translation>
+				<translation gender="f">dust</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2020">polsar<verbs conj="regular">
+			<translations>
+				<translation>to press</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="542">polsera<nouns>
+			<translations>
+				<translation catagory="clothes-accessories" gender="f">bracelet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="516">polsim<nouns>
+			<translations>
+				<translation gender="m">pinch<engnote>'Polsim' means 'pinch' as in 'a pinch of pepper'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="510">Pol Sud<nouns>
+			<translations>
+				<translation catagory="geography" gender="m">South Pole</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1170">polzada<nouns>
+			<translations>
+				<translation gender="f">inch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6780">poma<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="f">apple</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="160">pòmul<nouns>
+			<translations>
+				<translation catagory="body" gender="m">cheekbone</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="150000">pont<nouns>
+			<translations>
+				<translation gender="m">bridge</translation>
+				<translation gender="m">long weekend</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="780">pontífex<nouns>
+			<translations><date>0405</date>
+				<translation catagory="religious" gender="m">Pontiff</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="222">pont penjant<nouns>
+			<translations>
+				<translation gender="m">suspension bridge</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="728">popa<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transport" gender="f">stern</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="306000">popular<adjectives>
+			<translations>
+				<translation>popular</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="82900">por<nouns>
+			<translations>
+				<translation gender="f">fear</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11200">porc<nouns>
+			<translations>
+				<translation catagory="food-meat" gender="m">pork</translation>
+				<translation catagory="animal-animal" gender="m">pig</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1720">pornogràfic<adjectives>
+			<translations>
+				<translation>pornographic<fems>pornogràfica</fems><femplural>pornogràfiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="961">pornografia<nouns>
+			<translations>
+				<translation gender="f">pornography</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2300">porro<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="m">leek</translation>
+				<translation register="slang" gender="m">spliff</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="80800">port<nouns>
+			<translations>
+				<translation catagory="transport" gender="m">port</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="439000">porta<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">door<catexamp>A porta tancada</catexamp><engexamp>Behind closed doors</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="230">portaavions<nouns>
+			<translations>
+				<translation catagory="transport-mode" gender="f">aircraft carrier<plural>none</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="103">portabroques<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">chuck</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="207000">portada<nouns>
+			<translations>
+				<translation>(front) cover<catnote>'(Front) cover' vol dir la portada d'un llibre o una revista.</catnote>
+					<engnote>'Portada' means the front cover of a book or magazine.</engnote>
+				</translation>
+				<translation>front page<catnote>'Front page' és la portada d'un diari</catnote>
+					<engnote>In the case of 'newspaper', 'portada' means 'front page'.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="77300">portal<nouns>
+			<translations>
+				<translation catagory="computers-internet" gender="m">portal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="145000">portar<verbs conj="regular">
+			<translations>
+				<translation>to take / carry / to bring<catexamp>Portar a</catexamp>
+					<engexamp>To lead to</engexamp>
+				</translation>
+				<translation catagory="clothes">to wear</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="23600">portàtil<adjectives>
+			<translations><date>0405</date>
+                        <translation>portable<catexamp>Ordinador portàtil</catexamp><engexamp>Laptop (computer)</engexamp></translation>
+                        </translations>
+                        </adjectives>
+                        <nouns>
+                        <translations>
+				<translation catagory="computers" gender="m">laptop</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24500">portaveu<nouns>
+			<translations>
+				<translation gender="m / f">spokesman / spokeswoman</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8300">porter<nouns>
+			<translations>
+				<translation catagory="sports-event-football" gender="m / f">goalkeeper / goalie (col·loq)</translation>
+				<translation catagory="work-job">caretaker (Br.) / janitor (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3170">porteria<nouns>
+			<translations>
+				<translation catagory="sports-event-football" gender="f">goal<engnote>'Porteria' means 'goal' as in the actual goal area (i.e. 'Victor Baia is in goal for Portugal' or 'He raced up the field towards the goal').  'Goal' in the sense 'he scored a goal' is 'el gol'.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18700">pòrtic<nouns>
+			<translations>
+				<translation gender="m">portico / porch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5290">portuari<adjectives>
+			<translations>
+				<translation>port<catexamp>Autoritat Portuària</catexamp>
+					<engexamp>Port Authority</engexamp>
+					<fems>portuària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="15800">Portugal<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="m">Portugal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12400">portuguès<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Portuguese</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Portuguese<fems>portuguesa</fems>
+					<plural>portuguesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="211000">posar<verbs conj="regular">
+			<translations>
+				<translation>to put / to place</translation>
+			</translations>
+		</verbs>
+                <expressions>posar-se al dia (en alguna cosa)
+                <translations>
+                <translation>to catch up (on something)</translation></translations></expressions>
+                <expressions>posar-se en contacte (amb algú)
+                <translations>
+                <translation>to contact (someone)<catexamp>No dubtis en posar-te en contacte amb nosaltres</catexamp><engexamp>Don't hesitate to contact us</engexamp></translation></translations></expressions>
+                <expressions>posar-se vermell
+                <translations>
+                <translation>to blush / to go red / to turn red</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="162000">posició<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">position<plural>posicions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="663">pòsit<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">dregs / sediment<synonyms>sediment</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="57900">positiu<adjectives>
+			<translations>
+				<translation>positive<fems>positiva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        	<Entry frequency="331">positura<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">posture / stance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="42500">posseir<verbs conj="irregular2">
+			<translations><date>0505</date>
+				<translation>to own / to possess / to have / to hold<catexamp>L'arròs blanc no posseeix el valor nutricional de l'integral</catexamp><engexamp>White rice doesn't have the nutritional value of brown (rice)</engexamp></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="27200">possessió<nouns>
+			<translations>
+				<translation gender="f">possession<plural>possessions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="118000">possibilitat<nouns>
+			<translations>
+				<translation gender="f">possibility</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="164000">possible<adjectives>
+			<translations>
+				<translation>possible</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="16900">possiblement<adverbs>
+			<translations>
+				<translation>possibly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="62500">postal<nouns>
+			<translations>
+				<translation gender="f">postcard</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="66500">posterior<adjectives>
+			<translations>
+				<translation>later</translation>
+				<translation>back / rear</translation>
+				<translation>following</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="48400">posteriorment<adverbs>
+			<translations>
+				<translation>subsequently / afterwards</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="22500">postgrau<nouns>
+			<translations>
+				<translation>postgraduate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="235">postnatal<adjectives>
+			<translations>
+				<translation catagory="medical">postnatal (Br.) / postpartum (Am.)</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="498">postpart<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="medical">postnatal (Br.) / postpartum (Am.)<catexamp>Depressió postpart</catexamp><engexamp>Postnatal (Br.) / postpartum (Am.) depression</engexamp></translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="medical" gender="m">postnatal (Br.) / postpartum (Am.) period</translation></translations></nouns>
+	</Entry>
+        	<Entry frequency="34000">postura<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">posture / stance</translation>
+                                <translation gender="f">position</translation>
+                                <translation gender="f">bid<engnote>'Postura' means 'bid' in the sense 'bid at auction'.</engnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6280">pota<nouns>
+			<translations>
+				<translation catagory="animal" gender="f">paw</translation>
+				<translation>leg<engnote>'Pota' means 'leg' as in a chair or table leg, not as in the part of the body your foot's attached to, which is 'cama'.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24300">potència<nouns>
+			<translations>
+				<translation gender="f">power</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="71800">potencial<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">potential</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>potential</translation></translations></adjectives>
+	</Entry>
+        <Entry frequency="12300">potencialment<adverbs>
+			<translations><date>0405</date>
+				<translation>potentially</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="45200">potenciar<verbs conj="irregular1">
+			<translations>
+				<translation>to promote / to strengthen</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="15600">potent<adjectives>
+			<translations>
+				<translation>powerful</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="67100">potser<adverbs>
+			<translations>
+				<translation>perhaps</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="20500">pou<nouns>
+			<translations>
+				<translation gender="m">well</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="70000">pràctic<adjectives>
+			<translations>
+				<translation>practical<fems>pràctica</fems><femplural>pràctiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="70000">pràctica<nouns>
+			<translations>
+				<translation gender="f">practice<plural>pràctiques</plural>
+					<catexamp>En teoria ... a la pràctica</catexamp>
+					<engexamp>In theory ... in practice</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34500">practicar<verbs conj="CtoQU">
+			<translations>
+				<translation>to practice (Am.) / to practise (Br.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7280">Praga<nouns>
+			<translations>
+				<translation catagory="city-europe-czechrepublic" gender="f">Prague</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3100">pragmàtic<adjectives>
+			<translations>
+				<translation>pragmatic<fems>pragmàtica</fems><femplural>pragmàtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="823">pragmatisme<nouns>
+			<translations>
+				<translation gender="m">pragmatism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="54900">prat<nouns>
+			<translations>
+				<translation gender="m">meadow</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6240">preàmbul<nouns>
+			<translations>
+				<translation gender="m">preamble</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7580">precari<adjectives>
+			<translations>
+				<translation>precarious<fems>precària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="203">precàriament<adverbs>
+			<translations><date>0705</date>
+				<translation>precariously</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        <Entry frequency="20200">precarietat<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">precariousness</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="19500">precaució<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">precaution<plural>precaucions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8140">preciós<adjectives>
+			<translations>
+				<translation>previous</translation>
+				<translation>gorgeous / lovely / beautiful<plural>preciosos</plural>
+					<fems>preciosa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11400">precipitació<nouns>
+			<translations>
+				<translation gender="f">hurry</translation>
+				<translation catagory="weather" gender="f">rain / rainfall<plural>precipitacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3400">precipitar<verbs conj="regular">
+			<translations>
+				<translation>to hurry</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="59800">precís<adjectives>
+			<translations><date>0505</date>
+				<translation>precise / exact / accurate<fems>precisa</fems><plural>precisos</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="93900">precisament<adverbs>
+			<translations><date>0505</date>
+				<translation>precisely / exactly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        <Entry frequency="38400">precisió<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">precision / accuracy<catexamp>Amb precisió</catexamp><engexamp>Accurately / precisely</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5220">precoç<adjectives>
+			<translations>
+				<translation>precocious</translation>
+				<translation>premature / early</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="292">predador<nouns>
+			<translations>
+				<translation gender="m">predator</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1950">predecessor<nouns>
+			<translations>
+				<translation gender="m / f">predecessor<fems>predecessora</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3830">predicar<verbs conj="CtoQU">
+			<translations>
+				<translation catagory="religious">to preach</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7270">predicció<nouns>
+			<translations>
+				<translation gender="f">prediction<plural>prediccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3860">predir<verbs conj="irregular18">
+			<translations>
+				<translation>to predict</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4800">predominant<adjectives>
+			<translations>
+				<translation>predominant / prevailing</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6920">predominar<verbs conj="regular">
+			<translations>
+				<translation>to predominate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5720">predomini<nouns>
+			<translations>
+				<translation gender="m">predominance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1590">preelectoral<adjectives>
+			<translations>
+				<translation catagory="politics">pre-electoral<catexamp>Pacte preelectoral</catexamp>
+					<engexamp>Pre-electoral pact</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="301">preestrena<nouns>
+			<translations>
+				<translation gender="f">preview</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20900">preferència<nouns>
+			<translations>
+				<translation gender="f">preference</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13800">preferentment<adverbs>
+			<translations>
+				<translation>preferably</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="4480">preferible<adjectives>
+			<translations>
+				<translation>preferable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="16800">preferir<verbs conj="inceptive">
+			<translations>
+				<translation>to prefer</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6330">pregar<verbs conj="GtoGU">
+			<translations>
+				<translation catagory="religious">to pray</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6670">pregària<nouns>
+			<translations>
+				<translation catagory="religious" gender="f">prayer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="81500">pregunta<nouns>
+			<translations>
+				<translation gender="f">question</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="40000">preguntar<verbs conj="regular">
+			<translations>
+				<translation>to ask</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="9960">prejudici<nouns>
+			<translations>
+				<translation gender="m">prejudice</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="393">prejutjar<verbs conj="JtoG">
+			<translations>
+				<translation>to prejudge</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1840">prelat<nouns>
+			<translations>
+				<translation catagory="religious" gender="m">prelate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10200">preliminar<adjectives>
+			<translations>
+				<translation>preliminary</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="204">prematrimonial<adjectives>
+			<translations><date>0405</date>
+				<translation>premarital</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="12000">prémer<verbs conj="irregular37">
+			<translations>
+				<translation>to push</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="96700">premi<nouns>
+			<translations>
+				<translation gender="m">prize</translation>
+			</translations>
+		</nouns>
+	</Entry>
+         	<Entry frequency="23000">premiar<verbs conj="irregular1">
+			<translations><date>0805</date>
+				<translation>to reward</translation>
+			</translations>
+		</verbs>
+	</Entry>
+         	<Entry frequency="28400">premiat<adjectives>
+			<translations><date>0805</date>
+				<translation>award-winning<fems>premiada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="106000">premsa<nouns>
+			<translations>
+				<translation gender="f">press</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1030">prenatal<adjectives>
+			<translations>
+				<translation catagory="medical">antenatal (Br.) / prenatal (Am.)</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="88700">prendre<verbs conj="irregular6">
+			<translations>
+				<translation>to take<catexamp>Prendre una decisió</catexamp><engexamp>To take a decision</engexamp></translation>
+                                <translation>to have<catexamp>Prendre un café</catexamp><engexamp>To have a coffee</engexamp><catexamp>Prendre un entrepà</catexamp><engexamp>To have a sandwich</engexamp></translation>
+                                <translation>to catch</translation>
+			</translations>
+		</verbs>
+                <expressions>prendre el sol
+                <translations>
+                <translation>to sunbathe</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="24500">preocupació<nouns>
+			<translations>
+				<translation gender="f">worry<plural>preocupacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8540">preocupant<adjectives>
+			<translations>
+				<translation>worrying</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="19000">preocupar<verbs conj="regular">
+			<translations>
+				<translation>to worry</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="10600">preocupat<adjectives>
+			<translations>
+				<translation>worried<fems>preocupada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="70000">preparar<verbs conj="regular">
+			<translations>
+				<translation>to prepare</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="46500">preparat<adjectives>
+			<translations>
+				<translation>prepared / ready<fems>preparada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="88700">pres<nouns>
+			<translations><date>0505</date>
+				<translation gender="m / f">prisoner<fems>presa</fems><plural>presos</plural></translation>
+			</translations>
+		</nouns>,
+	</Entry>	
+	<Entry frequency="27200">presa<nouns>
+			<translations>
+				<translation gender="f">dam<catexamp>Presa (artificial)</catexamp><engexamp>Barrage</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="490">presagi<nouns>
+			<translations>
+				<translation gender="m">omen</translation>
+				<translation gender="m">premonition</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="484">presagiar<verbs conj="irregular1">
+			<translations>
+				<translation>to presage</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="13600">prescindir<verbs conj="inceptive">
+			<translations>
+				<translation>to do without / to miss out / to cut out</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="83800">presència<nouns>
+			<translations>
+				<translation gender="f">presence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9480">presenciar<verbs conj="irregular1">
+			<translations>
+				<translation>to witness</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="460000">present<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">present</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations><date>0505</date>
+				<translation>present</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="169000">presentació<nouns>
+			<translations>
+				<translation gender="f">presentation<plural>presentacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="191000">presentar<verbs conj="regular">
+			<translations>
+				<translation>to present</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="22100">preservació<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">preservation / protection</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="36200">preservar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to preserve / to protect</translation>
+			</translations>
+    		</verbs>
+	</Entry>
+        <Entry frequency="717">preservatiu<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">condom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="53300">presidència<nouns>
+			<translations>
+				<translation catagory="politics" gender="f">presidency</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3410">presidencial<adjectives>
+			<translations>
+				<translation>presidential</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="125000">president<nouns>
+			<translations>
+				<translation catagory="politics" gender="m / f">president</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19000">presó<nouns>
+			<translations>
+				<translation gender="f">prison<plural>presons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4970">presoner<nouns>
+			<translations>
+				<translation gender="m / f">prisoner<catexamp>Presoner de guerra</catexamp>
+					<engexamp>Prisoner of war</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14300">pressa<nouns>
+			<translations>
+				<translation gender="f">hurry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1840">préssec<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="m">peach</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="43600">pressió<nouns>
+			<translations>
+				<translation gender="f">pressure<plural>pressions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4880">pressionar<verbs conj="regular">
+			<translations>
+				<translation>to pressurize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="79600">pressupost<nouns>
+			<translations>
+				<translation catagory="financial" gender="m">budget<plural>pressupostos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="35600">prestar<verbs conj="regular">
+			<translations>
+				<translation catagory="financial">to lend<catexamp>Prestar atenció a</catexamp>
+					<engexamp>To pay attention to</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2270">prestatge<nouns>
+			<translations>
+				<translation gender="m">shelf</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24700">préstec<nouns>
+			<translations>
+				<translation catagory="financial" gender="m">loan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19700">prestigi<nouns>
+			<translations>
+				<translation gender="m">prestige</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="763">presumiblement<adverbs>
+			<translations>
+				<translation>presumably / probably</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="7940">presumir<verbs conj="irregular55">
+			<translations><date>0705</date>
+				<translation>to suppose / to presume</translation>
+				<translation>to boast / to show off</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="655">presumit<adjectives>
+			<translations>
+				<translation>conceited / vain<fems>presumida</fems>
+				</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>show off<fems>presumida</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">presumpte<adjectives>
+			<translations>
+				<translation>alleged<fems>presumpta</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="817">presumptament<adverbs>
+			<translations><date>0405</date>
+				<translation>allegedly / supposedly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        <Entry frequency="188000">pretendre<verbs>
+			<translations><date>0805</date>
+				<translation>to claim</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="111000">preu<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">price</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="52900">prevenció<nouns>
+			<translations>
+				<translation gender="f">prevention<plural>prevencions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14900">prevenir<verbs conj="irregular5">
+			<translations>
+				<translation>to prevent</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="18600">preventiu<adjectives>
+			<translations>
+				<translation>preventive<catexamp>Medicina preventiva</catexamp>
+					<engexamp>Preventive medicine</engexamp>
+					<catexamp>Mesura preventiva</catexamp>
+					<engexamp>Preventive measure</engexamp>
+					<fems>preventiva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="96700">preveure<verbs conj="irregular29">
+			<translations>
+				<translation>to predict / to anticipate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="208000">previ<adjectives>
+			<translations>
+				<translation>previous<catexamp>Previ a...</catexamp>
+					<engexamp>Prior to...</engexamp>
+					<fems>prèvia</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="46200">prèviament<adverbs>
+			<translations>
+				<translation>in advance / beforehand / previously</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="8480">previsible<adjectives>
+			<translations>
+				<translation>foreseeable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="49900">previsió<nouns>
+			<translations>
+				<translation catagory="weather" gender="f">forecast</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28300">prim<adjectives>
+			<translations>
+				<translation>thin / slim<catnote>La paraula 'slim' té connotacions positives. Si dius a una persona 'You are very slim' aquesta persona estarà molt contenta. 'Thin' pot ser una paraula neutral o pot tenir connotacions negatives (depén del context).</catnote>
+				</translation>
+                                <translation>first<catexamp>Matèries primes</catexamp><engexamp>Raw materials</engexamp><fems>prima</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+                <Entry frequency="18000">prima<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">bonus</translation>
+                                <translation gender="f">premium</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="50000">primari<adjectives>
+			<translations>
+				<translation>primary<fems>primària</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="15350">primària<nouns>
+			<translations>
+				<translation catagory="education" gender="f">primary school (Br.) / elementary school (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1940">primat<nouns>
+			<translations>
+				<translation catagory="animal-animal" gender="m">primate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="29100">primavera<nouns>
+			<translations>
+				<translation catagory="time-season" gender="f">spring</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="346000">primer<adjectives>
+			<translations>
+				<translation>first<fems>primera</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7200">primer ministre<nouns>
+			<translations><date>0405</date>
+				<translation catagory="politics" gender="m / f">prime minister<fems>primer ministra</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="9360">primers auxilis<nouns>
+			<translations><date>0805</date>
+				<translation gender="mpl">first aid</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="754">a primers de<adverbs>
+			<translations><date>0405</date>
+				<translation>at the beginning of<catexamp>A primers de juliol</catexamp><engexamp>At the beginning of July</engexamp></translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="34800">príncep<nouns>
+			<translations><date>0405</date>
+				<translation catagory="monarchy" gender="m">prince</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13900">princesa<nouns>
+			<translations><date>0405</date>
+				<translation catagory="monarchy" gender="f">princess</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="705000">principal<adjectives>
+			<translations><date>0405</date>
+				<translation>main / principal / chief</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="103000">principalment<adverbs>
+			<translations><date>0805</date>
+				<translation>mainly / chiefly / principally</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="481000">principi<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">beginning</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="77900">principiant<nouns>
+			<translations><date>0405</date>
+				<translation gender="m / f">beginner</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="33000">prioritat<nouns>
+			<translations>
+				<translation gender="f">priority</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17600">prioritzar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation>to prioritize (Am.) / to prioritise (Br.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="777">prismàtics<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">binoculars</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9960">privadesa<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">privacy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="677000">privat<adjectives>
+			<translations><date>0405</date>
+				<translation>private<fems>privada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10500">privatització<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">privatization<plural>privatizacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26100">privilegi<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">privilege</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="28700">privilegiat<adjectives>
+			<translations><date>0405</date>
+				<translation>privileged<fems>privilegiada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="28500">proa<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transport" gender="f">bow / prow</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24300">probabilitat<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">probability</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14300">probable<adjectives>
+			<translations>
+				<translation>probable / likely</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="25200">probablement<adverbs>
+			<translations>
+				<translation>probably</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="297000">problema<nouns>
+			<translations>
+				<translation gender="m">problem</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="32300">problemàtic<adjectives>
+			<translations>
+				<translation>problematic<fems>problemàtica</fems><femplural>problemàtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="116000">procedent de<expressions>
+			<translations><date>0505</date>
+				<translation>(coming) from<example>Els trens &lt;b&gt;procedents de&lt;/b&gt; qualsevol punt de la península paren a l'estació del Nord.</example></translation>
+			</translations>
+		</expressions>
+	</Entry>
+	<Entry frequency="92700">procediment<nouns>
+			<translations>
+				<translation gender="m">procedure</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="158000">procés<nouns>
+			<translations>
+				<translation gender="m">process<plural>processos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8650">processador<nouns>
+			<translations>
+				<translation gender="m">processor<catexamp>Processador de textos</catexamp>
+					<engexamp>Word processor</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8020">processar<verbs conj="regular">
+			<translations>
+				<translation catagory="legal">to prosecute</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6690">processó<nouns>
+			<translations>
+				<translation gender="f">procession<plural>processons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14700">procurar<verbs conj="regular">
+			<translations>
+				<translation>to try</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4450">prodigiós<adjectives>
+			<translations>
+				<translation>prodigious<plural>prodigiosos</plural>
+					<fems>prodigiosa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="107000">producció<nouns>
+			<translations>
+				<translation gender="f">production</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="126000">producte<nouns>
+			<translations>
+				<translation gender="m">product</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24700">productiu<adjectives>
+			<translations>
+				<translation>productive<fems>productiva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="18300">productor<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">producer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="103000">produir<verbs conj="irregular2">
+			<translations>
+				<translation>to produce</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="915">profecia<nouns>
+			<translations>
+				<translation catagory="religious" gender="f">prophecy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3780">profeta<nouns>
+			<translations>
+				<translation catagory="religious" gender="m / f">prophet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="208000">professional<adjectives>
+			<translations>
+				<translation>professional</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>professional</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="135000">professor<nouns>
+			<translations>
+				<translation catagory="work-job, education" gender="m / f">teacher</translation>
+			</translations>
+		</nouns>
+	</Entry>
+<Entry frequency="506">profilàctic<adjectives>
+			<translations>
+				<translation catagory="medical">prophylactic<fems>profilàctica</fems><femplural>profilàctiques</femplural></translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="medical" gender="m">prophylactic</translation></translations></nouns>
+	</Entry>
+         	<Entry frequency="33100">profit<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">benefit / advantage</translation>
+			</translations>
+		</nouns>
+                <expressions>bon profit
+                <translations>
+                <translation catagory="food">bon appetit!</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="33700">profund<adjectives>
+			<translations>
+				<translation>deep<fems>profunda</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="24700">profundament<adverbs>
+			<translations><date>0705</date>
+                        <translation>deeply</translation>
+				<translation>acutely</translation>
+                                <translation>bitterly<catexamp>Profundament decebut</catexamp><engexamp>Bitterly disappointed</engexamp></translation>
+			</translations>
+		</adverbs>
+	</Entry>	
+        <Entry frequency="3860">progenitor<nouns>
+			<translations><date>0505</date>
+				<translation gender="m / f">ancestor<fems>progenitora</fems></translation>
+                                <translation gender="mpl">parents</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="625000">programa<nouns>
+			<translations>
+				<translation gender="m">program (Am.) / programme (Br.)</translation>
+				<translation catagory="computers-programming" gender="m">program</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7040">programador<nouns>
+			<translations>
+				<translation catagory="work-job, computers-programming" gender="m / f">programmer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25000">programar<verbs conj="regular">
+			<translations>
+				<translation>to program</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="31600">programari<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">software</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="283">programari de codi obert<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">open source software</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15700">programari lliure<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">free software</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="717">programari propietari<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">proprietary software</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31000">progrés<nouns>
+			<translations>
+				<translation>progress<plural>progressos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10500">progressista<adjectives>
+			<translations>
+				<translation>progressive</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="26500">progressiu<adjectives>
+			<translations>
+				<translation>progressive<fems>progressiva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+          <Entry frequency="34500">prohibició<nouns>
+			<translations>
+				<translation gender="f">ban<plural>prohibicions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12000">prohibir<verbs conj="inceptive">
+			<translations>
+				<translation>to ban</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="34300">prohibit<adjectives>
+			<translations>
+				<translation>banned<fems>prohibida</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="31700">projecció<nouns>
+			<translations>
+				<translation gender="f">projection<plural>projeccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="40400">projectar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to plan</translation>
+                                <translation>to screen</translation>
+                                <translation>to project</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="230000">projecte<nouns>
+			<translations>
+				<translation gender="m">project</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="10500">projecte de llei<nouns>
+			<translations><date>0405</date>
+				<translation catagory="legal" gender="m">bill</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="643">projectil<nouns>
+			<translations>
+				<translation gender="m">missile</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9400">pròleg<nouns>
+			<translations>
+				<translation gender="m">prologue</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="13700">proliferació<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">proliferation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4930">prolongar<verbs conj="GtoGU">
+			<translations>
+				<translation>to prolong</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="389">promès<nouns>
+			<translations>
+				<translation catagory="family-marriage" gender="m">fiancé</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14200">promesa<nouns>
+			<translations>
+				<translation gender="f">promise</translation>
+				<translation catagory="family-marriage" gender="f">fiancée</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5540">prometedor<adjectives>
+			<translations><date>0705</date>
+				<translation>promising<fems>prometedora</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="29000">prometre<verbs conj="irregular4">
+			<translations><date>0705</date>
+				<translation>to promise</translation>
+			</translations>
+		</verbs>
+	</Entry>
+           <Entry frequency="14800">promig<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">average<synonyms>mitjana</synonyms></translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>average<synonyms>mitjà</synonyms></translation></translations></adjectives>
+	</Entry>
+       	<Entry frequency="599">promiscu<adjectives>
+			<translations><date>0705</date>
+				<translation>promiscuous<fems>promíscua</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="186000">promoure<verbs conj="irregular13">
+			<translations><date>0705</date>
+				<translation>to promote</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="12600">pronòstic<nouns>
+			<translations><date>0705</date>
+				<translation catagory="weather" gender="m">forecast</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3610">pronosticar<verbs conj="CtoQU">
+			<translations><date>0705</date>
+				<translation catagory="weather">to forecast</translation>
+				<translation>to predict</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="804">pronunciació<nouns>
+			<translations><date>0505</date>
+				<translation catagory="linguistics" gender="f">pronunciation<plural>pronunciacions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8090">pronunciament<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">statement / pronouncement</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="36400">pronunciar<verbs conj="irregular1">
+			<translations><date>0705</date>
+				<translation>to pronounce</translation>
+				<translation>to give<catexamp>Pronunciar una conferència</catexamp>
+					<engexamp>To give a lecture</engexamp>
+					<catexamp>Pronunciar un discurs</catexamp>
+					<engexamp>To give a talk / speech</engexamp>
+				</translation>
+				<translation>to pass sentence</translation>
+				<translation>to speak out<catexamp>Pronunciar-se sobre alguna cosa</catexamp>
+					<engexamp>To speak out about / to speak publically about something</engexamp>
+					<catexamp>Pronunciar-se en contra d'alguna cosa</catexamp>
+					<engexamp>to speak out against / to declare yourself against something</engexamp>
+					<catexamp>Pronunciar-se a favor d'alguna cosa</catexamp>
+					<engexamp>To speak out in favour of / to declare yourself in favour of something</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="206000">prop<prepositions>
+			<translations><date>0305</date>
+				<translation>near<catexamp>A prop de</catexamp>
+					<engexamp>Near (to)</engexamp>
+					<catexamp>Prop de</catexamp>
+					<engexamp>Nearly / almost</engexamp>
+				</translation>
+			</translations>
+		</prepositions>
+	</Entry>
+                <Entry frequency="7430">propagació<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">propagation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="4680">propagar<verbs conj="GtoGU">
+			<translations><date>0405</date>
+				<translation>to spread</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="622">propensió<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">propensity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="384000">proper<adjectives>
+			<translations><date>0705</date>
+				<translation>next<fems>propera</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="955000">propi<adjectives>
+			<translations><date>0705</date>
+				<translation>own<fems>pròpia</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="121000">propietari<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">owner<fems>propietària</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="263000">propietat<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">property<catexamp>Programari de propietat</catexamp><engexamp>Proprietary software</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3680">propina<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">tip / gratuity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="55400">proporció<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">proportion<plural>proporcions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31500">proporcional<adjectives>
+			<translations><date>0705</date>
+				<translation>proportional / proportionate</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10700">proporcionalment<adverbs>
+			<translations><date>0705</date>
+				<translation>proportionally / proportionately</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="133000">proporcionar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to provide / to furnish / to supply</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="254000">proposar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to propose / to suggest</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="44700">proposició<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">proposal / suggestion<plural>proposicions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="62200">propòsit<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">intention / purpose</translation>
+			</translations>
+		</nouns>
+                <expressions>a propòsit de
+                <translations>
+                <translation>about / regarding / as regards</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="1530000">proposta<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">proposal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7270">propugnar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to suggest / to put forward</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="24600">prosa<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">prose</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5770">pròsper<adjectives>
+			<translations><date>0705</date>
+				<translation>prosperous<fems>pròspera</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="1440">pròstata<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">prostate<catexamp>Càncer de pròstata</catexamp><engexamp>Prostate cancer</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+         <Entry frequency="2190">prostíbul<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">brothel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="3570">prostitució<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">prostitution</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4300">prostituta<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">prostitute</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="97200">protagonista<nouns>
+			<translations><date>0305</date>
+				<translation gender="m / f">main character / protagonist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="320000">protecció<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">protection<plural>proteccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="96000">protegir<verbs conj="inceptive">
+			<translations><date>0705</date>
+				<translation>to protect</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="21900">proteïna<nouns>
+			<translations><date>0705</date>
+				<translation catagory="chemistry">protein</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="89100">protocol<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">protocol</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="207000">prou<adverbs>
+			<translations><date>0705</date>
+				<translation>enough</translation>
+			</translations>
+		</adverbs>
+		<adjectives>
+			<translations>
+				<translation>enough</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="327000">prova<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">test</translation>
+				<translation gender="f">proof / evidence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="80000">provar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to try (out)</translation>
+                                <translation>to prove</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="109000">proveïdor<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">provider</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10400">proveïment<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">provision</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="43500">provenir<verbs conj="irregular5">
+			<translations><date>0705</date>
+				<translation>to come from</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4200">proverbi<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">proverb</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="176000">província<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">province</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="43000">provinent<adjectives>
+			<translations><date>0705</date>
+				<translation>coming from / originating from<engnote>'Provinent' is followed by the preposition 'de'</engnote>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="64200">provisió<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">provision<plural>provisions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="126000">provisional<adjectives>
+			<translations><date>0705</date>
+				<translation>provisional</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="149000">provocar<verbs conj="CtoQU">
+			<translations><date>0705</date>
+				<translation>to cause / to provoke</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="108">proxeneta<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">pimp</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="133000">pròxim<adjectives>
+			<translations><date>0705</date>
+				<translation>next</translation>
+                                <translation>close<fems>pròxima</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7970">pròximament<adverbs>
+			<translations><date>0705</date>
+				<translation>soon</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="7100">Pròxim Orient<nouns>
+			<translations><date>0705</date>
+				<translation catagory="region-asia" gender="m">Middle East</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10500">prudent<adjectives>
+			<translations><date>0705</date>
+				<translation>cautious</translation>
+				<translation>wise</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5880">pruna<nouns>
+			<translations><date>0705</date>
+				<translation catagory="food-fruit" gender="f">plum / prune<engnote>A classic 'just to catch you out' on Catalan exams and test papers. A prune is a dried plum. The Catalans have just the one word 'pruna' that covers both 'plum' and 'prune'. Characters in Catalan exam papers always eat 'melmelada de pruna' (plum jam) on their toast, never strawberry jam ;-)</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12100">pseudònim<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">pseudonym</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26500">psicòleg<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical-job, work-job" gender="m / f">psychologist<fems>psicòloga</fems><femplural>psicòlogues</femplural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="121000">psicologia<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical-field, work-field" gender="f">psychology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="48500">psicològic<adjectives>
+			<translations><date>0705</date>
+				<translation>psychological<fems>psicològica</fems><femplural>psicològiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="832">psicològicament<adverbs>
+			<translations>
+				<date>0705</date>
+				<translation>psychologically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="1600">psicòpata<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">psychopath</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1810">psiquiatre<nouns>
+			<translations>
+				<translation catagory="medical-job, work-job" gender="m / f">psychiatrist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4360">psiquiatria<nouns>
+			<translations>
+				<translation catagory="medical-field, work-field" gender="f">psychiatry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21600">PSOE<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">-<catacro>Partit Socialista Obrer Espanyol</catacro>
+					<engnote>Spanish labour party</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="462">psoriasi<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="f">psoriasis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="666">pubertat<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">puberty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="284000">públic<adjectives>
+			<translations>
+				<translation>public<fems>pública</fems><femplural>públiques</femplural></translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>public</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="181000">publicació<nouns>
+			<translations>
+				<translation gender="f">publication<plural>publicacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="118000">publicar<verbs conj="CtoQU">
+			<translations>
+				<translation>to publish</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="905">publicista<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">publicist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1800">publicitar<verbs conj="regular">
+			<translations>
+				<translation>to publicize / to publicise (Br.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="21400">publicitari<adjectives>
+			<translations>
+				<translation>advertising<fems>publicitària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="80300">publicitat<nouns>
+			<translations>
+				<translation gender="f">advertising</translation>
+			</translations>
+		</nouns>
+	</Entry>
+           <Entry frequency="225">publireportatge<nouns>
+			<translations><date>0505</date>
+                        <translation gender="m">infomercial</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="800">puça<nouns>
+			<translations>
+				<translation catagory="animal-insect" gender="f">flea<plural>puces</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3240">pudor<nouns>
+			<translations>
+				<translation gender="m">stink</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2020">Puerto Rico<nouns>
+			<translations>
+				<translation catagory="country-centralamerica" gender="m">Puerto Rico</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="36">puigcerdanenc<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Puigcerdà</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Puigcerdà<fems>puigcerdanenca</fems><femplural>puigcerdanenques</femplural></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="48500">pujar<verbs conj="JtoG">
+			<translations>
+				<translation>to push</translation>
+				<translation catagory="computers-internet">to put online / to upload</translation>
+				<translation>to rise / to raise</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5150">pulmó<nouns>
+			<translations>
+				<translation catagory="body-internal" gender="m">lung<plural>pulmons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="219000">punt<nouns>
+			<translations>
+				<translation gender="m">point</translation>
+				<translation catagory="linguistics" gender="m">full stop (Br.) / period (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="441">punt d'ebullició<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">boiling point</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="60500">punt de vista<nouns>
+			<translations>
+				<translation gender="m">point of view</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2860">punter<nouns>
+			<translations>
+				<translation catagory="computers" gender="m">pointer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1190">punteria<nouns>
+			<translations>
+				<translation gender="f">aim</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1200">puntetes<nouns>
+			<translations>
+				<translation gender="fpl">tiptoe<catexamp>Caminar de puntetes</catexamp>
+					<engexamp>To tiptoe</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26900">puntual<adjectives>
+			<translations>
+				<translation>punctual</translation>
+				<translation>accurate</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="873">punt verd<nouns>
+			<translations>
+				<translation gender="m">recycling centre / tip<engnote>A 'punt verd' is a type of recycling centre where you can take recyclable household appliances (old computers / small electrical appliances etc.), reusable items (toner cartridges, clothes, shoes, small electrical appliances...) and special items that can't be disposed of with ordinary rubbish (batteries, oil, paint, aerosols etc.)</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="827">punxada<nouns>
+			<translations>
+				<translation catagory="transport" gender="f">puncture / flat</translation>
+				<translation catagory="medical" gender="f">jab<catexamp>Punxada accidental</catexamp>
+					<engexamp>Needle stick (injury)</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="7490">punxar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation>to prick</translation>
+                                <translation>to burst / to pop</translation>
+                                <translation catagory="medical" register="colloquial">to give somebody an injection / to inject<catexamp>Injectar-se (droga)</catexamp><engexamp>To inject (drugs)</engexamp></translation>
+                                <translation>to get a puncture / to get a flat tyre (Br.) / tire (Am.)<example>Hem &lt;b&gt;punxat&lt;/b&gt; a mitja collada de Toses.</example></translation>
+                                <translation>to bug / to tap</translation>
+                                <translation>to play<engnote>'Punxar' means 'to play' in the sense 'to play a record'.</engnote></translation>
+                                <translation>to egg somebody on / to needle</translation>
+                                <translation>to prickle</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3250">puny<nouns>
+			<translations>
+				<translation gender="m">fist<catexamp>Cop de puny</catexamp>
+					<engexamp>Punch</engexamp><catexamp>Puny de ferro</catexamp><engexamp>Iron fist</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="159">puny americà<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">knuckleduster (Br.) / brass knuckles (Am.)<plural>punys americans</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="512">pupil·la<nouns>
+			<translations>
+				<translation catagory="body" gender="f">pupil</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="508">puput<nouns>
+			<translations>
+				<translation catagory="animal-bird" gender="m">hoopoe</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8750">purament<adverbs>
+			<translations>
+				<translation>purely</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="807">púrpura<nouns>
+			<translations><date>0605</date>
+				<translation catagory="medical-illness" gender="f">purpura</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>purple<synonyms>porpra</synonyms></translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="4860">puta<nouns>
+			<translations>
+				<translation register="offensive" gender="f">bitch / whore <catexamp>Fill de puta</catexamp>
+					<engexamp>Son of a bitch</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+</dictionary>

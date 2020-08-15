@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<Entry frequency="9095">quad<nouns>
+			<translations>
+				<translation catagory="transport, sports" gender="m">quad bike</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="49300">quadern<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">notebook</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="684">quadra<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">stable</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="58400">quadrat<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">square<example>Figures geomètriques: cercle, &lt;b&gt;quadrat&lt;/b&gt;, triangle.</example></translation>
+                                <translation catagory="maths" gender="m">square<example>El &lt;b&gt;quadrat&lt;/b&gt; de 7 és 49.</example></translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>square<example>El cub és una forma prismàtica que té sis cares &lt;b&gt;quadrades&lt;/b&gt;.</example></translation>
+                <translation catagory="maths">squared<example>La superfície nova que es construirà és de 1.500 metres &lt;b&gt;quadrats&lt;/b&gt;.</example><fems>quadrada</fems></translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="96600">quadre<nouns>
+			<translations><date>0205</date>
+                        <translation gender="m">chart</translation>
+				<translation gender="m">painting</translation>
+                                <translation gender="m">square</translation>
+                                <translation gender="m">frame<engnote>'Quadre' means 'frame' in the sense 'bicycle frame', 'motorbike frame'. Also as in the frames of a film / movie.</engnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1890">quadre de comandament<nouns>
+			<translations><date>0205</date>
+				<translation catagory="transport" gender="m">instrument panel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1210">quadre de diàleg<nouns>
+			<translations><date>0205</date>
+				<translation catagory="computers" termcat="true" gender="m">dialog box</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1010">quadrícula<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">grid</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="368">quadriculat<adjectives>
+			<translations><date>0505</date>
+				<translation>squared<fems>quadriculada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="408">quadrilàter<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">quadrilateral</translation>
+				<translation gender="m">(boxing) ring</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="432">quadrilla<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">squad / gang / group / team / band</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="721">quàdruple<adjectives>
+			<translations><date>0205</date>
+				<translation catagory="maths">quadruple</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="718">quadruplicar<verbs conj="CtoQU">
+			<translations><date>0205</date>
+				<translation catagory="maths">to quadruple</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="952000">qual<pronouns>
+			<translations><date>0205</date>
+				<translation>which / who / whose / whom</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="89200">qualificació<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">qualification</translation>
+				<translation gender="f">mark / grade(US)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="37700">qualificar<verbs conj="CtoQU">
+			<translations><date>0505</date>
+				<translation>to qualify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="43500">qualificat<adjectives>
+			<translations><date>0505</date>
+				<translation>qualified / skilled<fems>qualificada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="345000">qualitat<nouns>
+			<translations><date>0205</date>
+				<translation gender="f">quality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="316000">qualsevol<adjectives>
+			<translations><date>0205</date>
+				<translation>any</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="737000">quan<adverbs>
+			<translations><date>0205</date>
+				<translation>when</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="257000">quant<adjectives>
+			<translations><date>0205</date>
+				<translation>how many / how much<catexamp>Uns quants (dies)</catexamp>
+					<engexamp>A few (days)</engexamp><fems>quanta</fems>
+				</translation>
+			</translations>
+		</adjectives>
+		<pronouns>
+			<translations>
+				<translation>how many / how much</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+        <Entry frequency="112000">quant a<adverbs>
+			<translations><date>0205</date>
+				<translation>as for</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        <Entry frequency="1090">quantiós<adjectives>
+			<translations><date>0805</date>
+				<translation>large / many<catexamp>Quantiosos danys</catexamp><engexamp>Major damage</engexamp><plural>quantiosos</plural><fems>quantiosa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="170000">quantitat<nouns>
+			<translations><date>0205</date>
+                        <translation gender="f">amount</translation>
+				<translation gender="f">quantity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="994">quarantena<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">quarantine</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="8490">Quaresma<nouns>
+			<translations><date>0205</date>
+				<translation catagory="religious" gender="f">Lent</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34400">quarts<nouns>
+			<translations><date>34400</date>
+				<translation catagory="sports" gender="mpl">quarter finals<engnote>'Quarts' or 'quarts de final' both mean 'quarter finals'.</engnote>
+				</translation>
+                                <translation catagory="time" gender="mpl">-<catexamp>Tres quarts de deu</catexamp><engexamp>Quarter to ten (Br.) / quarter of ten (Am.)</engexamp><catexamp>Dos quarts de dotze</catexamp><engexamp>Half past eleven / half eleven (Br.)</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="118000">quasi<adverbs>
+			<translations><date>0205</date>
+				<translation>almost</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="1190000">quatre<nouns>
+			<translations><date>0505</date>
+        			<translation catagory="number" gender="m">four</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="5430000">que<conjunctions>
+			<translations><date>0205</date>
+				<translation>that</translation>
+			</translations>
+		</conjunctions>
+                <pronouns>
+                <translations>
+                <translation>that</translation>
+                <translation>who</translation></translations></pronouns>
+	</Entry>
+        <Entry frequency="618000">què<pronouns>
+			<translations><date>0205</date>
+				<translation>what</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="397000">quedar<verbs conj="regular">
+			<translations><date>0205</date>
+				<translation>to remain</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="570">quefer<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">job / task / affair / work</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="51800">queixa<nouns>
+			<translations><date>0205</date>
+				<translation gender="f">complaint</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="693">queixal<nouns>
+			<translations><date>0205</date>
+				<translation catagory="body" gender="m">molar<catexamp>Queixal del seny</catexamp>
+					<engexamp>Wisdom tooth</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18500">queixar-se<verbs conj="regular">
+			<translations><date>0205</date>
+				<translation>to complain</translation>
+                                <translation>to bemoan</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="47100">quelcom<pronouns>
+			<translations><date>0505</date>
+				<translation>something</translation>
+                                <translation>anything</translation>
+			</translations>
+		</pronouns>
+		<adverbs>
+			<translations>
+				<translation>a bit / rather</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="5060">querella<nouns>
+			<translations><date>0205</date>
+				<translation gender="f">quarrel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="294000">qüestió<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">question</translation>
+				<translation gender="f">matter / issue</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="31000">qüestionari<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">questionnaire</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="222">quetxup<nouns>
+			<translations><date>0205</date>
+				<translation catagory="food" gender="m">(tomato) ketchup / tomato sauce (Br.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="849">queviures<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">provisions / food</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="960000">qui<pronouns>
+			<translations><date>0205</date>
+				<translation>who</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="8870">quiet<adjectives>
+			<translations><date>0205</date>
+				<translation>still<fems>quieta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3760">quietud<nouns>
+			<translations><date>0205</date>
+				<translation gender="f">stillness</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="651">quilla<nouns>
+			<translations><date>0905</date>
+				<translation catagory="transport" gender="f">keel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+		<Entry frequency="14200">quilo<nouns>
+			<translations><date>0205</date>
+				<translation register="colloquial" gender="m">kilo</translation>
+			</translations>
+		</nouns>
+	</Entry>
+		<Entry frequency="922">quilogram<nouns>
+			<translations><date>0205</date>
+				<translation catagory="maths" gender="m">kilogram</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="44400">quilòmetre<nouns>
+			<translations><date>0205</date>
+				<translation catagory="maths" gender="m">kilometre (Br.) / kilometer (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="699">quimera<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">pipe dream / wishful thinking / illusion</translation>
+				<translation gender="f">chimaera / chimera (mythology)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="74000">químic<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work-job, chemistry" gender="m / f">chemist<engnote>'Químic' means 'chemist' in the sense 'person who works in the field of chemistry'. A British 'chemist' who dispenses medicine is a 'farmacèutic'</engnote></translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation catagory="chemistry">chemical<fems>química</fems><femplural>químiques</femplural></translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="139000">química<nouns>
+			<translations><date>0205</date>
+				<translation catagory="work-field, chemistry" gender="f">chemistry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="656">químicament<adverbs>
+			<translations><date>0805</date>
+				<translation catagory="chemistry">chemically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="1060">quimioteràpia<nouns>
+			<translations><date>0205</date>
+				<translation catagory="medical-treatment" gender="f">chemotherapy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="338000">quin<adjectives>
+			<translations><date>0205</date>
+				<translation>which<fems>quina</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="71500">quinze<nouns>
+			<translations><date>0205</date>
+				<translation catagory="number-cardinal" gender="m">fifteen</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1700">quinzè<adjectives>
+			<translations><date>0205</date>
+				<translation catagory="number-ordinal">fifteenth<fems>quinzena</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="23300">quinzena<nouns>
+			<translations><date>0205</date>
+				<translation catagory="time" gender="f">fortnight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7890">quinzenal<adverbs>
+			<translations><date>0205</date>
+				<translation catagory="time">fortnightly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+         <Entry frequency="20300">quiosc<nouns>
+			<translations>
+				<translation gender="m">kiosk</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="362">quirat<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">carat / karat (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="347">quist<nouns>
+			<translations><date>0205</date>
+				<translation catagory="medical" gender="m">cyst</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="780">quitrà<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">tar<plural>quitrans</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1140">quitxalla<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">children</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="215">quítxua<nouns>
+			<translations><date>0305</date>
+				<translation catagory="language" gender="m">Quechua</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="88900">quota<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">fee</translation>
+				<translation gender="f">instalment</translation>
+				<translation gender="f">quota / share</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="83000">quotidià<adverbs>
+			<translations><date>0205</date>
+				<translation>daily<fems>quotidiana</fems>
+					<plural>quotidians</plural>
+				</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+</dictionary>

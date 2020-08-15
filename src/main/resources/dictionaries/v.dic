@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<Entry frequency="1500">va<adjectives>
+			<translations><date>0605</date>
+				<translation>vain<plural>vans</plural><fems>vana</fems>
+					<catexamp>En va</catexamp><engexamp>In vain</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="9810">vaca<nouns>
+			<translations>
+				<translation catagory="animal-animal" gender="f">cow</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="40100">vacances<nouns>
+			<translations>
+				<translation gender="f">holidays</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46300">vacant<adjectives>
+			<translations><date>0605</date>
+				<translation>vacant</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="f">vacancy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="807">vacil·lar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to waver / to hesitate / to vacillate</translation>
+                                <translation>to flicker</translation>
+                                <translation>to wobble</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="11200">vacuna<nouns>
+			<translations><date>0605</date>
+				<translation catagory="medical" gender="f">vaccine</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="31700">vaga<nouns>
+			<translations><date>0605</date>
+				<translation catagory="work" gender="f">strike<femplural>vagues</femplural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1920">vaga de fam<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">hunger strike<plural>vagues</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="691">vagabund<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">wanderer</translation>
+				<translation gender="m / f">vagrant / tramp / bum (slang)</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>wandering</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="800">vagar<verbs conj="GtoGU">
+			<translations><date>0705</date>
+				<translation>to wander / to roam</translation>
+				<translation>to suit<catexamp>A veure quan us vagarà d'endreçar la habitació</catexamp></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="962">vagina<nouns>
+			<translations><date>0605</date>
+				<translation catagory="body" gender="f">vagina</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6720">vagó<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transports" gender="m">carriage (Br.) / passenger car (Am.) / passenger coach (Am.) / goods van (Br.) / boxcar (Am.) / freight car (Am.)<catexamp>Vagó llit</catexamp><engexamp>Sleeper / sleeping car (Am.)</engexamp><catexamp>Vagó restaurant</catexamp><engexamp>Restaurant car (Br.) / dining car</engexamp><plural>vagons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="800">vague<adjectives>
+			<translations><date>0705</date>
+				<translation>vague<fems>vaga</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="941">vailet<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">page boy</translation>
+				<translation gender="m">boy</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1160">vainilla<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vanilla</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="47500">vaixell<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transport-mode" gender="m">boat</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1080">vaixell de guerra<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">warship</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="826">vaixella<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">crockery / dinner service / tableware</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="850">val<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">coupon / voucher</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="338000">valencià<nouns>
+			<translations><date>0605</date>
+				<translation catagory="language" gender="m">Valencian</translation>
+				<translation gender="m / f">Valencian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Valencian<fems>valenciana</fems>
+					<plural>valencians</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="29000">valent<adjectives>
+			<translations><date>0606</date>
+				<translation>brave<fems>valenta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7460">valentia<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">courage / bravery<catexamp>Amb valentia</catexamp><engexamp>Bravely / courageously</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="145000">valer<verbs conj="">
+			<translations><date>0605</date>
+				<translation>to cost</translation>
+				<translation>to be worth</translation>
+				<translation>to be useful / to be suitable
+					<catexamp>No s'hi val</catexamp><engexamp>That's not fair</engexamp>
+					<catexamp>Valer la pena</catexamp><engexamp>To be worth it</engexamp>
+					<catexamp>Fer valer</catexamp><engexamp>To assert</engexamp>
+					<catexamp>L'avi ja no pot valer-se</catexamp><engexamp>Grandfather can no longer (take care of / manage by) himself</engexamp>
+					<catexamp>Val més que ho facis tu</catexamp><engexamp>You'd better do it</engexamp>
+					<catexamp>S'ha valgut d'influències</catexamp><engexamp>He made use of his connections</engexamp>
+					<engnote>This verb is also spelled 'valdre'</engnote>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="49000">vàlid<adjectives>
+			<translations><date>0605</date>
+				<translation>valid</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="301000">vall<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">valley</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1220000">valor<nouns>
+			<translations><date>0605</date>
+				<translation catagory="financial" gender="m">value</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="62000">valorar<verbs conj="regular">
+			<translations>
+				<translation>to rate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="900">vals<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">waltz</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="9560">vàlua<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">value</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="19300">valuós<adjectives>
+			<translations><date>0605</date>
+				<translation>valuable<fems>valuosa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="926">vàlvula<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">valve</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="784">vampir<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">vampire</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        	<Entry frequency="371">vanagloriar-se<verbs>
+			<translations><date>0805</date>
+				<translation>to boast / to brag</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        	<Entry frequency="110">vanar-se<verbs>
+			<translations><date>0805</date>
+				<translation>to boast / to brag</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3950">vanitat<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vanity</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="450">vanitós<adjectives>
+			<translations><date>0705</date>
+				<translation>vain / conceited<fems>vanitosa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="125">vànova<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">bedspread<synonyms>cobrellit</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="31700">vapor<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">vapor / steam</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="6400">vara<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">rod / stick</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="939">vareta<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">wand</translation>
+				<translation gender="f">little stick</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="72500">vari<adjectives>
+			<translations><date>0605</date>
+				<translation>different / diverse / varied<fems>vària</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="40700">variable<adjectives>
+			<translations>
+				<translation>variable</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation catagory="maths, computers-programming" gender="f">variable</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="68800">variació<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">variation</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="66000">variar<verbs conj="irregular1">
+			<translations><date>0605</date>
+				<translation>to vary</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="244">varicel·la<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="f">chickenpox</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="69100">varietat<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">variety</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="10000">vas<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">glass</translation>
+				<translation gender="m">vessel</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="279000">vascular<adjectives>
+			<translations>
+				<translation catagory="medical">vascular<catexamp>Cirurgia vascular</catexamp>
+					<engexamp>Vascular surgery</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6890">vast<adjectives>
+			<translations><date>0605</date>
+				<translation>vast<plural>vastos</plural><fems>vasta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4420">Vaticà<nouns>
+			<translations>
+				<translation catagory="religious" gender="m">Vatican</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1470">vaticinar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation transitive="true">to foreshadow / to predict</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4630">veda<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">prohibition</translation>
+				<translation gender="m">close season (Br.) / closed season (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="800">vedar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation transitive="true">to forbid / to prohibit</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1170">vedell<nouns>
+			<translations>
+				<translation catagory="animal-animal" gender="m">calf</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3320">vedella<nouns>
+			<translations>
+				<translation catagory="food-meat" gender="f">veal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="160000">vegada<nouns>
+			<translations>
+				<translation gender="f">time<catexamp>Tres vegades</catexamp>
+					<engexamp>Three times</engexamp>
+					<catexamp>Una vegada</catexamp><engexamp>Once</engexamp>
+					<catexamp>Dues vegades</catexamp><engexamp>Twice</engexamp>
+					<catexamp>Una altra vegada</catexamp><engexamp>Again</engexamp>
+					<catexamp>A la vegada</catexamp><engexamp>At the same time</engexamp>
+					<catexamp>Tal vegada</catexamp><engexamp>Perhaps</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14200">vegetació<nouns>
+			<translations>
+				<translation gender="f">vegetation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="58200">vegetal<adjectives>
+			<translations><date>0605</date>
+				<translation>vegetable</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m">vegetable / plant</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1720">vegetarià<nouns>
+			<translations>
+				<translation gender="m / f">vegetarian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>vegetarian<plural>vegetarians</plural>
+					<fems>vegetariana</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="667">vegetatiu<adjectives>
+			<translations><date>0305</date>
+				<translation>vegetative<catexamp>Estat vegetatiu (persistent)</catexamp><engexamp>(Persistent) vegetative state</engexamp><fems>vegetativa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="152000">vehicle<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">vehicle</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="54300">veí<nouns>
+			<translations>
+				<translation gender="m / f">neighbour (Br.) / neighbor (Am.)<fems>veïna</fems>
+					<plural>veïns</plural>
+				</translation>
+				<translation gender="m / f">resident</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>neighbouring (Br.) / neighboring (Am.)</translation>
+				<translation>nearby</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="14400">veïnat<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">neighbourhood (Br.) / neighborhood (Am.)</translation>
+				<translation gender="m">residents / neighbours (Br.) / neighbors (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="9950">vel<nouns>
+			<translations>
+				<date>0205</date>
+				<translation catagory="clothes" gender="m">veil</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14300">vela<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="f">sailing</translation>
+				<translation gender="f">sail</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="600">velar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to blur</translation>
+				<translation>to veil</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5080">veler<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">sailboat</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="79000">vell<adjectives>
+			<translations>
+				<translation>old / aged (formal)<fems>vella</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="12000">vellesa<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">old age</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="826">vellut<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">velvet</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="649">veloç<adjectives>
+			<translations>
+				<translation>fast / quick<plural>veloços</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="69">velocímetre<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">speedometer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="39900">velocitat<nouns>
+			<translations>
+				<translation gender="f">speed</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="639">velòdrom<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">velodrome</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="3270">vena<nouns>
+			<translations>
+				<translation catagory="body-internal" gender="f">vein</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3160">vencedor<nouns>
+			<translations>
+				<translation gender="m">winner / conqueror</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>winning / conquering<fems>vencedora</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10800">vèncer<verbs conj="irregular41">
+			<translations>
+				<translation catagory="sports">to beat / to win</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="64800">venda<nouns>
+			<translations>
+				<translation gender="f">sale<catexamp>posar a la venda</catexamp>
+					<engexamp>to release / put on the market</engexamp>
+					<catexamp>sortir a la venda</catexamp>
+					<engexamp>to be released / come on the market</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="49000">vendre<verbs conj="irregular42">
+			<translations>
+				<translation>to sell</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3880">Veneçuela<nouns>
+			<translations>
+				<translation catagory="country-southamerica" gender="f">Venezuela</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9100">venedor<nouns>
+			<translations>
+				<translation gender="m / f">seller<fems>venedora</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3700">venerar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation transitive="true">to venerate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="122000">venir<verbs conj="irregular43">
+			<translations>
+				<translation>to come
+					<catexamp>Venir bé</catexamp><engexamp>To suit</engexamp>
+					<catexamp>La setmana que ve</catexamp><engexamp>Next week</engexamp>
+					<catexamp>Les sabates em venen petites</catexamp><engexamp>The shoes are too small for me</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3700">venjança<nouns>
+			<translations>
+				<translation gender="f">revenge</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="870">venjar<verbs conj="JtoG">
+			<translations><date>0605</date>
+				<translation>to take revenge / to avenge</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="42600">vent<nouns>
+			<translations>
+				<translation catagory="weather" gender="m">wind</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="739">ventada<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">gale / strong wind</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="622">Ventafocs<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">Cinderella</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="47000">ventall<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">fan</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="27600">ventar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to fan</translation>
+				<translation>to be windy</translation>
+				<translation>to strike / to deal<example>Li van &lt;b&gt;ventar&lt;/b&gt; una bufetada.</example></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4830">ventilador<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">ventilator / fan</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="793">ventilar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to ventilate</translation>
+				<translation>to air</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        	<Entry frequency="3000">ventós<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="weather">windy / breezy</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="8780">ventre<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">belly</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="367">ventricle<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">ventricle</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1400">ventura<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">luck / fortune</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="4350">Venus<nouns>
+			<translations><date>0405</date>
+				<translation catagory="astronomy" gender="m">Venus</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="902">veraç<adjectives>
+			<translations><date>0705</date>
+				<translation>truthful</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="457">verat<nouns>
+			<translations><date>0705</date>
+				<translation catagory="animal-fish" gender="m">mackerel</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="20400">verb<nouns>
+			<translations><date>0605</date>
+				<translation catagory="linguistics" gender="m">verb</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15900">verbal<adjectives>
+			<translations>
+				<translation>verbal / spoken<catexamp>Llenguatge verbal</catexamp>
+					<engexamp>Spoken language</engexamp>
+				</translation>
+				<translation>verbal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="138">verb auxiliar<nouns>
+			<translations><date>0605</date>
+				<translation catagory="linguistics" gender="m">auxiliary verb</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="213000">verd<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="colour">green<fems>verda</fems></translation>
+                                <translation catagory="colour">blue / off-color (Am.)<catexamp>Acudits verds</catexamp><engexamp>Blue jokes / off-color jokes (Am.)</engexamp><fems>verda</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="922">verdum<nouns>
+			<translations><date>0705</date>
+				<translation catagory="animal-bird" gender="m">greenfinch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="22400">verdura<nouns>
+			<translations>
+				<translation catagory="food" gender="f">vegetables</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4700">veredicte<nouns>
+			<translations>
+				<translation catagory="legal" gender="m">verdict</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4960">verema<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vintage / grape harvest</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4420">veremar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to pick / to harvest (grapes)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="22800">verge<nouns>
+			<translations>
+				<translation>virgin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="400">Verge<nouns>
+			<translations>
+				<translation catagory="zodiac">Virgo</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9120">vergonya<nouns>
+			<translations>
+				<translation gender="f">shame / embarrassment</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2590">vergonyós<adjectives>
+			<translations>
+				<translation>shameful<fems>vergonyosa</fems>
+					<plural>vergonyosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4960">verí<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">poison / venom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13600">verificar<verbs conj="CtoQU">
+			<translations>
+				<translation>to check / to verify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="712">verídic<adjectives>
+			<translations><date>0705</date>
+				<translation>true</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1210">verinós<adjectives>
+			<translations>
+				<translation>poisonous<fems>verinosa</fems>
+					<plural>verinosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="63900">veritable<adjectives>
+			<translations><date>0605</date>
+				<translation>true / real</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="45000">veritat<nouns>
+			<translations>
+				<translation gender="f">truth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="29700">vermell<adjectives>
+			<translations>
+				<translation catagory="colour">red<fems>vermella</fems></translation>
+			</translations>
+		</adjectives>
+                <expressions>posar-se vermell
+                <translations>
+                <translation>to blush / to go red / to turn red</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="1650">vermellós<adjectives>
+			<translations>
+				<translation catagory="colour">reddish<plural>vermellosos</plural>
+					<fems>vermellosa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3770">vermut<nouns>
+			<translations><date>0705</date>
+				<translation catagory="food-drink" gender="m">vermouth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6260">vern<nouns>
+			<translations><date>0705</date>
+				<translation catagory="plant-tree" gender="m">alder</translation>
+			</translations>
+		</nouns>
+		<expressions>sol i vern<translations>
+			<translation>completely alone and abandoned<example>Amb la mort dels seus pares, va restar &lt;b&gt;sol i vern&lt;/b&gt;</example></translation>
+		</translations></expressions>
+	</Entry>
+	<Entry frequency="5200">vernís<nouns>
+			<translations>
+				<translation gender="m">varnish</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="81400">vers<prepositions>
+			<translations>
+				<translation register="formal">towards / to</translation>
+				<translation register="formal">at about / at around</translation>
+			</translations>
+		</prepositions>
+		<nouns>
+			<translations>
+				<translation gender="m">verse</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="215">versicle<nouns>
+			<translations>
+				<translation catagory="religious" gender="m">verse</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="96800">versió<nouns>
+			<translations>
+				<translation gender="f">version<plural>versions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7850">vertader<adjectives>
+			<translations>
+				<translation>true<fems>vertadera</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="517">vèrtebra<nouns>
+			<translations><date>0705</date>
+				<translation catagory="body" gender="f">vertebra</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="6240">vertebrat<adjectives>
+			<translations><date>0705</date>
+				<translation>vertebrate</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="10600">vèrtex<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">vertex</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="17200">vertical<adjectives>
+			<translations>
+				<translation>vertical</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1570">verticalment<adverbs>
+			<translations>
+				<translation>vertically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="3450">vertigen<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">vertigo / dizziness</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="670">vescomte<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">viscount</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="527">vesícula<nouns>
+			<translations><date>0705</date>
+				<translation catagory="body" gender="f">vesicle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27">vesícula biliar<nouns>
+			<translations><date>0705</date>
+				<translation catagory="body" gender="f">gall bladder</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="789">vespa<nouns>
+			<translations><date>0705</date>
+				<translation catagory="animal-insect" gender="f">wasp</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31700">vespre<nouns>
+			<translations>
+				<translation catagory="time-ofDay" gender="m">evening</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="66100">vessant<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">side / slope</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="10600">vessar<verbs conj="regular">
+			<translations><date>0305</date>
+				<translation>to spill<example>Va omplir massa el dipòsit del cotxe i a les corbes li &lt;b&gt;vessava&lt;/b&gt;.</example></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6460">vestíbul<nouns>
+			<translations>
+				<translation catagory="household-room" gender="m">hall / hallway</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6980">vestidor<nouns>
+			<translations>
+				<translation catagory="sports" gender="m">changing room</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2200">vestir<verbs conj="inceptive">
+			<translations>
+				<translation catagory="clothes">to get dressed / to dress</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="17600">vestit<nouns>
+			<translations>
+				<translation catagory="clothes-item" gender="m">dress</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="17000">vestuari<nouns>
+			<translations><date>0305</date>
+                        <translation catagory="household-room-bedroom" gender="m">wardrobe / closet / cupboard<catnote>(Moble) = 'wardrobe'; (Encastat) = 'closet'; (A la paret) = 'cupboard'.</catnote></translation>
+				<translation gender="m">wardrobe<example>Aquest any encara no m'he comprat res i se m'ha quedat el &lt;b&gt;vestuari&lt;/b&gt; antiquat.</example></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12900">vet<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">veto
+					<catexamp>vet aquí</catexamp><engexamp>here is</engexamp>
+					<catexamp>i vet aquí un gat, vet aquí un gos, aquest conte ja s’ha fos. Vet aquí un gos, vet aquí un gat aquest conte s’ha acabat.</catexamp><engexamp>and that's the end of the story</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="994">veta<nouns>
+			<translations>
+				<translation gender="f">ribbon / strip</translation>
+				<translation gender="f">seam / vein
+					<catexamp>Hem de seguir-li la veta o no haurà qui ho aguanti</catexamp>
+					<engexamp>We have to humour him or it will be impossible to stand him</engexamp>
+					<catexamp>Tirar de veta</catexamp><engexamp>To splurge</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18400">veterà<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">veteran<fems>veterana</fems><plural>veterans</plural></translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>veteran</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="11800">veterinari<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">vet<fems>veterinària</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1000">vetlla<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">vigil</translation>
+                                <translation gender="f">wakefulness</translation>
+				<translation gender="f">eve</translation>
+				<translation gender="f">wake</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="8190">vetllada<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">evening / soirée</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="50000">vetllar<verbs conj="regular">
+			<translations>
+				<translation>to watch (over)</translation>
+				<translation>to stay awake</translation>
+				<translation>to keep watch</translation>
+				<translation>to hold a wake for</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="767">veto<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">veto<synonyms>vet</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="51500">veu<nouns>
+			<translations>
+				<translation gender="f">voice</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="246000">veure<verbs conj="irregular29">
+			<translations>
+				<translation>to see</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="69100">vi<nouns>
+			<translations>
+				<translation catagory="food-drink" gender="m">wine<catexamp>vi negre</catexamp>
+					<engexamp>red wine</engexamp>
+					<catexamp>vi blanc</catexamp>
+					<engexamp>white wine</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="908000">via<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">lane</translation>
+                                <translation gender="f">way / path<catexamp>Per via de</catexamp><engexamp>Via / through</engexamp><catexamp>En via de</catexamp><engexamp>In the middle of / in the process of</engexamp><catexamp>Països en vies de desenvolupament</catexamp><engexamp>Developing countries</engexamp><catexamp>Via d'aigua</catexamp><engexamp>Leak</engexamp><catexamp>Via làctia</catexamp><engexamp>Milky Way</engexamp></translation>
+                                <translation gender="f">channel<catexamp>Via de comunicació</catexamp><engexamp>Communications channel / means of communication</engexamp><catexamp>Via pública</catexamp><engexamp>Public thoroughfare</engexamp></translation>
+                                <translation gender="f">(railway) track</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="37500">viabilitat<nouns>
+			<translations>
+				<translation gender="f">viability</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10900">viable<adjectives>
+			<translations>
+				<translation>viable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="27400">vial<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">avenue / road</translation>
+				<translation catagory="medical" gender="m">vial</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="11400">vianant<nouns>
+			<translations>
+				<translation gender="m / f">pedestrian<catexamp>Pas de vianants</catexamp>
+					<engexamp>Pedestrian crossing</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="634">vianda<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">food</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="644">viarany<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">narrow path / lane</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="41900">viari<adjectives>
+			<translations>
+				<translation>road<fems>viària</fems>
+					<catexamp>Seguretat viària</catexamp>
+					<engexamp>Road safety</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4590">viatjant<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">sales rep / (travelling) salesman (Br.) / (traveling) salesman (Am.) / (commercial) traveller</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21800">viatjar<verbs conj="JtoG">
+			<translations>
+				<translation>to travel</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="71800">viatge<nouns>
+			<translations>
+				<translation gender="m">journey</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15100">viatger<nouns>
+			<translations>
+				<translation gender="m / f">traveller<fems>viatgera</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12400">vibració<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vibration</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="4590">vibrar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to vibrate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3990">vicari<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">vicar</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="7520">vicepresidència<nouns>
+			<translations>
+				<translation gender="f">vice presidency<catexamp>Candidat a la vicepresidència</catexamp>
+					<engexamp>Vice presidential candidate</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13300">vicepresident<nouns>
+			<translations>
+				<translation catagory="politics" gender="m / f">vice president<fems>vicepresidenta</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10200">viceversa<adverbs>
+			<translations><date>0605</date>
+				<translation>vice versa</translation>
+			</translations>
+		</adverbs>
+	</Entry>	
+	<Entry frequency="5030">vici<nouns>
+			<translations>
+				<translation gender="m">vice</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="27400">víctima<nouns>
+			<translations>
+				<translation gender="f">victim</translation>
+                                <translation gender="f">casualty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="967">víctima mortal<nouns>
+      <translations><date>0805</date>
+        <translation gender="f">-<catexamp>El nombre de víctimes mortals és molt alt</catexamp><engexamp>The number of deaths / dead is very high</engexamp></translation>
+      </translations>
+    </nouns>
+  </Entry>
+	<Entry frequency="26100">victòria<nouns>
+			<translations>
+				<translation gender="f">victory / win</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="875000">vida<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">life</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="494">vida artificial<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">A-life</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="116000">vídeo<nouns>
+			<translations>
+				<translation gender="m">video</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="232">videocàmera<nouns>
+			<translations>
+				<translation gender="f">camcorder</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="704">videocasset<nouns>
+			<translations>
+				<translation gender="m">video cassette</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="3930">videoteca<nouns>
+			<translations><date>0905</date>
+				<translation gender="f">video library</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="170">videovigilància<nouns>
+			<translations>
+				<translation gender="f">video surveillance<catexamp>Càmera de videovigilància</catexamp>
+					<engexamp>CCTV camera</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24400">vidre<nouns>
+			<translations>
+				<translation gender="m">glass</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2020">vidu<nouns>
+			<translations>
+				<translation gender="m">widower</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4250">vídua<nouns>
+			<translations>
+				<translation gender="f">widow</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="5830">Vietnam<nouns>
+			<translations><date>0305</date>
+				<translation catagory="country-asia" gender="m">Vietnam</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="13700">vietnamita<nouns>
+			<translations><date>0305</date>
+				<translation catagory="language" gender="m">Vietnamese</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>Vietnamese</translation></translations></adjectives>
+	</Entry>
+        <Entry frequency="177000">vigent<adjectives>
+			<translations><date>0405</date>
+				<translation>in force</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="20600">vigilància<nouns>
+			<translations>
+				<translation gender="f">vigilance / surveillance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16900">vigilant<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">watchman / guard</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>watchful</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+        <Entry frequency="648">vigilant de seguretat<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work-job">security guard</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9690">vigilar<verbs conj="regular">
+			<translations>
+				<translation>to keep an eye on / to watch / to look after</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="10300">vigília<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vigil / wakefulness<synonyms>vetlla</synonyms></translation>
+				<translation gender="f">eve</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="54000">vigor<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">vigour (Br.) / vigor (Am.)<catexamp>En vigor</catexamp><engexamp>In force</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="700">vigorós<adjectives>
+			<translations><date>0705</date>
+				<translation>vigorous</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3560">VIH<catacro>Virus d'Immunodeficiència Humana</catacro>
+		<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="m">HIV<engacro>Human Immunodeficiency Virus</engacro>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7">VIH negatiu<adjectives>
+			<translations>
+				<translation catagory="medical">HIV negative</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="66">VIH positiu<adjectives>
+			<translations>
+				<translation catagory="medical">HIV positive</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="14900">vil<adjectives>
+			<translations><date>0605</date>
+				<translation>vile / despicable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="261000">vila<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">town</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="1730">vilafranquí<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Vilafranca del Penedès</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Vilafranca del Penedès<plural>vilafranquins</plural><fems>vilafranquina</fems></translation></translations></nouns>
+	</Entry>
+        	<Entry frequency="10200">vilanoví<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Vilanova</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Vilanova<plural>vilanovins</plural><fems>vilanovina</fems></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="3440">vilatà<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">villager</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="557">vimet<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">wicker</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3290">vinagre<nouns>
+			<translations>
+				<translation catagory="food-condiment" gender="m">vinegar</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="115">vinagre de xerès<nouns>
+			<translations>
+				<translation catagory="food-condiment" gender="m">sherry vinegar</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="951">vinagreta<nouns>
+			<translations>
+				<translation catagory="food" gender="f">vinaigrette</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20200">vincular<verbs conj="regular">
+			<translations>
+				<translation>to link</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="120000">vindre<verbs>
+			<translations>
+				<translation register="valencian">to come</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="19400">vinent<adjectives>
+			<translations>
+				<translation>next<catexamp>L'any vinent</catexamp>
+					<engexamp>Next year</engexamp>
+					<catexamp>El maig vinent</catexamp>
+					<engexamp>Next March</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="13800">vinga<exclamations>
+			<translations><date>0605</date>
+				<translation>come on!</translation>
+			</translations>
+		</exclamations>
+	</Entry>
+	<Entry frequency="4000">vinícola<adjectives>
+			<translations><date>0705</date>
+				<translation>wine-producing<catexamp>Indústria vinícola</catexamp>
+					<engexamp>Wine-producing industry</engexamp>
+					<catexamp>Zona vinícola</catexamp>
+					<engexamp>Wine-producing zone</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="66600">vint<nouns>
+			<translations>
+				<translation catagory="number" gender="m">twenty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2000">vintè<adjectives>
+			<translations>
+				<translation>twentieth<fems>vintena</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7150">vintena<nouns>
+			<translations>
+				<translation gender="f">twenty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="33000">vinya<nouns>
+			<translations>
+				<translation gender="f">vine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11700">viola<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">viola</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="6550">violar<verbs conj="regular">
+			<translations>
+				<translation>to rape</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="30600">violència<nouns>
+			<translations>
+				<translation gender="f">violence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3150">violència domèstica<nouns>
+			<translations>
+				<translation gender="f">domestic violence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31000">violent<adjectives>
+			<translations><date>0605</date>
+				<translation>violent</translation>
+				<translation>embarrasing / awkward</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7520">violeta<adjectives>
+			<translations><date>0605</date>
+				<translation>violet</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="f">violet</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5700">violí<nouns>
+			<translations>
+				<translation catagory="entertainment-music-instrument" gender="m">violin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7140">violoncel<nouns>
+			<translations><date>0605</date>
+				<translation catagory="entertainment-music-instrument" gender="m">cello / violoncello</translation>
+				<translation catagory="entertainment-music" gender="m / f">cellist<synonyms>violoncel·lista</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="430">violoncel·lista<nouns>
+			<translations><date>0605</date>
+				<translation catagory="entertainment-music" gender="m / f">cellist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+          <Entry frequency="670">viral<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="medical">viral<synonyms>víric</synonyms></translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="1070">viratge<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">toning<catnote>Procediment químic mitjançant el qual es canvia el color de la imatge d'un positiu</catnote></translation>
+				<translation gender="m">turn<catnote>gir</catnote></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="698">virar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to turn / to veer</translation>
+				<translation>to tone</translation>
+			</translations>
+		</verbs>
+	</Entry>
+          <Entry frequency="4120">víric<adjectives>
+			<translations><date>0805</date>
+				<translation catagory="medical">viral<fems>vírica</fems><femplural>víriques</femplural><synonyms>viral</synonyms></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="614">viril<adjectives>
+			<translations><date>0705</date>
+				<translation>virile / manly</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3430">virrei<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">viceroy</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="145000">virtual<adjectives>
+			<translations>
+				<translation>virtual<catexamp>Realitat virtual</catexamp>
+					<engexamp>Virtual reality</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="76300">virtut<nouns>
+			<translations>
+				<translation gender="f">virtue</translation>
+				<translation gender="f">property / power</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13400">virus<nouns>
+			<translations>
+				<translation catagory="computers, medical" gender="m">virus</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13800">visat<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">visa</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="23400">visca<exclamations>
+			<translations><date>0605</date>
+				<translation>hurray / hurrah / long live / three cheers for</translation>
+			</translations>
+		</exclamations>
+	</Entry>	
+	<Entry frequency="819">víscera<nouns>
+			<translations><date>0705</date>
+				<translation catagory="body" gender="f">viscus / internal organ</translation>
+				<translation sourceplural="vísceras" catagory="body" gender="fpl">viscera / entrails / innards</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="628">viscós<adjectives>
+			<translations><date>0705</date>
+				<translation>viscous</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="533">visera<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">visor</translation>
+				<translation gender="f">peak</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="5830">visibilitat<nouns>
+			<translations>
+				<translation gender="f">visibility</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20800">visible<adjectives>
+			<translations>
+				<translation>visible</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="945">visigot<nouns>
+			<translations>
+				<translation gender="m">visigoth</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>visigoth<fems>visigoda</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="61100">visió<nouns>
+			<translations>
+				<translation gender="f">vision<plural>visions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1150000">visita<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">visit</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="149000">visitant<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">visitor</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>visiting</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="95000">visitar<verbs conj="regular">
+			<translations>
+				<translation>to visit</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7480">vist i plau<nouns>
+			<translations>
+				<translation gender="m">approval</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="346000">vista<nouns>
+			<translations>
+				<translation gender="f">sight / view</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="834">vistós<adjectives>
+			<translations>
+				<translation>showy / eye-catching / gorgeous / flamboyant </translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="92400">visual<adjectives>
+			<translations>
+				<translation>visual</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="f">line of vision / line of sight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18400">visualitzar<verbs conj="regular">
+			<translations>
+				<translation catagory="computers">to visualize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6220">vitalitat<nouns>
+			<translations>
+				<translation>vitality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9930">vitamina<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vitamin</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="3490">vitrall<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">stained-glass window</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="930">vitrina<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">display case / display cabinet / showcase</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="387">vitroceràmica<nouns>
+			<translations><date>0305</date>
+                        <translation catagory="household-room-kitchen-appliance" gender="f">ceramic hob<plural>vitroceràmiques</plural></translation>
+				<translation gender="f">glass ceramic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1150000">viu<adjectives>
+			<translations><date>0605</date>
+				<translation>alive<fems>viva</fems></translation>
+				<translation>live</translation>
+				<translation>vivacious</translation>
+				<translation>sharp</translation>
+				<translation>lively</translation>
+				<translation>intense / deep
+					<catexamp>És el viu retrat de sa mare</catexamp><engexamp>She's the spitting image of her mother</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>edge<example>Li han cosit un &lt;b&gt;viu&lt;/b&gt; de seda a la vora de les faldilles</example>
+					<example>Llima els &lt;b&gt;vius&lt;/b&gt; d'aquesta peça.</example>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="105000">viure<verbs conj="irregular44">
+			<translations>
+				<translation>to live</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="24600">vivència<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">experience</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="28900">viver<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">breeding ground</translation>
+				<translation gender="m">hatchery / fish farm</translation>
+				<translation gender="m">nursery (plant)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="15200">vocabulari<nouns>
+			<translations>
+				<translation gender="m">vocabulary</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="61000">vocal<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">vowel</translation>
+				<translation gender="f">member<engnote>'Vocal' means 'member' in the sense 'board member'.</engnote></translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>vocal</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="50000">vol<nouns>
+			<translations>
+				<translation catagory="transport" gender="m">flight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7470">volada<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">flight</translation>
+				<translation gender="f">flock</translation>
+				<translation gender="f">eaves / overhang / jutty / projection</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="13500">volant<nouns>
+			<translations><date>0605</date>
+				<translation catagory="transport" gender="m">steering wheel</translation>
+				<translation gender="m">referral note</translation>
+				<translation gender="m">ruffle / flounce / frill</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>flying</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="59000">volar<verbs conj="regular">
+			<translations>
+				<translation catagory="transport">to fly</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="790">volàtil<adjectives>
+			<translations><date>0405</date>
+				<translation>volatile</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="161">vol biplaça<nouns>
+			<translations>
+				<translation gender="m">tandem flight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9710">volcà<nouns>
+			<translations>
+				<translation catagory="naturaldisaster" gender="m">volcano<plural>volcans</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="8780">volcànic<adjectives>
+			<translations><date>0605</date>
+				<translation>volcanic<fems>volcànica</fems><femplural>volcàniques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="12000">voleibol<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports-event" gender="m">volleyball</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="500000">voler<verbs conj="irregular45">
+			<translations><date>0805</date>
+				<translation>to want (to)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="11100">volt<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">turn</translation>
+				<translation gender="m">volt</translation>
+				<translation sourceplural="volts" gender="mpl">surroundings / environs</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="93900">volta<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports" gender="f">lap / round</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="195000">voltant<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">around / about<catexamp>Al voltant (de)</catexamp><engexamp>Around</engexamp></translation>
+                                <translation sourceplural="voltants" gender="mpl">surroundings / environs</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8000">voltar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to turn (over) / to go around</translation>
+				<translation>to surround</translation>
+				<translation>to spin</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7160">voltor<nouns>
+			<translations><date>0805</date>
+				<translation catagory="animal-bird" gender="m">vulture</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="163000">volum<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">volume</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4980">volumètric<adjectives>
+			<translations>
+				<translation>volumetric<fems>volumètrica</fems><femplural>volumètriques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+<Entry frequency="7610">voluminós<adjectives>
+			<translations><date>0805</date>
+				<translation>bulky<plural>voluminosos</plural><fems>voluminosa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="46500">voluntari<nouns>
+			<translations>
+				<translation gender="m / f">volunteer<fems>voluntària</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18000">voluntariat<nouns>
+			<translations>
+				<translation gender="f">volunteering</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="61900">voluntat<nouns>
+			<translations>
+				<translation gender="f">will</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="347">volva<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">speck / wisp</translation>
+				<translation gender="f">snowflake</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4380">vòmit<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">vomit / vomiting</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="52600">vora<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">edge / side
+					<catexamp>A la vora</catexamp><engexamp>Near</engexamp>
+					<catexamp>A la vora del mar</catexamp><engexamp>At the seaside</engexamp>
+				</translation>
+                                <translation gender="f">(river)bank</translation>
+				<translation gender="f">hem</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="682">voraç<adjectives>
+			<translations><date>0706</date>
+				<translation>voracious / avid<catexamp>Un lector voraç</catexamp><engexamp>An avid reader</engexamp></translation>
+				<translation>fierce<catexamp>Un voraç incendi</catexamp><engexamp>A fierce fire</engexamp></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="484">voral<nouns>
+			<translations>
+				<translation gender="m">roadside / verge / shoulder</translation>
+				<translation gender="m">riverbank</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="729">voravia<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">pavement (Br.) / sidewalk (Am.)<synonyms>vorera</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="5090">vorejar<verbs conj="JtoG">
+			<translations><date>0705</date>
+				<translation>to go round / to skirt / to border<example>La dona &lt;b&gt;vorejava&lt;/b&gt; els vuitanta anys</example></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="23400">vorera<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">pavement (Br.) / sidewalk (Am.)<synonyms>voravia</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        	<Entry frequency="368">vòrtex<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">vortex</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25100">vosaltres<pronouns>
+			<translations>
+				<translation>you<engnote>'Vosaltres' is the singular, familiar form of 'you'.</engnote></translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="100000">vostè<pronouns>
+			<translations><date>0605</date>
+				<translation>you<engnote>'Vostè' is the singular, polite form of 'you'.</engnote></translation>
+			</translations>
+		</pronouns>
+	</Entry>
+        <Entry frequency="25100">vostès<pronouns>
+			<translations><date>0605</date>
+				<translation>you<engnote>'Vostè' is the plural, polite form of 'you'.</engnote></translation>
+			</translations>
+		</pronouns>
+	</Entry>
+        <Entry frequency="558000">vostre<adjectives>
+			<translations><date>0605</date>
+				<translation>your</translation>
+			</translations>
+		</adjectives>
+                <pronouns>
+                <translations>
+                <translation>yours<engnote>'Vostre' is the plural, familiar form of 'your' and 'yours'.</engnote><fems>vostra</fems></translation></translations></pronouns>
+	</Entry>
+	<Entry frequency="175000">vot<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">vote</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="58700">votació<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">voting / vote / ballot</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="30200">votar<verbs conj="regular">
+			<translations>
+				<translation catagory="politics">to vote / to ballot</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="48000">vuit<nouns>
+			<translations>
+				<translation catagory="number" gender="m">eight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31900">vuitanta<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">eighty</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="595">vuitens<nouns>
+			<translations>
+				<translation catagory="sport" gender="m">last sixteen<engnote>'Vuitens (de final)' is the stage of a sporting competition before the quarter finals, which is usually referred to in English as 'the last sixteen' (e.g. 'Barça will meet Celtic in the last sixteen of the UEFA Cup' -  'El Barça s'enfronta al Celtic als vuitens de la Copa de la UEFA'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10400">vulgar<adjectives>
+			<translations><date>0605</date>
+				<translation>vulgar / common</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11200">vulnerar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to infringe / to violate</translation>
+				<translation>to hurt / to damage</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="365">vulva<nouns>
+			<translations><date>0605</date>
+				<translation catagory="body" gender="f">vulva</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+</dictionary>

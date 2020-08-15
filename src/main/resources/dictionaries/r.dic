@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Robert Hibbert (Penn State Univ) -->
+<!DOCTYPE ThisDoc [
+	<!ELEMENT AnyEntity (#PCDATA)>
+	<!-- Define entities for symbols -->
+	<!ENTITY % HTMLlat1 PUBLIC
+       "-//W3C//ENTITIES Latin 1 for XHTML//EN"
+       "xhtml-lat1.ent">
+	%HTMLlat1;
+]>
+<dictionary>
+	<Entry frequency="589">rabí<nouns>
+			<translations>
+				<translation catagory="work-job, religious" gender="m">rabbi<plural>rabins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5610">ràbia<nouns>
+			<translations>
+				<translation gender="f">anger / rage</translation>
+				<translation catagory="medical-illness" gender="f">rabies</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26800">raça<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">race / breed</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="664">raça humana<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">human race<synonyms>llinatge humà</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3160">racial<adjectives>
+			<translations>
+				<translation>racial / race</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11400">racisme<nouns>
+			<translations>
+				<translation gender="m">racism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4550">racista<adjectives>
+			<translations>
+				<translation>racist</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m / f">racist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="19">raclet<nouns>
+			<translations><date>0905</date>
+				<translation catagory="food" gender="f">raclette</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="42000">racó<nouns>
+			<translations>
+				<translation gender="m">corner<plural>racons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4020">radar<nouns>
+			<translations>
+				<translation gender="m">radar</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6880">radi<nouns>
+			<translations>
+				<translation catagory="maths" gender="m">radius</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8290">radiació<nouns>
+			<translations>
+				<translation catagory="physics" gender="f">radiation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1010">radiador<nouns>
+			<translations>
+				<translation catagory="household" gender="m">radiator</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16100">radical<adjectives>
+			<translations>
+				<translation>radical / extreme</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="685">radicalisme<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">radicalism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="628">radicalitzar<verbs conj="regular">
+			<translations>
+				<translation catagory="politics">to radicalize / to become more radical</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5570">radicalment<adverbs>
+			<translations>
+				<translation>radically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="64100">ràdio<nouns>
+			<translations>
+				<translation gender="f">radio</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3330">radioactiu<adjectives>
+			<translations>
+				<translation catagory="physics">radioactive<fems>radioactiva</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1300">radioactivitat<nouns>
+			<translations>
+				<translation catagory="physics" gender="f">radioactivity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2970">radiodifusió<nouns>
+			<translations>
+				<translation catagory="media" gender="f">broadcast</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5300">radiofònic<adjectives>
+			<translations>
+				<translation catagory="media">radio<catexamp>Programa radiofònic</catexamp>
+					<engexamp>Radio program</engexamp><fems>radiofònica</fems><femplural>radiofòniques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="8940">radiografia<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical" gender="f">x-ray / radiograph</translation>
+                                <translation catagory="medical" gender="f">radiography</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="468">radiòleg<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical, work-job">radiologist<fems>radiòloga</fems><femplural>radiòlogues</femplural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8480">radiologia<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical-treatment, medical-field" gender="f">radiology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3410">radioteràpia<nouns>
+			<translations><date>0705</date>
+				<translation catagory="medical-treatment" gender="f">radiotherapy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="650">ràfega<nouns>
+			<translations>
+				<translation disambiguate="weather" gender="f">gust</translation>
+				<translation gender="f">burst / hail (of bullets / fire)<plural>ràfegues</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9480">raig<nouns>
+			<translations>
+				<translation gender="m">ray</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7220">raïm<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="m">grapes</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="3500">rajar<verbs conj="JtoG">
+			<translations><date>0305</date>
+				<translation>to pour</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4610">rajola<nouns>
+			<translations>
+				<translation gender="f">tile</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14100">ral·li<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="m">rally (driving)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3480">ram<nouns>
+			<translations>
+				<translation gender="m">bunch<engnote>'Ram' means 'bunch' as in 'bunch of flowers'</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="2200">ramadà<nouns>
+			<translations><date>0905</date>
+				<translation catagory="religious" gender="m">Ramadan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="31000">ramader<nouns>
+			<translations><date>0805</date>
+				<translation catagory="work-job, animal" gender="m / f">(livestock) farmer<fems>ramadera</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="10600">ramat<nouns>
+			<translations><date>0805</date>
+				<translation disambiguate="animal" gender="m">flock / herd</translation>
+                                <translation disambiguate="religious" gender="m">flock</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2410">ranci<adjectives>
+			<translations>
+				<translation>rancid / stale<fems>rància</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="200">ranera<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">rattle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1110">ranxo<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">ranch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="226000">raó<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">reason<catexamp>Raó de ser</catexamp>
+					<engexamp>Raison d'être</engexamp>
+					<plural>raons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="30700">raonable<adjectives>
+			<translations><date>0605</date>
+				<translation>reasonable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="1000">rap<nouns>
+			<translations><date>0605</date>
+				<translation catagory="food-fish, animal-fish" gender="m">monkfish</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="158000">ràpid<adjectives>
+			<translations><date>0605</date>
+				<translation>quick / fast / rapid<fems>ràpida</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="53400">ràpidament<adverbs>
+			<translations><date>0605</date>
+				<translation>quickly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="5090">raqueta<nouns>
+			<translations>
+				<translation catagory="sports-event-tennis, sports-event-badminton, sports-event-squash" gender="f">racket<catexamp>Raquetes de neu</catexamp>
+					<engexamp>Snow shoes</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="560">raqueta de neu<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">snow shoe</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="313">raquític<adjectives>
+			<translations><date>0705</date>
+				<translation>rachitic / puny / scrawny</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="30700">rar<adjectives>
+			<translations><date>0605</date>
+				<translation>rare<fems>rara</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6950">rarament<adverbs>
+			<translations><date>0605</date>
+				<translation>rarely</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="4000">raresa<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">rarity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1140">rasclet<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">rake</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="7080">raspall<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">brush<catexamp>Raspall de dents</catexamp><engexamp>Toothbrush</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="131">ràster<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">raster</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">rastre<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">trace</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16000">rata<nouns>
+			<translations><date>0605</date>
+				<translation catagory="animal-animal" gender="f">rat</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="135">rata de biblioteca<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">bookworm<synonyms>ratolí de biblioteca</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+               <Entry frequency="432">rata-pinyada<nouns>
+			<translations><date>0805</date>
+				<translation catagory="animal-animal" gender="f">bat<synonyms>rat-penat</synonyms><plural>rates-pinyades</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="19900">ratificació<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">ratification<plural>ratificacions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14200">ratificar<verbs conj="CtoQU">
+			<translations>
+				<translation>to ratify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="8740">ratlla<nouns>
+			<translations>
+				<translation gender="f">line</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1">ratolí<nouns>
+			<translations>
+				<translation catagory="animal-animal, animal-animal" gender="m">mouse<plural>ratolins</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="108">ratolí de biblioteca<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">bookworm<synonyms>rata de biblioteca</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+               <Entry frequency="3870">rat-penat<nouns>
+			<translations><date>0805</date>
+				<translation catagory="animal-animal" gender="m">bat<synonyms>rata-pinyada</synonyms><plural>rats-penats</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2520">ratxa<nouns>
+			<translations>
+				<translation gender="f">spell / period</translation>
+                                <translation catagory="weather" gender="f">gust<synonyms>ràfega</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="2530">rave<nouns>
+			<translations><date>0405</date>
+				<translation catagory="food-vegetable" gender="m">radish</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="105">ravioli<nouns>
+			<translations>
+				<translation catagory="food" gender="m">ravioli</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="275">raviolis<nouns>
+			<translations>
+				<translation catagory="food" gender="m">ravioli</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="69900">reacció<nouns>
+			<translations>
+				<translation gender="f">reaction<plural>reaccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9410">reaccionar<verbs conj="regular">
+			<translations>
+				<translation>to react<catexamp>Reaccionar a alguna cosa</catexamp>
+					<engexamp>To react to something</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6360">reaccionari<adjectives>
+			<translations>
+				<translation>reactionary<fems>reaccionària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="287000">realitat<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">reality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="564000">realitzar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation>to carry out / to make</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="125000">realment<adverbs>
+			<translations><date>0405</date>
+				<translation>really</translation>
+                                <translation>bitterly<catexamp>Realment decebut</catexamp><engexamp>Bitterly / really disappointed</engexamp></translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        <Entry frequency="6000">reanimació<nouns>
+			<translations><date>0905</date>
+				<translation catagory="medical" gender="f">resuscitation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="944">reanimar<verbs conj="regular">
+			<translations><date>0905</date>
+				<translation catagory="medical">to resuscitate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="3700">rebel·lió<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">rebellion / uprising<plural>rebel·lions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="723">rebombori<nouns>
+			<translations>
+				<translation>hullabaloo / fuss</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9620">rebost<nouns>
+			<translations>
+				<translation catagory="household" gender="m">pantry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="138000">rebre<verbs conj="irregular30">
+			<translations>
+				<translation>to receive</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="21100">rebuig<nouns>
+			<translations>
+				<translation gender="m">rejection<plural>rebuigs / rebutjos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19900">rebutjar<verbs conj="JtoG">
+			<translations>
+				<translation>to reject</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6160">recalcar<verbs conj="CtoQU">
+			<translations>
+				<translation>to underline / to emphasize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="40600">recaptació<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">takings</translation>
+                                <translation gender="f">gate</translation>
+                                <translation gender="f">collection</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="12800">recàrrec<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">surcharge / extra charge</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="29200">recentment<adverbs>
+			<translations>
+				<translation>recently</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="83900">recepció<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">reception</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="3780">recepcionista<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">recepcionist</translation>
+				<translation gender="m / f">clerk (hotel)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1350">receptari<nouns>
+			<translations>
+				<translation gender="m">recipe book</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20500">recepta<nouns>
+			<translations>
+				<translation gender="m">recipe</translation>
+				<translation catagory="medical" gender="m">prescription</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="170000">recerca<nouns>
+			<translations>
+				<translation gender="f">research<plural>recerques</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3130">recessió<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">recession<plural>recessions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6500">reciclar<verbs conj="regular">
+			<translations>
+				<translation>to recycle</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5400">reciclat<adjectives>
+			<translations>
+				<translation>recycled<fems>reciclada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="16300">reciclatge<nouns>
+			<translations>
+				<translation gender="m">recycling</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="54600">reclamació<nouns>
+			<translations>
+				<translation gender="f">demand</translation>
+                                <translation gender="f">claim<plural>reclamacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34700">reclamar<verbs conj="regular">
+			<translations>
+				<translation>to demand</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="508">reclús<nouns>
+			<translations><date>0505</date>
+				<translation gender="m / f">prisoner / inmate<fems>reclusa</fems><plural>reclusos</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="106000">recollir<verbs conj="irregular3">
+			<translations>
+				<translation>to collect</translation>
+                                <translation>to gather</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="32700">recolzament<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">support</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18500">recolzar<verbs conj="regular">
+			<translations>
+				<translation>to support</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="38200">recomanació<nouns>
+			<translations>
+				<translation gender="f">recommendation<plural>recomanacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="59400">recomanar<verbs conj="regular">
+			<translations>
+				<translation>to recommend</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2990">recompensa<nouns>
+			<translations>
+				<translation gender="f">compensation / recompense (formal)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1200">recompensar<verbs conj="regular">
+			<translations>
+				<translation>to compensate / to recompense (formal)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        	<Entry frequency="333">recompilar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation catagory="computers-programming">to recompile</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="8620">recompte<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">count / tally</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="153000">reconeixement<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">recognition / acknowledgement<catexamp>Reconeixement (òptic) de caràcters</catexamp>
+					<engexamp>Optical character recognition (OCR)</engexamp><catexamp>Reconeixement de veu</catexamp><engexamp>Voice recognition</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+               <Entry frequency="959">reconeixement mèdic<nouns>
+			<translations><date>0805</date>
+				<translation catagory="medical" gender="m">medical</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="183000">reconèixer<verbs conj="irregular8">
+			<translations><date>0605</date>
+				<translation>to recognize / to acknowledge</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="34800">reconstrucció<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">reconstruction<plural>reconstruccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="18200">reconstruir<verbs conj="irregular2">
+			<translations><date>0605</date>
+				<translation>to reconstruct</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="10900">reconversió<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">reconversion<plural>reconversions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="10800">recopilar<verbs conj="regular">
+			<translations><date>0405</date>
+				<translation>to compile</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="15400">rècord<nouns>
+			<translations><date>0805</date>
+				<translation catagory="sports" gender="m">record<synonyms>plusmarca</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="283000">recordar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to remember</translation>
+				<translation>to remind</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="108000">recorregut<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">journey / route</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3960">recta final<nouns>
+			<translations><date>0605</date>
+				<translation catagory="sports-event-athletics" gender="f">home straight</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6810">rectangle<nouns>
+			<translations><date>0605</date>
+				<translation catagory="maths" gender="m">rectangle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11000">rectangular<adjectives>
+			<translations><date>0605</date>
+				<translation>rectangular</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="37400">recte<adjectives>
+			<translations><date>0605</date>
+				<translation>straight<catexamp>Tot recte</catexamp>
+					<engexamp>Straight on</engexamp>
+					<catexamp>Angle recte</catexamp>
+					<engexamp>Right angle</engexamp>
+				</translation>
+				<translation>honest<fems>recta</fems></translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation catagory="body" gender="m">rectum</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17500">rectificar<verbs conj="CtoQU">
+			<translations><date>0605</date>
+				<translation>to rectify / put right</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="246000">recull<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">collection</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="133000">recuperar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to recover / to regain</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="540000">recurs<nouns>
+			<translations>
+				<translation gender="m">resource<plural>recursos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="58600">redacció<nouns>
+			<translations>
+				<translation gender="f">writing / editing<plural>redaccions</plural>
+				</translation>
+				<translation gender="f">editorial office</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="30600">redactar<verbs conj="regular">
+			<translations>
+				<translation>to write / to compose / to put together / to edit / to draw up<example>Com &lt;b&gt;redactar&lt;/b&gt; un currículum...</example>
+					<example>Convocatòria d'ajuts per a &lt;b&gt;redactar&lt;/b&gt; tesis doctorals en català.</example>
+					<example>Si no s'escull expressament la llengua, el document &lt;b&gt;es redacta&lt;/b&gt; en català.</example>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="21200">redactor<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">editor</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1650">redescobrir<verbs conj="irregular7">
+			<translations>
+				<translation>to rediscover</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="266">redoblar<verbs conj="regular">
+			<translations>
+				<translation>to increase / to intensify / to multiply / to step up</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="59600">reduir<verbs conj="irregular2">
+			<translations>
+				<translation>to reduce</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2320">reemborsament<nouns>
+			<translations>
+				<translation gender="m">reimbursement / refund</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="474">reemborsar<verbs conj="regular">
+			<translations>
+				<translation>to pay back / to reimburse</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2130">reestructurar<verbs conj="regular">
+			<translations>
+				<translation>to restructure / to reorganize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="13900">refer<verbs conj="irregular48">
+			<translations>
+				<translation>to redo / to remake</translation>
+				<translation>to recover / to recuperate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="114000">referència<nouns>
+			<translations>
+				<translation gender="f">reference<catexamp>En referència a</catexamp>
+					<engexamp>In reference to</engexamp><catexamp>De referència</catexamp><engexamp>Authoritative</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7130">referèndum<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">referendum</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="62100">referent a<preposition>
+			<translations>
+				<translation>concerning / regarding / relating to / as regards</translation>
+			</translations>
+		</preposition>
+	</Entry>
+	<Entry frequency="51100">referir<verbs conj="inceptive">
+			<translations>
+				<translation>to refer<catexamp>Referir a alguna cosa</catexamp>
+					<engexamp>To refer to something</engexamp>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="900">refinar<verbs conj="regular">
+			<translations>
+				<translation>to refine</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6320">refinat<adjectives>
+			<translations>
+				<translation>refined<fems>refinada</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="348">reflexologia<nouns>
+			<translations>
+				<translation gender="f">reflexology<catexamp>Reflexologia podal</catexamp>
+					<engexamp>Foot reflexology</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11800">reforç<nouns>
+			<translations>
+				<translation gender="m">reinforcement<plural>reforços</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28500">reforçar<verbs conj="çtoC">
+			<translations>
+				<translation>to reinforce</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="60000">reforma<nouns>
+			<translations>
+				<translation gender="f">reform</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3370">refrany<nouns>
+			<translations>
+				<translation gender="m">expression / idiom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="7300">refredar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation transitive="true">to cool</translation>
+                                <translation reflexive="refredar-se">to cool down</translation>
+                                <translation reflexive="refredar-se">to catch cold</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="17700">refugi<nouns>
+			<translations>
+				<translation gender="m">shelter / refuge</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7620">refugiat<nouns>
+			<translations>
+				<translation gender="m / f">refugee<fems>refugiada</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3640">refús<nouns>
+			<translations>
+				<date>0205</date>
+				<translation gender="m">refusal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="549">refutar<verbs conj="regular">
+			<translations>
+				<translation>to refute / deny</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="16700">regal<nouns>
+			<translations>
+				<translation gender="m">present / gift</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11000">regalar<verbs conj="regular">
+			<translations>
+				<translation>to give sth as a present</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="642">regalimar<verbs conj="regular">
+			<translations><date>0305</date>
+				<translation>to drip</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="51">regany<nouns>
+			<translations><date>0405</date>
+				<translation>reproach / reproval / rebuke</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="8040">regar<verbs conj="GtoGU">
+			<translations><date>0505</date>
+				<translation catagory="plant">to water / to irrigate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="510">regatejar<verbs conj="JtoG">
+			<translations><date>0605</date>
+				<translation>to haggle / to bargain</translation>
+				<translation catagory="sports">to dribble</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="706">regatista<nouns>
+			<translations><date>0305</date>
+				<translation catagory="sports-event-yachting" gender="m / f">yachtsman / yachtswoman</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="800">regentar<verbs conj="regular">
+			<translations><date>0305</date>
+				<translation>to run</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="88500">règim<nouns>
+			<translations>
+				<translation gender="m">regime</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="51400">regió<nouns>
+			<translations>
+				<translation gender="f">region<plural>regions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46900">regional<adjectives>
+			<translations>
+				<translation>regional</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="214000">registrar<verbs conj="regular">
+			<translations><date>0305</date>
+                        <translation>to register</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="324000">registre<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">register</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="34900">regla<nouns>
+			<translations>
+				<translation gender="f">rule</translation>
+				<translation gender="f" catagory="medical">period</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="59100">reglament<nouns>
+			<translations>
+				<translation>rules / regulations</translation>
+				<translation>guidelines</translation>
+			</translations>
+		</nouns>
+	</Entry>
+            <Entry frequency="11700">regnar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to reign / to rule</translation>
+                                <translation>to prevail</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="30000">regne<nouns>
+			<translations>
+				<translation gender="m">kingdom<catexamp>Regne Unit</catexamp>
+					<engexamp>United Kingdom</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16300">Regne Unit<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="m">United Kingdom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="360">reguera<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">trail</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5530">regularitat<nouns>
+			<translations>
+				<translation gender="f">regularity<catexamp>Amb regularitat</catexamp>
+					<engexamp>Regularly</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="60000">rehabilitació<nouns>
+			<translations>
+				<translation gender="f">renovation<plural>rehabilitacions</plural>
+				</translation>
+				<translation gender="f">rehabilitation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9500">rehabilitar<verbs conj="regular">
+			<translations>
+				<translation>to renovate / to do up (Br.)</translation>
+				<translation>to rehabilitate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="58900">rei<nouns>
+			<translations>
+				<translation catagory="monarchy" gender="m">king</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="476">reiki<nouns>
+			<translations>
+				<translation gender="m">reiki</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16300">reina<nouns>
+			<translations>
+				<translation catagory="monarchy" gender="f">queen</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="634">reincidir<verbs conj="inceptive">
+			<translations>
+				<translation catagory="crime">to reoffend</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3510">reintegrament<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">repayment / refund / reimbursement</translation>
+                                <translation gender="m">withdrawal</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="14900">reiterar<verbs conj="regular">
+			<translations>
+				<translation>to reiterate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="12300">reivindicar<verbs conj="CtoQU">
+			<translations>
+				<translation>to demand / to claim</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="182000">relació<nouns>
+			<translations>
+				<translation gender="f">relationship / relation<plural>relacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="57400">relacionar<verbs conj="regular">
+			<translations>
+				<translation>to link</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="14600">relacions públiques<nouns>
+			<translations><date>0405</date>
+				<translation gender="fpl">public relations</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16200">relat<nouns>
+			<translations>
+				<translation gender="m">story / tale</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="76300">relatiu<adjectives>
+			<translations>
+				<translation catagory="family">relative<fems>relativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="30300">religió<nouns>
+			<translations>
+				<translation catagory="religious" gender="f">religion<plural>religions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="36300">religiós<adjectives>
+			<translations>
+				<translation catagory="religious">religious<fems>religiosa</fems>
+					<plural>religiosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+          <Entry frequency="665">religiositat<nouns>
+			<translations><date>0405</date>
+				<translation catagory="religious" gender="f">religiosity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1680">relíquia<nouns>
+			<translations>
+				<translation catagory="religious" gender="f">relic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25900">relleu<nouns>
+			<translations>
+				<translation gender="m">relay</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12500">rellevància<nouns>
+			<translations>
+				<translation gender="f">relevance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="238">rellogat<nouns>
+			<translations><date>0505</date>
+				<translation gender="m / f">subletter / sublessee<fems>rellogada</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="23300">rellotge<nouns>
+			<translations>
+				<translation gender="m">clock</translation>
+				<translation catagory="clothes-accessories" gender="m">watch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7550">rem<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="m">rowing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3340">remitent<nouns>
+			<translations>
+				<translation>sender</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="376">remolatxa<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="f">beetroot</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="29000">renda<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">income</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="804">renda per càpita<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">per capita income</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10000">rendibilitat<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">profitability</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6070">rendible<adjectives>
+			<translations>
+				<translation catagory="financial">profitable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="32800">rendiment<nouns>
+			<translations>
+				<translation gender="m">performance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4290">rendir<verbs conj="inceptive">
+			<translations>
+				<translation>to hand over</translation>
+				<translation>to give / to provide<example>Amb l'entrenament busquem una millora quantitativa de la funció que realitza el múscul (&lt;b&gt;rendir&lt;/b&gt; més).</example>
+					<example/>
+					<catexamp>Rendir homenatge a</catexamp>
+					<engexamp>To pay homage to</engexamp>
+				</translation>
+                                <translation reflexive="rendir-se">to surrender / to capitulate<example>El tracte rebut pels presos capturats o que &lt;b&gt;s&lt;/b&gt;'havien &lt;b&gt;rendit&lt;/b&gt; a l'Afganistan va generar una profunda preocupació.</example>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="643">renec<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">curse / swearword</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="91">renillar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation catagory="animal">to neigh</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="4720">renom<nouns>
+			<translations>
+				<translation gender="m">renown / fame<catexamp>De renom</catexamp>
+					<engexamp>Renowned / well-known / famous</engexamp>
+					<catexamp>De renom mundial</catexamp>
+					<engexamp>World-famous / world-renowned</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="33800">renovació<nouns>
+			<translations>
+				<translation gender="f">renovation / renewal<plural>renovacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="22200">renovar<verbs conj="regular">
+			<translations>
+				<translation>to renew / to renovate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2810">rentadora<nouns>
+			<translations>
+				<translation catagory="household-room-kitchen" gender="f">washing machine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="944">rentamans<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">washbasin</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="916">rentaplats<nouns>
+			<translations><date>0405</date>
+				<translation catagory="household-room-kitchen" gender="m">dishwasher<synonyms>rentavaixelles</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12400">rentar<verbs conj="regular">
+			<translations>
+				<translation>to wash</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="98">rentat de cervell<nouns>
+			<translations>
+				<translation gender="m">brainwashing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1360">rentavaixelles<nouns>
+			<translations><date>0405</date>
+				<translation catagory="household-room-kitchen" gender="m">dishwasher<synonyms>rentaplats</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="41300">renúncia<nouns>
+			<translations>
+				<translation gender="f">renunciation / giving up / abandonment</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19400">renunciar<verbs conj="irregular1">
+			<translations>
+				<translation>to resign / to give up / to abandon / to abdicate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1290">renyar<verbs conj="regular">
+			<translations>
+				<translation>to tell someone off / to scold / to give someone a ticking off / to give someone a dressing down</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="803">reobertura<nouns>
+			<translations>
+				<translation gender="f">reopening</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1990">reobrir<verbs conj="irregular31">
+			<translations>
+				<translation>to reopen</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="429">reomplir<verbs conj="irregular46">
+			<translations>
+				<translation>to refill<example>&lt;b&gt;Reomplir&lt;/b&gt; un cartutx o un tòner costa un 50% del preu de cost inicial (només es paga de nou la tinta).</example>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1520">reordenar<verbs conj="regular">
+			<translations>
+				<translation>to rearrange / to reorder</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2090">reorganitzar<verbs conj="regular">
+			<translations>
+				<translation>to reorganize (Am.) / to reorganise (Br.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7490">reparar<verbs conj="regular">
+			<translations>
+				<translation>to repair / to fix / to mend</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="551">repartició<nouns>
+			<translations>
+				<translation gender="f">distribution</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19000">repartiment<nouns>
+			<translations>
+				<translation gender="m">distribution</translation>
+				<translation gender="m">delivery</translation>
+                                <translation gender="m">cast</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20100">repartir<verbs conj="inceptive">
+			<translations>
+				<translation>to share out / to distribute</translation>
+				<translation>to hand out</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="13000">repàs<nouns>
+			<translations>
+				<translation>review / revision</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8900">repassar<verbs conj="regular">
+			<translations>
+				<translation>to review / to go over</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="684">repatriació<nouns>
+			<translations>
+				<translation catagory="politics" gender="f">repatriation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="302">repatriar<verbs conj="regular">
+			<translations>
+				<translation catagory="politics">to repatriate</translation>
+				<translation>to bring / send home</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="418">repel·lent<nouns>
+			<translations>
+				<translation>repellent<catexamp>Repel·lent (d'insectes)</catexamp>
+					<engexamp>(Insect) repellent</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>repellent / obnoxious / vile</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="269">repel·lir<verbs conj="inceptive">
+			<translations>
+				<translation>to repel / to fend off / to keep (sth / sb) at bay</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="18600">repercussió<nouns>
+			<translations>
+				<translation gender="f">repercussion<plural>repercussions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5550">repercutir<verbs conj="inceptive">
+			<translations>
+				<translation>to affect</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="15400">repertori<nouns>
+			<translations>
+                        <translation gender="m">index</translation>
+				<translation gender="m">repertoire</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9230">repetició<nouns>
+			<translations>
+				<translation gender="f">repetition<plural>repeticions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3050">repetidament<adverbs>
+			<translations>
+				<translation>repeatedly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="37700">repetir<verbs conj="inceptive">
+			<translations>
+				<translation>to repeat</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="6040">replantejament<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">new perspective / reorganization</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="800">replegar<verbs conj="GtoGU">
+			<translations>
+				<translation>to withdraw</translation>
+				<translation>to pick up / collect / gather</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="270">replet<adjectives>
+			<translations>
+				<translation>full / packed (full of)<fems>repleta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="8000">rèplica<nouns>
+			<translations>
+				<translation gender="f">answer / reply<plural>rèpliques</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3600">replicar<verbs conj="CtoQU">
+			<translations>
+				<translation>to reply</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="41000">reportatge<nouns>
+			<translations>
+				<translation gender="m">report / news story</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="307">reposacaps<nouns>
+			<translations><date>0905</date>
+				<translation gender="m">headrest</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="83">reposapeus<nouns>
+			<translations>
+				<translation gender="m">footstool / footrest</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7340">reposar<verbs conj="regular">
+			<translations>
+				<translation>to rest</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="24700">reprendre<verbs conj="irregular6">
+			<translations>
+				<translation>to resume / to start something up again / to restart</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1990">represàlia<nouns>
+			<translations>
+				<translation gender="f">reprisal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="81700">representant<nouns>
+			<translations>
+				<translation gender="m / f">representative</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="103000">representar<verbs conj="regular">
+			<translations>
+				<translation>to represent<engnote>'Representar' can mean 'to represent' in the sense 'to represent a threat, a problem or a danger', 'to represent a saving, an increase or an investment', 'to represent a percentage, a fraction or a proportion of something', or 'to represent a group, an organization or a country'.  It can also mean 'to represent' in the sense 'to symbolize' or 'to depict'.</engnote>
+				</translation>
+				<translation>to play (a role)<engnote>'Representar' can mean 'to play a role' as in 'to play a role in a play / movie' or also, in a more figurative sense (i.e. 'her husband's support played a role in her success' or 'his father played a major role in his decision to leave university').</engnote>
+				</translation>
+				<translation>to put on / to stage (a play)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="34900">repressió<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">repression<plural>repressions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="4900">repressiu<adjectives>
+			<translations><date>0405</date>
+				<translation>repressive<fems>repressiva</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="3420">reprimir<verbs conj="inceptive">
+			<translations><date>0405</date>
+				<translation>to repress</translation>
+                                <translation>to supress</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="48100">reproducció<nouns>
+			<translations>
+				<translation gender="f">reproduction<plural>reproduccions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21800">reproduir<verbs conj="irregular2">
+			<translations>
+				<translation>to reproduce</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="329">reprotxar<verbs conj="regular">
+			<translations><date>0305</date>
+				<translation>to reproach</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="1080">reptar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to challenge</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="103000">repte<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">challenge</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25000">república<nouns>
+			<translations>
+				<translation gender="f">republic<plural>repúbliques</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1490">República Centreafricana<nouns>
+			<translations><date>0805</date>
+				<translation catagory="country-africa" gender="f">Central African Republic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="521">República Democràtica del Congo<nouns>
+			<translations>
+				<translation catagory="country-africa" gender="f">(The) Democratic Republic of the Congo</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2390">República Txeca<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="f">Czech Republic</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="694">repugnant<adjectives>
+			<translations><date>0705</date>
+				<translation>repugnant / abhorrent</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="1470">repulsa<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">disgust</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="805">repunt<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">backstitch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="440">repuntar<verbs conj="regular">
+			<translations><date>0605</date>
+				<translation>to backstitch</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="1880">reproductor d'MP3<nouns>
+			<translations><date>0405</date>
+				<translation catagory="entertainment-music" gender="m">MP3 player</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56500">requisit<nouns>
+			<translations>
+				<translation>requirement</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24700">rere<mistakes>rera</mistakes><adverbs>
+			<translations><date>0705</date>
+				<translation>behind / at the back</translation>
+				<translation>after</translation>
+			</translations>
+		</adverbs>
+		<prepositions>
+			<translations>
+				<translation>behind</translation>
+				<translation>after</translation>
+			</translations>
+		</prepositions>
+	</Entry>
+	<Entry frequency="5960">rerefons<nouns>
+			<translations><date>0705</date>
+				<translation gender="m">background / backdrop</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="94700">res<pronouns>
+			<translations>
+				<translation>nothing</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="910">ressaca<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">hangover</translation>
+				<translation gender="f">undertow / undercurrent</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+
+	<Entry frequency="2820">resar<verbs conj="regular">
+			<translations>
+				<translation catagory="religious">to pray</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5180">rescat<nouns>
+			<translations>
+				<translation gender="m">rescue</translation>
+				<translation gender="m">ransom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3970">rescatar<verbs conj="regular">
+			<translations>
+				<translation>to rescue / save</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="65800">reserva<nouns>
+			<translations>
+				<translation gender="f">reservation / booking</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9440">reservar<verbs conj="regular">
+			<translations>
+				<translation>to reserve / to put aside</translation>
+                                <translation>to reserve / to book</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="10100">resguard<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">receipt</translation>
+                                <translation gender="m">shelter / protection</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="143000">residència<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">residence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="569">residència de gent gran<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">old peoples' home / old folks' home / nursing home / rest home (Am.)<synonyms>residència d'avis</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="982">residéncia d'estudiants<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">hall of residence (Br.)/ dorm (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10200">residir<verbs conj="inceptive">
+			<translations>
+				<translation>to live / reside</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="101000">residu<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">waste</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="976">residus nuclears<nouns>
+			<translations><date>0405</date>
+				<translation gender="mpl">nuclear waste</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1590">resignació<nouns>
+			<translations>
+				<translation gender="f">resignation<engnote>'Resignació' means 'resignation' as in 'to resign yourself to something'. 'Resignation' as in 'to quit your job' is 'dimissió"</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26600">resistència<nouns>
+			<translations>
+				<translation gender="f">resistance</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7070">resistent<adjectives>
+			<translations>
+				<translation>resistant</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="9150">resistir<verbs conj="inceptive">
+			<translations>
+				<translation>to resist</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="80400">resoldre<verbs conj="irregular38">
+			<translations>
+				<translation>to resolve / solve</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="107000">resolució<nouns>
+			<translations>
+				<translation gender="f">resolution<plural>resolucions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="32100">respectar<verbs conj="regular">
+			<translations>
+				<translation>to respect</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="105000">respecte<nouns>
+			<translations>
+				<translation gender="m">respect</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46300">respectiu<adjectives>
+			<translations>
+				<translation>respective<fems>respectiva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="83700">respectivament<adverbs>
+			<translations><date>0505</date>
+				<translation>respectively</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="11800">respiració<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">breathing<plural>respiracions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18500">respirar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to breathe</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="295000">respondre<verbs conj="irregular6">
+			<translations><date>0805</date>
+				<translation>to respond</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="526000">responsable<nouns>
+			<translations><date>0805</date>
+				<translation gender="m / f">person / man / woman in charge</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>responsible</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="280000">responsabilitat<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">responsibility</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="358000">resposta<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">reply / answer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20400">ressaltar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to highlight</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="32700">ressenya<nouns><mistakes>resenya</mistakes>
+			<translations><date>0605</date>
+				<translation gender="f">review / account / outline</translation>
+                                <translation gender="f">review / inspection<engnote>'Ressenya' means 'review' or 'inspection' in the military sense.</engnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1040">ressorgir<verbs conj="inceptive">
+			<translations><date>0605</date>
+				<translation intransitive="true">to reappear / to reemerge / to resurge</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="5230">ressuscitar<verbs conj="regular">
+			<translations><date>0905</date>
+				<translation transitive="true">to resurrect</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="12000">restablir<verbs conj="irregular7"><mistakes>reestablir</mistakes>
+			<translations><date>0805</date>
+				<translation>to re-establish / to resume / to restore</translation>
+				<translation catagory="medical">to recover</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="42700">restar<verbs conj="regular">
+			<translations><date>0305</date>
+				<translation>to stay / to remain / to be left / to have left</translation>
+				<translation>to subtract</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="94100">restauració<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">restoration<plural>restauracions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="137000">restaurant<nouns>
+			<translations><date>0805</date>
+				<translation catagory="food" gender="m">restaurant</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21000">restaurar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to restore</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1260000">resultat<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">result / outcome</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="209000">resum<nouns>
+			<translations>
+				<translation gender="m">summary</translation>
+                                <translation gender="m">abridgement (Br.) / abridgment (Am.)</translation>
+			</translations>
+		</nouns>
+                <expressions>en resum
+                <translations>
+                <translation>in short</translation></translations></expressions>
+	</Entry>
+        <Entry frequency="47900">resumir<verbs conj="irregular55">
+			<translations><date>0605</date>
+				<translation>to summarize / to summarise (Br.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="22500">resumit<adjectives>
+			<translations><date>0705</date>
+				<translation>abridged<fems>resumida</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="15600">retallar<verbs conj="regular">
+			<translations>
+				<translation>to cut (out)<catexamp>Retallar i enganxar</catexamp>
+					<engexamp>Cut and paste</engexamp>
+				</translation>
+				<translation>to cut (back)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="16700">retard<nouns>
+			<translations>
+				<translation gender="m">delay</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="7570">retaule<nouns>
+			<translations><date>0405</date>
+				<translation catagory="religious" gender="m">altarpiece</translation>
+			</translations>
+		</nouns>
+	</Entry>
+                <Entry frequency="16000">retenció<nouns>
+			<translations><date>0305</date>
+				<translation catagory="transport" gender="f">hold-up</translation>
+                                <translation catagory="medical" gender="f">retention</translation>
+                                <translation catagory="financial" gender="f">deduction<plural>retencions</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3040">retina<nouns>
+			<translations>
+				<translation catagory="body" gender="f">retina</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="18500">retirada<nouns>
+			<translations>
+				<translation gender="f">withdrawal<example>El Parlament israelià debat el pla de &lt;b&gt;retirada&lt;/b&gt; dels assentaments jueus de Gaza.</example>
+					<example>El primer ministre japonès rebutja la &lt;b&gt;retirada&lt;/b&gt; de les tropes.</example>
+				</translation>
+				<translation gender="f">retirement<example>Carlos Sainz anuncia la seva &lt;b&gt;retirada&lt;/b&gt; del Mundial de ral·lis.</example>
+				</translation>
+				<translation gender="f">removal<example>Taxa per la &lt;b&gt;retirada&lt;/b&gt; de vehicles abandonats a la via pública.</example>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="21800">retirar<verbs conj="regular">
+			<translations>
+				<translation>to take away</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="193">retractable<adjectives>
+			<translations><date>0705</date>
+				<translation>retractable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="105">retractació<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">retraction</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="823">retractar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to retract</translation>
+			</translations>
+		</verbs>
+	</Entry>	
+	<Entry frequency="11200">retrat<nouns>
+			<translations>
+				<translation gender="m">portrait</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="77100">reunió<nouns>
+			<translations>
+				<translation catagory="work" gender="f">meeting<plural>reunions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="63000">reunir<verbs conj="inceptive">
+			<translations>
+				<translation>to meet / to assemble</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="1230">revés<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">other side / back</translation>
+                                <translation catagory="sports-event-tennis" gender="m">backhand</translation>
+                                <translation gender="m">(heavy) blow<example>Després de perdre la feina, la dona li va demanar la separació; va ser un &lt;b&gt;revés&lt;/b&gt; molt dur.</example></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1230">al revés<adverbs>
+			<translations><date>0305</date>
+				<translation>backwards<catexamp>Duus la camisa posada al revés.</catexamp><engexamp>You have your shirt on backwards / you've got your shirt on backwards</engexamp><catexamp>Pots lletrejar al revés el mot 'Mississippi'?</catexamp><engexamp>Can you spell 'Mississippi' backwards?</engexamp><catexamp>No, ho tens al revés; en anglès has de dir 'A rebus substitutes pictures for words'</catexamp><engexamp>No, you have / you've got it backwards; in English you must say 'A rebus substitutes pictures for words.'</engexamp></translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="621">revifalla<nouns>
+			<translations>
+				<translation gender="f">revival</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3810">revifar<verbs conj="regular">
+			<translations>
+				<translation>to revive / to pick up (again)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="24100">revisar<verbs conj="regular">
+			<translations>
+				<translation gender="m">to check / to review / to revise / to go over</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="121000">revista<nouns>
+			<translations>
+				<translation gender="f">magazine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1680">revitalitzar<verbs conj="regular">
+			<translations>
+				<translation>to revitalize</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="4920">revolt<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">bend</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="29200">revolta<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">revolt / uprising</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20000">revolució<nouns>
+			<translations>
+				<translation gender="f">revolution</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3110">revolució industrial<nouns>
+			<translations>
+				<translation gender="f">industrial revolution</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="139000">riba<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">shore (sea) / bank (river)</translation>
+				<translation gender="f">riverside / seaside</translation>
+				<translation gender="f">currant / gooseberry<engnote>The Catalan 'riba' covers the English 'red currant', 'blackcurrant', 'white currant' and 'gooseberry'. They all come from the plant with the Latin name 'Ribes sp.'</engnote><synonyms>grosella</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+
+        <Entry frequency="85200">ribera<nouns>
+			<translations><date>0405</date>
+				<translation gender="f">shore / shoreline</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="37500">ric<adjectives>
+			<translations>
+				<translation>rich<fems>rica</fems><femplural>riques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="741">ridiculitzar<verbs conj="regular">
+			<translations>
+				<date>0205</date>
+				<translation>to ridicule / to poke fun at</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="15000">riera<nouns>
+			<translations>
+				<translation gender="f">stream</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="4290">rierol<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">stream / brook<catnote>Un 'brook' és un 'stream' petit. Els escocesos diuen 'burn' en comptes de 'brook' i al nord-est de l'Anglaterra es diu 'beck'.</catnote></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="934">rifa<nouns>
+			<translations>
+				<translation gender="f">raffle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7070">rígid<adjectives>
+			<translations>
+				<translation>rigid<fems>rígida</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="12700">rigorós<adjectives>
+			<translations>
+				<translation>strict<fems>rigorosa</fems><plural>rigorosos</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1860">rigorosament<adverbs>
+			<translations>
+				<translation>strictly</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+        	<Entry frequency="36600">ripollès<adjectives>
+			<translations><date>0905</date>
+				<translation>of / from Ripoll</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">(person) from Ripoll<plural>ripollesos</plural><fems>ripollesa</fems></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="26000">riquesa<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">wealth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="71900">risc<nouns>
+			<translations>
+				<translation gender="m">risk<plural>riscos / riscs</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56200">ritme<nouns>
+			<translations>
+				<translation gender="m">rhythm / beat</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6710">ritual<nouns>
+			<translations>
+				<translation gender="m">ritual</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>ritual</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="68800">riu<nouns>
+			<translations>
+				<translation gender="m">river</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20000">riure<verbs conj="irregular39">
+			<translations>
+				<translation>to laugh</translation>
+			</translations>
+		</verbs>
+		<nouns>
+			<translations>
+				<translation gender="m">laughter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8990">rival<adjectives>
+			<translations>
+				<translation>rival</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation>rival</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2240">rivalitat<nouns>
+			<translations>
+				<translation gender="f">rivalry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="28700">roba<nouns>
+			<translations>
+				<translation catagory="clothes" gender="f">clothes</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12000">robar<verbs conj="regular">
+			<translations>
+				<translation>to steal / to burgle<catnote>'Burgle' significa forçar una porta o finestra i robar coses d'una casa particular o (sobretot als Estats Units) d'una oficina, una botiga o qualsevol altre edifici.</catnote></translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="7380">robatori<nouns>
+			<translations>
+				<translation gender="m">robbery / theft / burglary</translation>
+			</translations>
+		</nouns><catnote>Un 'burglary' és un robatori que s'ha comès dins una casa particular (al forçar una porta o una finestra i entrar-hi il·legalment) o (sobretot als Estats Units) dins una oficina o una botiga.</catnote>
+	</Entry>
+	<Entry frequency="926">robust<adjectives>
+			<translations>
+				<translation>robust / solid<fems>robusta</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="110">rocafort<nouns>
+			<translations>
+				<translation catagory="food-dairy-cheese" gender="m">roquefort</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="43400">roda<nouns>
+			<translations>
+				<translation catagory="transport" gender="f">wheel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9760">roda de premsa<nouns>
+			<translations>
+				<translation gender="f">press conference</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10500">rodalia<nouns>
+			<translations>
+				<translation gender="f">surrounding area</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="686">Rodes<nouns>
+			<translations><date>0905</date>
+				<translation catagory="geography">Rhodes</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="79100">rodó<adjectives>
+			<translations>
+				<translation>round<catexamp>Taula rodona</catexamp>
+					<engexamp>Round table</engexamp>
+					<plural>rodons</plural>
+					<fems>rodona</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="577">roent<adjectives>
+			<translations><date>0805</date>
+				<translation>white-hot / blistering</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="83700">roig<adjectives>
+			<translations><date>0605</date>
+				<translation>red<synonyms>vermell</synonyms></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+
+	<Entry frequency="14900">rol<nouns>
+			<translations>
+				<translation gender="m">role</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="800">rom<nouns>
+			<translations>
+				<translation catagory="food-drink" gender="m">rum</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="16200">romandre<verbs conj="">
+			<translations><date>0505</date>
+				<translation>to stay / to remain</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5570">romanès<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Romanian</translation>
+				<translation catagory="nationality-europe" gender="m / f">Romanian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Romanian<fems>romanesa</fems>
+					<plural>romanesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="233">Romània<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="f">Romania</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8640">romàntic<adjectives>
+			<translations>
+				<translation>romantic<fems>romàntica</fems><femplural>romàntiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="834">romanx<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Romansch</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="478">ronc<nouns>
+			<translations>
+				<translation gender="m">snore</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="446">roncar<verbs conj="CtoQU">
+			<translations>
+				<translation>to snore</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="17500">ronda<nouns>
+			<translations>
+				<translation gender="f">round<example>El mallorquí ha passat a segona &lt;b&gt;ronda&lt;/b&gt; al vèncer el nord-americà Mardy Fish.</example></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5050">rondalla<nouns>
+			<translations>
+				<translation gender="f">fairy tale / fairy story / children's story</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="314">ronya<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">dirt / filth / grime / muck (Br. col.loq)</translation>
+				<translation gender="f">scabies<catnote>malaltia que afecta persones i animals</catnote></translation>
+				<translation gender="f">mange<catnote>afecta els mamífers</catnote></translation>
+				<translation gender="f">scab<catnote></catnote>afecta plantes i animals (domèstics i de granja)
+					<example><b>Ronya</b> de la perera, de la pomera, de l'ametller</example>
+					<engnote><b>"ronya"</b> is used normally for people and plants, for animals usually it's used <b>"sarna"</b>, and also for potatoes</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="2950">ronyó<nouns>
+			<translations>
+				<translation catagory="body" gender="m">kidney<plural>ronyons</plural>
+				</translation>
+			</translations>
+		</nouns>
+                <expressions>costar un ronyó
+                <translations>
+                <translation>to cost an arm and a leg / to cost a fortune / to cost a bomb</translation></translations></expressions>
+	</Entry>
+        <Entry frequency="47800">ros<adjectives>
+			<translations><date>0805</date>
+				<translation>blond / blonde</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation gender="m / f">blond / blonde<plural>rossos</plural><fems>rossa</fems></translation></translations></nouns>
+	</Entry>
+	<Entry frequency="73800">rosa<nouns>
+			<translations>
+				<translation catagory="plant-flower" gender="f">rose</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation catagory="colour">pink</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1150">rosella<nouns>
+			<translations>
+				<translation catagory="plant-flower" gender="f">poppy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2500">roser<nouns>
+			<translations>
+				<translation catagory="plant" gender="m">rose bush</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5510">rossinyol<nouns>
+			<translations><date>0605</date>
+				<translation catagory="animal-bird" gender="m">nightingale</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17500">rostre<nouns>
+			<translations><date>0605</date>
+				<translation catagory="body" gender="m">face<synonyms>cara</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="7300">rotonda<nouns>
+			<translations><date>0405</date>
+				<translation catagory="transport" gender="f">roundabout (Br.) / traffic circle (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="231">ròtula<nouns>
+			<translations>
+				<translation catagory="body" gender="f">kneecap</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="8330">rotund<adjectives>
+			<translations><date>0805</date>
+				<translation>resounding / unequivocal / categorical<fems>rotunda</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="3550">rotundament<adverbs>
+			<translations><date>0805</date>
+				<translation>categorically</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="10100">roure<nouns>
+			<translations>
+				<translation catagory="plant-tree" gender="m">oak / oak tree</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2060">rovell<nouns>
+			<translations>
+				<translation catagory="food-dairy" gender="m">yolk</translation>
+				<translation>rust</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="854">rovellat<adjectives>
+			<translations>
+				<translation>rusty<fems>rovellada</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="333">rugós<adjectives>
+			<translations><date>0505</date>
+				<translation>rough<fems>rugosa</fems><plural>rugosos</plural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2090">ruixat<nouns>
+			<translations>
+				<translation catagory="weather">downpour</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="20">ruló<nouns>
+			<translations><date>0905</date>
+				<translation gender="m">roller<plural>rulós</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3710">rumb<nouns>
+			<translations>
+				<translation gender="m">direction / course</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1180">rumiar<verbs conj="irregular1">
+			<translations>
+				<translation>to ponder / to think over</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="3830">ruc<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">ass / donkey</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>stupid, dumb</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+        <Entry frequency="13200">runa<nouns>
+			<translations>
+				<translation gender="f">rubble</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="63200">rural<adjectives>
+			<translations>
+				<translation>rural</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="18700">rus<nouns>
+			<translations>
+				<translation catagory="nationality-europe" gender="m / f">Russian</translation>
+				<translation catagory="language" gender="m">Russian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Russian<fems>russa</fems>
+					<plural>russos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10600">Rússia<nouns>
+			<translations>
+				<translation catagory="country-europe, country-asia" gender="f">Russia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46200">ruta<nouns>
+			<translations>
+				<translation gender="f">route</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19100">rutina<nouns>
+			<translations>
+				<date>0205</date>
+				<translation gender="f">routine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7020">rutinari<adjectives>
+			<translations>
+				<date>0205</date>
+				<translation>routine<fems>rutinària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        	<Entry frequency="2180000">rutllar<verbs conj="regular">
+			<translations><date>0805</date>
+				<translation>to work</translation>
+                                <translation>to run</translation>
+			</translations>
+		</verbs>
+	</Entry>
+</dictionary>

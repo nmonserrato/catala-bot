@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<Entry frequency="100000">u<nouns>
+			<translations><date>0505</date>
+				<translation catagory="number" gender="m">one</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="116000">ubicació<nouns>
+			<translations><date>0405</date>
+				<translation gender="ffullform">location / site</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="55200">ubicar<verbs conj="CtoQU">
+			<translations><date>0405</date>
+				<translation>to locate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="30200">ubicat<adjectives>
+			<translations>
+				<translation>situated / located<fems>ubicada</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2340">Ucraïna<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="ffullform">(The) Ukraine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2010">ucraïnès<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Ukrainian</translation>
+				<translation catagory="nationality-europe" gender="m / f">Ukrainian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Ukrainian<fems>ucraïnesa</fems>
+					<plural>ucraïnesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="596">udol<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">howl</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="267">udolar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to howl</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="40900">UE<engacro>European Union</engacro>
+		<nouns>
+			<translations>
+				<translation catagory="politics" gender="f">EU<catacro>Unió Europea</catacro>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="47">ufologia<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">ufology / study of UFO's</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="145">ugandès<adjectives>
+			<translations>
+				<translation>Ugandan</translation>
+			</translations>
+		</adjectives>
+                <nouns>
+                <translations>
+                <translation catagory="nationality-africa" gender="m / f">Ugandan</translation></translations></nouns>
+	</Entry>
+        <Entry frequency="626">úlcera<nouns>
+			<translations><date>0405</date>
+				<translation catagory="medical-illness" gender="f">ulcer<catexamp>Úlcera pèptica</catexamp><engexamp>Peptic ulcer</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="50100">ull<nouns>
+			<translations>
+				<translation catagory="body" gender="m">eye</translation>
+			</translations>
+		</nouns>
+                <expressions>costar un ull de la cara
+                <translations>
+                <translation>to cost an arm and a leg / to cost a fortune / to cost a bomb</translation></translations></expressions>
+	</Entry>
+	<Entry frequency="15400">ullada<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">(quick) look / glance / glimpse</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="937">ullal<nouns>
+			<translations><date>0405</date>
+                        <translation catagory="body" gender="m">canine (tooth)</translation>
+				<translation catagory="animal" gender="m">tusk<catnote>Els 'tusks' surten de la boca de l'animal (l'elefant, la morsa i el senglar, per exemple, tenen 'tusks'.</catnote></translation>
+                                <translation catagory="animal" gender="m">fang</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14500">ullera<nouns>
+			<translations>
+				<translation gender="ffullform">dark ring / bag under the eyes</translation> 
+				<translation gender="ffullform">telescope</translation> 
+				<translation sourceplural="ulleres" gender="fpl">glasses
+					<catexamp>Ulleres de sol</catexamp><engexamp>Sunglasses</engexamp>
+				</translation>
+                                <translations sourceplural="ulleres" disambiguate="animal" gender="fpl">blinkers (Br.) / blinders (Am.)</translations>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1140">ullet<nouns>
+			<translations>
+				<translation gender="m">wink<catexamp>Fer / picar l'ullet</catexamp>
+					<engexamp>To wink</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6360">ulterior<adjectives>
+			<translations><date>0505</date>
+				<translation>subsequent</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="299000">últim<adjectives>
+			<translations>
+				<translation>last<fems>última</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1740">ultimàtum<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">ultimatum</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="532">ultramar<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">overseas</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="781">ultrasò<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">ultrasound</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="878">ultratge<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">outrage / (grave) insult</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="213">ultratjar<verbs conj="JtoG">
+			<translations><date>0505</date>
+				<translation>to outrage</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="191">ultratomba<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">after life / beyond the grave
+					<catexamp>una veu de ultratumba</catexamp><engexamp>a voice from beyond the grave</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="664">ultraviolat<adjectives>
+			<translations><date>0505</date>
+				<translation>ultraviolet</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="21">ulular<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to ululate / hoot / wail</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="589">umbilical<adjectives>
+			<translations><date>0505</date>
+				<translation>umbilical</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4110">unànime<adjectives>
+			<translations>
+				<translation>unanimous</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="807">unànimement<adverbs>
+			<translations>
+				<translation>unanimously</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="30300">unanimitat<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">unanimity
+					<catexamp>per uninanimitat</catexamp><engexamp>unanimously</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1700">unça<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">ounce / oz.</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="337">unció<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">unction / anointing</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="308">ungir<verbs conj="inceptive">
+			<translations><date>0505</date>
+				<translation>to anoint</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2640">ungla<nouns>
+			<translations>
+				<translation catagory="body" gender="f">nail</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="400">ungüent<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">ointment</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="753000">únic<adjectives>
+			<translations><date>0505</date>
+				<translation>only / sole / unique</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="291">unicel·lular<adjectives>
+			<translations><date>0505</date>
+				<translation>single cell</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="561">unicorn<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">unicorn</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="9350">unificar<verbs conj="regular">
+			<translations>
+				<translation>to unify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="24900">uniforme<nouns>
+			<translations><date>0405</date>
+				<translation gender="m">uniform</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>uniform</translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="3750">unilateral<adjectives>
+			<translations>
+				<translation>unilateral</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="3900">unilateralment<adverbs>
+			<translations>
+				<translation>unilaterally</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="323000">unió<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">union</translation>
+				<translation gender="ffullform">unity
+					<catexamp>la unió fa la força</catexamp>
+				</translation>
+				<translation gender="ffullform">joint</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="58100">Unió Europea<nouns>
+			<translations>
+				<translation catagory="politics" gender="ffullform">European Union</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="48900">unir<verbs conj="inceptive">
+			<translations>
+				<translation>to unite</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="801">unisex<adjectives>
+			<translations><date>0405</date>
+				<translation>unisex</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="609">uníson<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">unison<catexamp>a l'uníson</catexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="19700">unitari<adjectives>
+			<translations><date>0505</date>
+				<translation>unit<catexamp>preu unitari</catexamp><engexamp>unit price</engexamp><fems>unitària</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="681000">unitat<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">unit</translation>
+				<translation gender="ffullform">unity</translation>
+                                <translation disambiguate="computers" gender="ffullform">drive</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="343">unitat de CD-ROM<nouns>
+			<translations><date>0805</date>
+				<translation catagory="computers" gender="ffullform">CD-ROM drive</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="169">unitat de disquets<nouns>
+			<translations><date>0805</date>
+				<translation catagory="computers" gender="ffullform">floppy drive</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="48400">univers<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">universe</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="131000">universitari<adjectives>
+			<translations>
+				<translation>university<fems>universitària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="274000">universitat<nouns>
+			<translations>
+				<translation catagory="work, education" gender="ffullform">university</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1010">unívoc<adjectives>
+			<translations><date>0505</date>
+				<translation>univocal / unequivocal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="970">untar<verbs conj="regular">
+			<translations>
+				<translation>to spread<engnote>'Untar' means 'to spread' in the sense 'to spread a piece of bread with butter'</engnote>
+				</translation>
+				<translation>to grease</translation>
+				<translation>to grease somebody's palm</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="598">Urà<nouns>
+			<translations>
+				<translation gender="m">Uranus</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1040">uralita<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">asbestos cement / fibro-cement</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="892">urani<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">uranium<catexamp>Urani empobrit</catexamp>
+					<engexamp>Depleted uranium</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="82900">urbà<adjectives>
+			<translations>
+				<translation>urban<fems>urbana</fems>
+					<plural>urbans</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        <Entry frequency="114000">urbanisme<nouns>
+			<translations><date>0305</date>
+				<translation gender="m">town planning</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56700">urbanització<nouns>
+			<translations><date>0305</date>
+				<translation gender="ffullform">estate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        	<Entry frequency="3720">urbs<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">(big) city</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="227">uretra<nouns>
+			<translations>
+				<translation catagory="body-internal" gender="ffullform">urethra</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="83000">urgència<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">urgency / emergency</translation>
+				<translation sourceplural="urgències" gender="fpl">emergency / casualty department</translation> 
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="65000">urgent<adjectives>
+			<translations><date>0505</date>
+				<translation>urgent / pressing</translation>
+				<translation>express</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1050">urinari<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">urinal</translation>
+				<translation gender="m">public toilet</translation> 
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>urinary<catexamp>Aparell urinari</catexamp><engexamp>Urinary apparatus / system</engexamp></translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+          <Entry frequency="12100">urna<nouns>
+			<translations>
+				<translation disambiguate="politics" gender="f">ballot box</translation>
+                                <translation gender="f">urn</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="512">urpa<nouns>
+			<translations><date>0505</date>
+				<translation gender="f">claw / talon</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="97">urticant<adjectives>
+			<translations><date>0505</date>
+				<translation>urticant / stinging / causing itching</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="311">urticària<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">hives / urticaria</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="796">uruguaià<nouns>
+			<translations><date>0505</date>
+				<translation catagory="nationality-southamerica" gender="m / f">Uruguayan<fems>uruguaiana</fems></translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Uruguayan</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="154000">ús<nouns>
+			<translations>
+				<translation gender="m">use</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="90">usança<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">custom</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="43400">usar<verbs conj="regular">
+			<translations>
+				<translation>to use</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1890">usdefruit<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">usufruct</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="8770">usual<adjectives>
+			<translations><date>0505</date>
+				<translation>usual / common / normal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="132000">usuari<nouns>
+			<translations>
+				<translation gender="m / f">user<fems>usuària</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="979">usufructuari<nouns>
+			<translations><date>0505</date>
+				<translation gender="m / f">usufructuary<fems>usufructuària</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+          <Entry frequency="300">usurpador<nouns>
+			<translations><date>0705</date>
+				<translation gender="m / f">usurper<fems>ursurpadora</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1150">usurpar<verbs conj="regular">
+			<translations><date>0505</date>
+				<translation>to usurp /  to misappropriate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5620">utensili<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">utensil / tool / implement<synonyms>eina, estri</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="800">úter<nouns>
+			<translations>
+				<translation catagory="body-internal" gender="m">uterus</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="151000">útil<adjectives>
+			<translations><date>0505</date>
+				<translation>useful</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1230">utilitari<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">small and economical car</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="133000">utilitat<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">usefulness / utility</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="123000">utilitzar<verbs conj="regular">
+			<translations>
+				<translation>to use</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="8770">utillatge<nouns>
+			<translations><date>0505</date>
+				<translation gender="m">tools / equipment</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="14700">utopia<nouns>
+			<translations><date>0505</date>
+				<translation gender="ffullform">utopia</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="6650">utòpic<adjectives>
+			<translations><date>0505</date>
+				<translation>utopian</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="409">uzbek<nouns>
+			<translations><date>0305</date>
+				<translation catagory="language" gender="m">Uzbek</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3680">Uzbekistan<nouns>
+			<translations><date>0305</date>
+				<translation catagory="country-asia" gender="m">Uzbekistan</translation>
+			</translations>
+		</nouns>
+	</Entry>
+</dictionary>

@@ -1,0 +1,2308 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+ <Entry frequency="218">nabiu<nouns>
+			<translations><date>0605</date>
+				<translation catagory="food-fruit" gender="m">blueberry / bilberry<synonyms>mirtil</synonyms></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="40400">nació<nouns>
+			<translations>
+				<translation gender="f">nation<catexamp>Nacions Unides</catexamp>
+					<engexamp>United Nations</engexamp>
+					<plural>nacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="146000">nacional<adjectives>
+			<translations>
+				<translation>national</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10700">nacionalisme<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">nationalism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="215000">nacionalista<nouns>
+			<translations>
+				<translation gender="m / f">nationalist</translation>
+			</translations>
+		</nouns>
+                <adjectives>
+                <translations>
+                <translation>nationalist</translation></translations></adjectives>
+	</Entry>
+	<Entry frequency="24300">nacionalitat<nouns>
+			<translations>
+				<translation gender="f">nationality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1180">nacionalització<nouns>
+			<translations>
+				<translation catagory="financial" gender="f">nationalisation (Br.) / nationalization (Am.)<plural>nacionalitzacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="922">nacionalitzar<verbs conj="regular">
+			<translations>
+				<translation catagory="financial">to nationalise (Br.) / to nationalize (Am.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="187">nacionalsocialisme<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">national socialism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14500">Nacions Unides<nouns>
+			<translations>
+				<translation catagory="politics" gender="f">United Nations</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="284">nacre<nouns>
+			<translations>
+				<translation catagory="material" gender="m">mother of pearl</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46800">Nadal<nouns>
+			<translations>
+				<translation gender="m">Christmas</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="15400">nadala<nouns>
+			<translations>
+				<translation gender="f">Christmas carol</translation>
+				<translation gender="f">Christmas card</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5120">nadalenc<adjectives>
+			<translations>
+				<translation>Christmas<fems>nadalenca</fems><femplural>nadalenques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10200">nadar<verbs conj="regular">
+			<translations>
+				<translation catagory="sports-event-swimming">to swim</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1280">nadir<nouns>
+			<translations>
+				<translation catagory="astronomy" gender="m">nadir</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2200">nadiu<nouns>
+			<translations>
+				<translation gender="m / f">native<fems>nadiua</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5490">nadó<nouns>
+			<translations>
+				<translation gender="m">newborn (baby)<plural>nadons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1180">nafra<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">sore / ulcer / wound</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="816">nafrar<verbs conj="regular">
+			<translations><date>0705</date>
+				<translation>to wound / to injure</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="381">naftalina<nouns>
+			<translations>
+				<translation gender="f">naphthalene / mothballs</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="46">nàhuatl<nouns>
+			<translations>
+				<translation catagory="language" gender="m">Nahuatl</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="298">naip<nouns>
+			<translations>
+				<translation gender="m">(playing) card<synonyms>carta</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="44000">naixement<nouns>
+			<translations>
+				<translation gender="m">birth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="577">Namíbia<nouns>
+			<translations>
+				<translation catagory="country-africa" gender="f">Namibia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3280">nan<nouns>
+			<translations>
+				<translation gender="m / f">dwarf<fems>nana</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="33">nanisme<nouns>
+			<translations>
+				<translation gender="m">dwarfism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1340">nansa<nouns>
+			<translations>
+				<translation gender="f">handle</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1350">nap<nouns>
+			<translations>
+				<translation catagory="food-vegetable" gender="m">turnip</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1170">napolità<adjectives>
+			<translations>
+				<translation>Neopolitan</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m / f">Neopolitan<fems>napolitana</fems>
+					<plural>napolitans</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="350">narcisisme<nouns>
+			<translations>
+				<translation gender="m">narcissism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="427">narcisista<adjectives>
+			<translations>
+				<translation>narcissistic</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m / f">narcissist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="33">narcosi<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">narcosis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="856">narcòtic<nouns>
+			<translations>
+				<translation gender="m">narcotic</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>narcotic<fems>narcòtica</fems><femplural>narcòtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="16100">narració<nouns>
+			<translations>
+				<translation gender="f">narration<plural>narracions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5830">narrador<nouns>
+			<translations>
+				<translation gender="m">narrator</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17500">narrar<verbs conj="regular">
+			<translations>
+				<translation>to narrate / to tell (a story)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="25000">narratiu<adjectives>
+			<translations>
+				<translation>narrative<fems>narrativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="15200">narrativa<nouns>
+			<translations>
+				<translation gender="f">narrative</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10500">nas<nouns>
+			<translations>
+				<translation catagory="body" gender="m">nose<plural>nassos</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1660">nasal<adjectives>
+			<translations>
+				<translation>nasal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="25000">nat<adjectives>
+			<translations>
+				<translation>born<fems>nada</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2580">nata<nouns>
+			<translations>
+				<translation catagory="food" gender="f">cream</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14200">natació<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="f">swimming</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="820">natació sincronitzada<nouns>
+			<translations>
+				<translation catagory="sports-event" gender="f">synchronized swimming</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9020">natal<adjectives>
+			<translations>
+				<translation>home / birth<catexamp>Terra natal</catexamp>
+					<engexamp>Homeland / land of (his / her) birth</engexamp>
+					<catexamp>Ciutat natal</catexamp>
+					<engexamp>Home town</engexamp>
+					<catexamp>La casa natal d'algú</catexamp>
+					<engexamp>Someone's childhood home / The house someone was born in</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="723">natalici<nouns>
+			<translations>
+				<translation gender="m">birthday</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8760">natalitat<nouns>
+			<translations>
+				<translation gender="f">birth<catexamp>Control de natalitat</catexamp>
+					<engexamp>Birth control</engexamp>
+					<catexamp>Taxa de natalitat</catexamp>
+					<engexamp>Birth rate</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7770">natiu<adjectives>
+			<translations>
+				<translation>native</translation>
+				<translation>innate / inbuilt<fems>nativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4610">nativitat<nouns>
+			<translations>
+				<translation catagory="religious" gender="f">Nativity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1090">natja<nouns>
+			<translations>
+				<translation catagory="body" gender="f">buttock<plural>natges</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56600">natura<nouns>
+			<translations>
+				<translation gender="f">nature</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="134000">natural<adjectives>
+			<translations>
+				<translation>natural</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="51200">naturalesa<nouns>
+			<translations>
+				<translation gender="f">nature</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7810">naturalitat<nouns>
+			<translations>
+				<translation gender="f">spontaneity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="325">naturalització<nouns>
+			<translations>
+				<translation gender="f">naturalisation (Br.) / naturalization (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="56600">naturalitzar<verbs conj="regular">
+			<translations>
+				<translation>to naturalise (Br.) / to naturalize (Am.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="2000">Natzaret<nouns>
+			<translations>
+				<translation catagory="city-asia-israel" gender="m">Nazareth</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20800">nau<nouns>
+			<translations>
+				<translation disambiguate="transport-mode">ship</translation>
+				<translation disambiguate="religious" gender="f">nave</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="771">nau espacial<nouns>
+			<translations>
+				<translation catagory="transport-mode" gender="f">spaceship</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="820">nàufrag<nouns>
+			<translations>
+				<translation gender="m / f">castaway<fems>nàufraga</fems><femplural>nàufragues</femplural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1820">naufragi<nouns>
+			<translations>
+				<translation gender="m">shipwreck</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1310">nàusea<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="f">nausea</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26">nauseabund<adjectives>
+			<translations>
+				<translation>nauseating<fems>nauseabunda</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="32600">nàutic<adjectives>
+			<translations><date>0605</date>
+				<translation>nautical / sailing<catexamp>Club naùtic</catexamp><engexamp>Sailing club</engexamp><catexamp>Esquí nàutic</catexamp><engexamp>Water skiing</engexamp><fems>nàutica</fems><femplural>nàutiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="14700">naval<adjectives>
+			<translations><date>0605</date>
+				<translation>naval / ship<catexamp>Construcció naval</catexamp>
+					<engexamp>Shipbuilding</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="809">navalla<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">penknife / flick knife</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="856">navarrès<adjectives>
+			<translations><date>0605</date>
+				<translation>Navarran</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m / f">Navarran<plural>navarresos</plural>
+					<fems>navarresa</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="514">navegabilitat<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">navigablity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="961">navegable<adjectives>
+			<translations><date>0605</date>
+				<translation>navigable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="36900">navegador<nouns>
+			<translations>
+				<translation catagory="computers-internet" gender="m">browser</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="19300">navegant<nouns>
+			<translations>
+				<translation disambiguate="work-job" gender="m / f">navigator</translation>
+				<translation disambiguate="computers" gender="m / f">surfer</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="14800">navegar<verbs conj="GtoGU">
+			<translations>
+				<translation disambiguate="computers-internet">to browse</translation>
+				<translation disambiguate="transport">to sail</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6050">nazi<nouns>
+			<translations>
+				<translation gender="m / f">nazi</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>nazi</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1600">nazisme<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">nazism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1170">neboda<nouns>
+			<translations>
+				<translation catagory="family" gender="f">niece</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4680">nebot<nouns>
+			<translations>
+				<translation catagory="family" gender="m">nephew</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="141">nebulitzador<nouns>
+			<translations>
+				<translation catagory="medical-treatment" gender="m">inhaler</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1210">nebulós<adjectives>
+			<translations>
+				<translation>cloudy<fems>nebulosa</fems>
+					<plural>nebulosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="147000">necessari<adjectives>
+			<translations>
+				<translation>necessary<fems>necessària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="23600">necessàriament<adverbs>
+			<translations>
+				<translation>necessarily</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="280">necesser<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">wash bag / sponge bag / vanity bag / toilet case / toilet bag</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="70000">necessitar<verbs conj="regular">
+			<translations>
+				<translation>to need</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="125000">necessitat<nouns>
+			<translations>
+				<translation gender="f">need / necessity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="623">neci<nouns>
+			<translations><date>0605</date>
+				<translation gender="m / f">fool / idiot<fems>nècia</fems></translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>stupid / silly</translation>
+			</translations>
+		</adjectives>
+	</Entry>	
+	<Entry frequency="77">necrofília<nouns>
+			<translations>
+				<translation gender="f">necrophilia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4250">necròpoli<nouns>
+			<translations>
+				<translation gender="f">necropolis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="271">necròpsia<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">necropsy / autopsy<synonyms>autòpsia</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="742">necrosi<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">necrosis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="663">nèctar<nouns>
+			<translations>
+				<translation gender="m">nectar</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="420">nectarina<nouns>
+			<translations>
+				<translation catagory="food-fruit" gender="f">nectarine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1600">nedador<nouns>
+			<translations>
+				<translation catagory="sports-event-swimming" gender="m / f">swimmer<fems>nedadora</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3430">nedar<verbs conj="regular">
+			<translations>
+				<translation catagory="sports-event-swimming">to swim</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="5890">neerlandès<adjectives>
+			<translations>
+				<translation>Dutch</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation disambiguate="language" gender="m">Dutch</translation>
+				<translation disambiguate="nationality-europe-holland" gender="m / f">Dutchman / Dutch woman<fems>neerlandesa</fems><plural>neerlandesos</plural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8670">nefast<adjectives>
+			<translations>
+				<translation>ill-fated / unlucky<fems>nefasta</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4650">negació<nouns>
+			<translations>
+				<translation gender="f">denial<plural>negacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="26300">negar<verbs conj="GtoGU">
+			<translations>
+				<translation>to deny</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="45700">negatiu<adjectives>
+			<translations>
+				<translation>negative<fems>negativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="337">negativitat<nouns>
+			<translations>
+				<translation gender="f">negativity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="813">negligent<adjectives>
+			<translations>
+				<translation>negligent</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4560">negligència<nouns>
+			<translations>
+				<translation gender="f">negligence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="765">negligible<adjectives>
+			<translations>
+				<translation>negligible</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="568">negligir<verbs conj="inceptive">
+			<translations>
+				<translation>to neglect</translation>
+				<translation>to leave out / to omit</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="46000">negoci<nouns>
+			<translations>
+				<translation catagory="work" gender="m">business</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1200">negociable<adjectives>
+			<translations>
+				<translation>negotiable</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="28900">negociació<nouns>
+			<translations>
+				<translation gender="f">negotiation</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5320">negociador<nouns>
+			<translations>
+				<translation gender="m / f">negotiator<fems>negociadora</fems></translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>negotiating<fems>negociadora</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="21700">negociar<verbs conj="irregular1">
+			<translations>
+				<translation>to negotiate / to deal</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="57400">negre<adjectives>
+			<translations>
+				<translation catagory="colour">black<fems>negra</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="241">negrer<nouns>
+			<translations>
+				<translation gender="m">slave trader</translation>
+				<translation gender="m / f">slave driver</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>slave<catexamp>Vaixell negrer</catexamp>
+					<engexamp>Slave ship</engexamp>
+					<fems>negrera</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="8150">negreta<nouns>
+			<translations>
+				<translation gender="f">bold (type)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3740">neguit<nouns>
+			<translations>
+				<translation gender="m">anxiety</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="531">neguitejar<verbs conj="JtoG">
+			<translations>
+				<translation>to worry / to make someone anxious</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="840">neguitós<adjectives>
+			<translations>
+				<translation>anxious<fems>neguitosa</fems>
+					<plural>neguitosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="63600">néixer<verbs conj="irregular10">
+			<translations>
+				<translation>to be born</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="73700">nen<nouns>
+			<translations>
+				<translation gender="m / f">child<fems>nena</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="353">nenúfar<nouns>
+			<translations>
+				<translation catagory="plants" gender="m">water lily</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="573">neó<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">neon</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5640">neoclàssic<adjectives>
+			<translations>
+				<translation>neoclassical<fems>neoclàssica</fems><femplural>neoclàssiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="766">neoclassicisme<nouns>
+			<translations>
+				<translation gender="m">neoclassicism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="221">neocolonialisme<nouns>
+			<translations>
+				<translation catagory="politics" gender="m">neocolonialism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="670">neòfit<nouns>
+			<translations>
+				<translation gender="m / f">neophyte<fems>neòfita</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="573">neogòtic<adjectives>
+			<translations>
+				<translation>neo-gothic<fems>neogòtica</fems><femplural>neogòtiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4170">neoliberalisme<nouns>
+			<translations>
+				<translation catagory="financial" gender="m">neoliberalism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5830">neolític<adjectives>
+			<translations>
+				<translation>neolithic<fems>neolítica</fems><femplural>neolítiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation gender="m">Neolithic Period / Age / Era</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1480">neologisme<nouns>
+			<translations>
+				<translation catagory="linguistics" gender="m">neologism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="782">neonatal<adjectives>
+			<translations>
+				<translation>neonatal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1940">neonazi<nouns>
+			<translations>
+				<translation catagory="politics" gender="m / f">neo-nazi</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>neonazi</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="404">neozelandès<nouns>
+			<translations>
+				<translation catagory="nationality-australasia" gender="m / f">New Zealander</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>New Zealand<catexamp>El dòlar neozelandès</catexamp>
+					<engexamp>New Zeland dollar</engexamp>
+					<fems>neozelandesa</fems>
+					<plural>neozelandesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2040">Nepal<nouns>
+			<translations>
+				<translation catagory="country-asia" gender="m">Nepal</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="282">nepalès<nouns>
+			<translations>
+				<translation disambiguate="nationality-asia" gender="m / f">Nepali</translation>
+				<translation disambiguate="language" gender="m">Nepalese</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Nepalese<fems>nepalesa</fems>
+					<plural>nepalesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="348">nepotisme<nouns>
+			<translations>
+				<translation gender="m">nepotism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7380">nervi<nouns>
+			<translations>
+				<translation catagory="medical" gender="m">nerve</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12000">nerviós<adjectives>
+			<translations>
+				<translation>nervous<catexamp>Sistema nerviós</catexamp>
+					<engexamp>Nervous system</engexamp>
+					<fems>nerviosa</fems>
+					<plural>nerviosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1340">nerviosisme<nouns>
+			<translations>
+				<translation gender="m">nervousness</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="220000">net<adjectives>
+			<translations>
+				<translation>clean</translation>
+				<translation catagory="financial">net<engnote>net means 'net' in the financial sense as in 'net earnings > earnings after tax'</engnote><fems>neta</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2170">nét<nouns>
+			<translations>
+				<translation catagory="family" gender="m">grandson</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="993">néta<nouns>
+			<translations>
+				<translation catagory="family" gender="f">granddaughter</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="35000">neteja<nouns>
+			<translations>
+				<translation gender="f">cleaning<synonyms>netejada</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="30">netejada<nouns>
+			<translations>
+				<translation gender="f">cleaning<synonyms>neteja</synonyms>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="531">neteja ètnica<nouns>
+			<translations>
+				<translation gender="f">ethnic cleansing</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12000">netejar<verbs conj="JtoG">
+			<translations>
+				<translation>to clean</translation>
+			</translations>
+		</verbs>
+	</Entry>
+        <Entry frequency="413">netejavidres<nouns>
+			<translations><date>0905</date>
+                        <translation gender="m">window cleaner / glass cleaner</translation>
+                        <translation gender="m">squeegee</translation>
+				<translation disambiguate="work-job" gender="m / f">window cleaner</translation>
+                                <translation disambiguate="work-field" gender="m">window cleaning</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3180">néts<nouns>
+			<translations>
+				<translation catagory="family" gender="m">grandchildren</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="31500">neu<nouns>
+			<translations>
+				<translation catagory="weather" gender="f">snow</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="982">neural<adjectives>
+			<translations>
+				<translation>neural<catexamp>Xarxes neurals</catexamp>
+					<engexamp>Neural networks</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="83">neuràlgia<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">neuralgia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="855">neuràlgic<adjectives>
+			<translations>
+				<translation>neuralgic<catexamp>Punt neuràlgic</catexamp>
+					<engexamp>Nerve centre (Br.) / nerve center (Am.)</engexamp><fems>neuràlgica</fems><femplural>neuràlgiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1700">neurobiologia<nouns>
+			<translations>
+				<translation catagory="work-field" gender="f">neurobiology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="679">neurofisiologia<nouns>
+			<translations>
+				<translation catagory="medical, work-field" gender="f">neurophysiology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="637">neuròleg<nouns>
+			<translations>
+				<translation catagory="medical, work-job" gender="m / f">neurologist<fems>neuròloga</fems><femplural>neuròlogues</femplural></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3160">neurologia<nouns>
+			<translations>
+				<translation catagory="work-field, medical" gender="f">neurologia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2370">neurològic<adjectives>
+			<translations>
+				<translation catagory="medical">neurological<fems>neurològica</fems><femplural>neurològiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1970">neurona<nouns>
+			<translations>
+				<translation catagory="medical" gender="f">neurone</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="213">neuropatia<nouns>
+			<translations>
+				<translation catagory="medical-illness" gender="f">neuropathy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="118">neuropàtic<adjectives>
+			<translations>
+				<translation catagory="medical">neuropathic<fems>neuropàtica</fems><femplural>neuropàtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="320">neuropatologia<nouns>
+			<translations>
+				<translation catagory="medical, work-field" gender="f">neuropathology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="694">neuropsicologia<nouns>
+			<translations>
+				<translation catagory="medical, work-field" gender="f">neuropsychology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="148">neuropsiquiatria<nouns>
+			<translations>
+				<translation catagory="medical, work-field" gender="f">neuropsychiatry</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="732">neurosi<nouns>
+			<translations>
+				<translation gender="f">neurosis</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="647">neuròtic<adjectives>
+			<translations>
+				<translation>neurotic<fems>neuròtica</fems><femplural>neuròtiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="111">neurovegetatiu<adjectives>
+			<translations>
+				<translation>neurovegetative<fems>neurovegetativa</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2750">neutral<adjectives>
+			<translations>
+				<translation>neutral</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2300">neutralitat<nouns>
+			<translations>
+				<translation gender="f">neutrality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="688">neutralització<nouns>
+			<translations>
+				<translation gender="f">neutralisation (Br.) / neutralization (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5040">neutralitzar<verbs conj="regular">
+			<translations>
+				<translation>to neutralise (Br.) / to neutralize (Am.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="14000">neutre<nouns>
+			<translations>
+				<translation>neutral<fems>neutra</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="857">neutró<nouns>
+			<translations>
+				<translation gender="m">neutron<plural>neutrons</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5670">nevada<nouns>
+			<translations>
+				<translation catagory="weather" gender="f">snowfall</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2110">nevar<verbs conj="regular">
+			<translations>
+				<translation catagory="weather">to snow</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="12600">nevera<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">fridge / refrigerator / icebox (Am.)</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="5670">nexe<nouns>
+			<translations>
+				<translation gender="m">link</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="145000">ni<conjunctions>
+			<translations>
+				<translation>(not) even / neither / nor</translation>
+			</translations>
+		</conjunctions>
+	</Entry>
+	<Entry frequency="2050">niar<verbs conj="irregular1">
+			<translations>
+				<translation catagory="animal">to nest / to build a nest<synonyms>nidificar</synonyms>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="1930">Niça<nouns>
+			<translations>
+				<translation catagory="city-europe-france">Nice</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11600">Nicaragua<nouns>
+			<translations>
+				<translation catagory="country-centralamerica" gender="f">Nicaragua</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="462">nicaragüenc<nouns>
+			<translations>
+				<translation catagory="nationality-centralamerica" gender="m / f">Nicaraguan</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Nicaraguan<fems>nicaragüenca</fems><femplural>nicaragüenques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="622">nicotina<nouns>
+			<translations>
+				<translation gender="f">nicotine</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="662">nidificació<nouns>
+			<translations>
+				<translation catagory="animal" gender="f">nesting</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="463">nidificar<verbs conj="CtoQU">
+			<translations>
+				<translation catagory="animal">to nest / to build a nest<synonyms>niar</synonyms>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="744">Níger<nouns>
+			<translations>
+				<translation catagory="country-africa" gender="m">Niger</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2370">Nigèria<nouns>
+			<translations>
+				<translation catagory="country-africa" gender="f">Nigeria</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="646">nigerià<nouns>
+			<translations>
+				<translation catagory="nationality-africa" gender="m / f">Nigerian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Nigerian<fems>nigeriana</fems>
+					<plural>nigerians</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="402">niló<nouns>
+			<translations>
+				<translation catagory="material" gender="m">nylon</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="702">nimfa<nouns>
+			<translations>
+				<translation gender="f">nymph</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="53">nimfòmana<nouns>
+			<translations>
+				<translation gender="f">nymphomaniac</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="150">nimi<adjectives>
+			<translations><date>0605</date>
+				<translation>insignificant / negligible / trifling<fems>nímia</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="144">nimietat<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">trifle</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+        <Entry frequency="16100">nina<nouns>
+			<translations><date>0305</date>
+				<translation gender="f">doll / dolly</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="1290">nineta<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">pupil</translation>
+				<translation gender="f">little doll</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="55100">ningú<pronouns>
+			<translations>
+				<translation>no-one</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="9000">ninot<nouns>
+			<translations><date>0705</date>
+				<translation picture="http://photos6.flickr.com/10289860_dbd5806051.jpg" flickr="http://www.flickr.com/photos/emy/10289860/" gender="m">doll / puppet (in the shape of a man)
+					<catexamp>ninot de neu</catexamp><engexamp>snowman</engexamp>
+					<engnote>"un ninot" is also a doll in the shape of a man or an animal that is a part of a "falla"</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="5440">nínxol<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">niche</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="1240">níquel<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">nickel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6500">nissaga<nouns>
+			<translations><date>0605</date>
+				<translation gender="f">lineage, descent, stock</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="78500">nit<nouns>
+			<translations>
+				<translation catagory="time-ofDay" gender="f">night</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1840">nítid<adjectives>
+			<translations>
+				<translation>clean / clear<fems>nítida</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6180">nitrat<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">nitrate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9930">nitrogen<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="m">nitrogen<catexamp>Diòxid de nitrogen</catexamp>
+					<engexamp>Nitrogen dioxide</engexamp>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="115">nitroglicerina<nouns>
+			<translations>
+				<translation catagory="chemistry" gender="f">nitroglycerin</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6190">niu<nouns>
+			<translations>
+				<translation catagory="animal" gender="m">nest</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="151000">nivell<nouns>
+			<translations>
+				<translation gender="m">level</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1380000">no<adverbs>
+			<translations>
+				<translation>no</translation>
+				<translation>not</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="946">nobiliari<adjectives>
+			<translations>
+				<translation>noble<fems>nobiliària</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11600">noble<adjectives>
+			<translations>
+				<translation>noble</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3150">noblesa<nouns>
+			<translations>
+				<translation gender="f">nobility</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="8410">noces<nouns>
+			<translations>
+				<translation gender="fpl">wedding<catexamp>Noces d'argent</catexamp>
+					<engexamp>25th wedding anniversary</engexamp>
+					<catexamp>Noces d'or</catexamp>
+					<engexamp>50th wedding anniversary</engexamp>
+					<engnote>'Noces d'argent', 'Noces d'or' (and also, 'noces de diamant' - '60th' and 'noces de platí' - '75th') can be used to refer to events other than a wedding anniversary (for example, the founding of a club, the number of years you've been working in a particular job etc.. so, for example, 'les noces d'argent del FC. Barcelona' would be 'the twenty-fifth anniversary of the founding of Barcelona Football Club.)</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="121">nocilla<nouns>
+			<translations>
+				<translation catagory="food" gender="f">chocolate spread</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12500">noció<nouns>
+			<translations>
+				<translation gender="f">notion<plural>nocions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="173">nocional<adjectives>
+			<translations>
+				<translation>notional</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6280">nociu<adjectives>
+			<translations>
+				<translation>harmful<fems>nociva</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="533">noctàmbul<nouns>
+			<translations>
+				<translation gender="m / f">sleepwalker<fems>noctàmbula</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="17700">nocturn<adjectives>
+			<translations>
+				<translation>nocturnal / night<fems>nocturna</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="202">nodriment<nouns>
+			<translations>
+				<translation gender="m">nourishment / feeding</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="12700">nodrir<verbs conj="inceptive">
+			<translations>
+				<translation>to feed<engnote>'Nodrir' can mean 'to feed' in a literal sense but also in a figurative sense (i.e. 'Nodreix la creativitat dels col·laboradors', 'Cadenes de televisió que es nodreixen de sèries i films d'animació', 'Nodrir la intel·ligència emocional'..)</engnote>
+				</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="991">nogensmenys<adverbs>
+			<translations>
+				<translation>however, nevertheless, in spite of (this)</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="35800">noi<nouns>
+			<translations>
+				<translation gender="m">boy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="35700">noia<nouns>
+			<translations>
+				<translation gender="f">girl</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="220000">nom<nouns>
+			<translations>
+				<translation gender="m">name</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1570">nòmada<nouns>
+			<translations>
+				<translation gender="m / f">nomad</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>nomadic</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="141000">nombre<nouns>
+			<translations>
+				<translation gender="m">number</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="53200">nombrós<adjectives>
+			<translations>
+				<translation>numerous<fems>nombrosa</fems>
+					<plural>nombrosos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="39400">nomenar<verbs conj="regular">
+			<translations>
+				<translation>to appoint</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="236000">només<adverbs>
+			<translations>
+				<translation>only</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="1940">nominació<nouns>
+			<translations>
+				<translation gender="f">nomination<plural>nominacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1180">nominar<verbs conj="regular">
+			<translations>
+				<translation>to nominate</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="46400">no obstant<adverbs>
+			<translations>
+				<translation>nevertheless</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="1410">nora<nouns>
+			<translations>
+				<translation catagory="family" gender="f">daughter-in-law</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11900">noranta<adjectives>
+			<translations>
+				<translation catagory="number-cardinal">ninety</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="95800">nord<nouns>
+			<translations>
+				<translation gender="m">north</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>north / northern</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="25900">nord-americà<adjectives>
+			<translations>
+				<translation>American<catnote>Normalment els angloparlants diuen senzillament 'American' per referir a coses d'Amèrica del Nord.  No és gens freqüent dir 'North American'.</catnote><fems>nord-americana</fems><plural>nord-americans</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5370">nord-est<nouns>
+			<translations>
+				<translation gender="m">north east</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>north east / north eastern</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3580">nòrdic<adjectives>
+			<translations>
+				<translation>nordic<fems>nòrdica</fems><femplural>nòrdiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        	<Entry frequency="911">nord-occidental<adjectives>
+			<translations><date>0805</date>
+				<translation>north west / north western</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="3360">nord-oest<nouns>
+			<translations>
+				<translation gender="m">north west</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>north west / north western</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        	<Entry frequency="941">nord-oriental<adjectives>
+			<translations><date>0805</date>
+				<translation>north east / north eastern</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="119000">norma<nouns>
+			<translations>
+				<translation gender="f">standard / rule</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="55300">normal<adjectives>
+			<translations>
+				<translation>normal</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11500">normalitat<nouns>
+			<translations>
+				<translation gender="f">normality</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24800">normalització<nouns>
+			<translations>
+				<translation gender="f">standardization<plural>normalitzacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">normalitzar<verbs conj="regular">
+			<translations>
+				<translation>to standardise (Br.) / to standardize (Am.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="34900">normalment<adverbs>
+			<translations>
+				<translation>normally</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="488">Normandia<nouns>
+			<translations>
+				<translation catagory="geography" gender="f">Normandy</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="45000">normatiu<adjectives>
+			<translations>
+				<translation>normative<fems>normativa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="398000">normativa<nouns>
+			<translations>
+				<translation gender="f">rules / regulations</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">noruec<nouns>
+			<translations>
+				<translation disambiguate="nationality-europe" gender="m / f">Norwegian</translation>
+				<translation disambiguate="language" gender="m">Norwegian</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>Norwegian<fems>noruega</fems>
+					<femplural>noruegues</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="6150">Noruega<nouns>
+			<translations>
+				<translation catagory="country-europe" gender="f">Norway</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="610000">nos<pronouns>
+			<translations>
+				<translation>us / to us</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="2440">nosa<nouns>
+			<translations>
+				<translation gender="f">trouble / bother</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="107000">nosaltres<pronouns>
+			<translations>
+				<translation>us</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="3390">nostàlgia<nouns>
+			<translations>
+				<translation gender="f">nostalgia</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2070">nostàlgic<adjectives>
+			<translations>
+				<translation>nostalgic<fems>nostàlgica</fems><femplural>nostàlgiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="280000">nostre<adjectives>
+			<translations>
+				<translation>our<fems>nostra</fems>
+				</translation>
+			</translations>
+		</adjectives>
+		<pronouns>
+			<translations>
+				<translation>ours<fems>nostra</fems>
+				</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="111000">nota<nouns>
+			<translations>
+				<translation gender="f">note</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="64100">notable<adjectives>
+			<translations>
+				<translation>noteworthy / important / significant</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="7190">notació<nouns>
+			<translations>
+				<translation gender="f">notation<plural>notacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="25000">notar<verbs conj="regular">
+			<translations>
+				<translation>to note / to realise (Br.) / to realize (Am.)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="8720">notari<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">notary (public)<fems>notària</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3750">notaria<nouns>
+			<translations>
+				<translation gender="f">notary's office</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10700">notarial<adjectives>
+			<translations>
+				<translation>notarial</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="823">notariat<adjectives>
+			<translations><date>0805</date>
+				<translation>notarised (Br.) / notarized (Am.)<fems>notariada</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="555000">notícia<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">(piece of) news</translation>
+                                <translation sourceplural="notícies" gender="fpl">news<catexamp>Agència de notícies</catexamp><engexamp>News agency</engexamp></translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="635">notícia d'última hora<nouns>
+			<translations><date>0805</date>
+				<translation>breaking news</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="9820">noticiari<nouns>
+			<translations><date>0805</date>
+				<translation gender="m">news (section / column / bulletin)</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="92400">notificació<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">notification<plural>notificacions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="72000">notificar<verbs conj="CtoQU">
+			<translations><date>0805</date>
+				<translation>to notify</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="14500">notori<adjectives>
+			<translations><date>0805</date>
+				<translation>notorious<fems>notòria</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="909">notorietat<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">notoriety</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="629000">nou<adjectives>
+			<translations>
+				<translation>new<fems>nova</fems>
+				</translation>
+				<translation catagory="number-cardinal">nine</translation>
+			</translations>
+		</adjectives>
+		<nouns>
+			<translations>
+				<translation catagory="food-nut" gender="f">nut</translation>
+				<translation gender="m">ninth<catexamp>El (dia) nou de maig</catexamp>
+					<engexamp>The ninth of May</engexamp>
+				</translation>
+				<translation gender="m">the number nine</translation>
+				<translation catagory="time" gender="fpl">nine o'clock</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="5000">de nou<adverbs>
+			<translations>
+				<translation>again</translation>
+				<translation>recently</translation>
+			</translations>
+		</adverbs>
+	</Entry>
+	<Entry frequency="40">noucasat<nouns>
+			<translations>
+				<translation gender="m / f">newlywed<fems>noucasada</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6170">noucentisme<nouns>
+			<translations>
+				<translation gender="m">-<engnote>'Noucentisme' was a cultural and political movement which began in Catalonia in 1906 and ended with Primo de Rivera's dictatorship in 1923.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="6290">nou-cents<adjectives>
+			<translations>
+				<translation catagory="number-cardinal">nine hundred<fems>nou-centes</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="270">nou moscada<nouns>
+			<translations>
+				<translation catagory="food-spice" gender="f">nutmeg</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="602">nounat<nouns>
+			<translations>
+				<translation gender="m / f">newborn (baby)<fems>nounada</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="228">nou-ric<nouns>
+			<translations>
+				<translation gender="m / f">nouveau riche</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>nouveau riche<fems>nou-rica</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4770">nouvingut<nouns>
+			<translations>
+				<translation gender="m / f">newcomer / new arrival<fems>nouvinguda</fems>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1400">nova<nouns>
+			<translations>
+				<translation gender="f">(a piece of) news</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="432">Nova Delhi<nouns>
+			<translations>
+				<translation catagory="city-asia-india" gender="m">New Delhi</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="993">novaiorquès<nouns>
+			<translations>
+				<translation gender="m / f">New Yorker</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>New York<fems>novaiorquesa</fems><plural>novaiorquesos</plural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+        	<Entry frequency="483">Nova Jersey<nouns>
+			<translations><date>0405</date>
+				<translation catagory="city-northamerica-usa" gender="f">New Jersey</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="303">Nova Orleans<nouns>
+			<translations>
+				<translation catagory="city-northamerica-usa" gender="f">New Orleans</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="20100">Nova York<nouns>
+			<translations>
+				<translation catagory="city-northamerica-usa" gender="f">New York</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="2830">Nova Zelanda<nouns>
+			<translations>
+				<translation catagory="country-australasia" gender="f">New Zealand</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="10800">novè<adjectives>
+			<translations>
+				<translation catagory="number-ordinal">ninth<fems>novena</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="10000">novell<adjectives>
+			<translations>
+				<translation>new / inexperienced<fems>novella</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="26900">novel·la<nouns>
+			<translations>
+				<translation gender="f">novel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="318">novel·la d'aventures<nouns>
+			<translations><date>0705</date>
+				<translation gender="f">adventure novel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="490">novel·la juvenil<nouns>
+			<translations><date>0805</date>
+				<translation gender="f">children's book</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="354">novel·lesc<adjectives>
+			<translations>
+				<translation>novelistic<fems>novel·lesca</fems><femplural>novel·lesques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="385">novel·leta<nouns>
+			<translations>
+				<translation gender="f">short novel</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3470">novel·lista<nouns>
+			<translations>
+				<translation gender="m / f">novelist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="650">novel·lístic<adjectives>
+			<translations>
+				<translation>novelistic<fems>novel·lística</fems><femplural>novel·lístiques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="123000">novembre<nouns>
+			<translations>
+				<translation catagory="time-month" gender="m">November</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="149">novençà<nouns>
+			<translations>
+				<translation gender="m / f">beginner / novice</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>beginner / novice / new<plural>novençans</plural>
+					<fems>novençana</fems><femplural>novençanes</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="99200">novetat<nouns>
+			<translations>
+				<translation gender="f">new stuff / novelty</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="692">novici<nouns>
+			<translations>
+				<translation gender="m / f">novice / beginner</translation>
+				<translation disambiguate="religious" gender="m / f">novice (nun / monk)<fems>novícia</fems></translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4890">no-violència<nouns>
+			<translations>
+				<translation gender="f">nonviolence</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="345000">'ns<pronouns>
+			<translations>
+				<translation>us<engnote>'ns is the contracted form of the personal pronoun 'ens'.</engnote>
+				</translation>
+			</translations>
+		</pronouns>
+	</Entry>
+	<Entry frequency="14200">nu<adjectives>
+			<translations>
+				<translation>naked / bare / nude<fems>nua</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="63600">nuar<verbs conj="irregular1">
+			<translations>
+				<translation>to tie a knot (in something) / to knot (something)</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="104">núbil<adjectives>
+			<translations>
+				<translation>nubile</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="529">nuca<nouns>
+			<translations><date>0605</date>
+				<translation catagory="body" gender="f">back of the neck / nape of the neck</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="17400">nuclear<adjectives>
+			<translations>
+				<translation>nuclear<catexamp>Energia nuclear</catexamp>
+					<engexamp>Nuclear power / energy</engexamp>
+					<catexamp>Armes nuclears</catexamp>
+					<engexamp>Nuclear weapons</engexamp>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="53600">nucli<nouns>
+			<translations>
+				<translation gender="m">nucleus / core</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="234">nucli industrial<nouns>
+			<translations>
+				<translation gender="m">industrial estate</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="24400">nucli urbà<nouns>
+			<translations>
+				<translation gender="m">urban area<plural>nuclis urbans</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="298">nudisme<nouns>
+			<translations>
+				<translation gender="m">nudism</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="741">nudista<nouns>
+			<translations>
+				<translation gender="m / f">nudist</translation>
+			</translations>
+		</nouns>
+		<adjectives>
+			<translations>
+				<translation>nudist</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="1540">nuesa<nouns>
+			<translations>
+				<translation gender="f">nudity</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="42100">nul<adjectives>
+			<translations>
+				<translation>null / void / null and void<catexamp>Vot nul</catexamp>
+					<engexamp>Spoiled ballot</engexamp>
+				</translation>
+				<translation>useless</translation>
+				<translation>non-existent<fems>nul·la</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="11200">numeració<nouns>
+			<translations><date>0605</date>
+				<translation gender="m">numeration / numbering</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+	<Entry frequency="2080">numerar<verbs conj="regular">
+			<translations>
+				<translation>to number</translation>
+			</translations>
+		</verbs>
+	</Entry>
+	<Entry frequency="6210">numerari<adjectives>
+			<translations>
+				<translation>numerary<fems>numerària</fems></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="8500">numerat<adjectives>
+			<translations>
+				<translation>numbered<fems>numerada</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="17200">numèric<adjectives>
+			<translations>
+				<translation catagory="maths">numeric(al)<fems>numèrica</fems><femplural>numèriques</femplural>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="121000">número<nouns>
+			<translations>
+				<translation catagory="maths" gender="m">number</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="83">numerologia<nouns>
+			<translations>
+				<translation gender="f">numerology</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1250">numismàtic<adjectives>
+			<translations>
+				<translation>numismatic<fems>numismàtica</fems><femplural>numismàtiques</femplural></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="4250">numismàtica<nouns>
+			<translations>
+				<translation gender="f">coin collecting / numismatics</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="853">nunci<nouns>
+			<translations>
+				<translation catagory="religious" gender="m">nuncio<engnote>A 'nuncio' is an ambassador of the Pope.</engnote>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+        <Entry frequency="663">nupcial<adjectives>
+			<translations><date>0505</date>
+				<translation>wedding / bridal<catexamp>Cerimònia nupcial</catexamp><engexamp>Wedding ceremony</engexamp></translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="5000">nus<nouns>
+			<translations>
+				<translation gender="m">knot</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="11500">nutrició<nouns>
+			<translations>
+				<translation catagory="food" gender="f">nutrition<plural>nutricions</plural>
+				</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3230">nutricional<adjectives>
+			<translations>
+				<translation>nutritional<synonyms>nutritiu</synonyms>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="262">nutricionista<nouns>
+			<translations>
+				<translation catagory="work-job" gender="m / f">nutritionist</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="4130">nutrient<nouns>
+			<translations>
+				<translation gender="m">nutrient</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="3190">nutritiu<adjectives>
+			<translations>
+				<translation>nutritional<fems>nutritiva</fems>
+					<synonyms>nutricional</synonyms>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="12000">nuvi<nouns>
+			<translations>
+				<translation gender="m">(bride)groom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13500">núvia<nouns>
+			<translations>
+				<translation gender="f">bride</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="7500">nuvis<nouns>
+			<translations>
+				<translation gender="mpl">bride and groom</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="13200">núvol<nouns>
+			<translations>
+				<translation catagory="weather" gender="m">cloud</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="1050">nuvolós<adjectives>
+			<translations>
+				<translation catagory="weather">cloudy<plural>nuvolosos</plural>
+					<fems>nuvolosa</fems>
+				</translation>
+			</translations>
+		</adjectives>
+	</Entry>
+	<Entry frequency="2560">nuvolositat<nouns>
+			<translations>
+				<translation catagory="weather" gender="f">cloudiness / cloud cover</translation>
+			</translations>
+		</nouns>
+	</Entry>
+	<Entry frequency="95">nyanyo<nouns>
+			<translations><date>0605</date>
+				<translation register="colloquial" gender="m">bump / lump</translation>
+			</translations>
+		</nouns>
+	</Entry>	
+</dictionary>

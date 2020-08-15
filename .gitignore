@@ -1,0 +1,17 @@
+target
+pom.xml.*
+release.properties
+
+.classpath
+.project
+.settings
+
+*.iml
+.idea
+
+catalina.base*
+*.tmp
+*.log
+*.txt
+
+.DS_Store
