@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test
 import java.io.File
 import kotlin.test.assertEquals
 
-class ParserTest {
+class DictionaryParserTest {
     @Test
      fun golden_test() {
         val tempFile = File("temp.txt")
@@ -21,7 +21,7 @@ class ParserTest {
 
     private fun runTest(tempFile: File): ArrayList<Word> {
         val writer = tempFile.bufferedWriter()
-        val output = Parser().parse(writer)
+        val output = DictionaryParser().parse(writer)
         writer.flush()
         writer.close()
         return output

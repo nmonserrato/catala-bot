@@ -2,6 +2,7 @@ package dev.neeno.catalabot.dictionaryparser
 
 import dev.neeno.catalabot.Word
 import org.apache.commons.lang3.StringUtils
+import org.apache.commons.lang3.StringUtils.isNotEmpty
 import java.io.BufferedWriter
 import java.util.*
 import kotlin.collections.ArrayList
@@ -30,7 +31,10 @@ class ParsingContext {
     }
 
     fun addTag(value: String) {
-        tags.add(sanitize(value))
+        val sanitized = sanitize(value)
+        if (isNotEmpty(sanitized)) {
+            tags.add(value)
+        }
     }
 
     fun charsForSynonym(value: String) {
