@@ -21,6 +21,10 @@ class ParsingContext {
     private var acceptedWord = true
     private val collectedWords = ArrayList<Word>()
 
+    fun documentStarted() {
+        this.collectedWords.clear()
+    }
+
     fun newWord(value: String) {
         this.currentWord = sanitize(value)
     }

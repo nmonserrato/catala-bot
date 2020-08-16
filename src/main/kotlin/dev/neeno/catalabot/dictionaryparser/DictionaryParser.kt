@@ -13,12 +13,11 @@ import javax.xml.stream.events.StartElement
 import kotlin.collections.ArrayList
 
 class DictionaryParser {
-    private val abbreviationTags = listOf("catacro", "abbreviations", "acronyms")
-    private val exampleTags = listOf("example", "catexamp", "engexamp")
-    private val grammarParticles =
-        listOf("prepositions", "adjectives", "verbs", "pronouns", "nouns", "adverbs", "conjunctions", "exclamations")
+    private val context = ParsingContext()
+    private val listeners = initializeListeners()
 
-    fun parse(log: BufferedWriter): ArrayList<Word> {
+    //TODO remove log after this is tested properly
+    fun parse(log: BufferedWriter): List<Word> {
         val output = ArrayList<Word>()
         val factory = XMLInputFactory.newInstance()
         factory.setProperty(XMLInputFactory.IS_SUPPORTING_EXTERNAL_ENTITIES, false)
@@ -26,51 +25,30 @@ class DictionaryParser {
         for (letter in 'a'..'z') {
             val resource = this.javaClass.getResourceAsStream("/dictionaries/$letter.dic")
             val reader = factory.createXMLEventReader(resource)
-            val fileOutput = parseFile(reader, log)
-            output.addAll(fileOutput)
+            output.addAll(parseDictionaryFile(reader, log))
         }
 
         return output
     }
 
-    private fun parseFile(reader: XMLEventReader, log: BufferedWriter): List<Word> {
+    private fun parseDictionaryFile(reader: XMLEventReader, log: BufferedWriter): List<Word> {
         val stack: Deque<String> = LinkedList()
-        val context = ParsingContext()
 
         while (reader.hasNext()) {
             val event = reader.nextEvent()
-            if (event.eventType == XMLStreamConstants.START_ELEMENT) {
+            if (event.eventType == XMLStreamConstants.START_DOCUMENT) {
+                context.documentStarted()
+            } else if (event.eventType == XMLStreamConstants.START_ELEMENT) {
                 val element = event.asStartElement()
-                val elementName = element.name.localPart
-                stack.push(elementName)
-                when {
-                    stack.elementIs("Entry") -> context.frequency(element.attribute("frequency"))
-                    stack.elementIs("translation") -> context.addTag(element.attribute("catagory"))
-                    stack.elementIsIn(abbreviationTags) -> context.wordIsAnAbbreviation()
-                    stack.elementIsIn(grammarParticles) -> context.addTag(elementName)
-                }
-
+                stack.push(element.name.localPart)
+                elementListener(stack).startElement(element)
             } else if (event.eventType == XMLStreamConstants.END_ELEMENT) {
-                when {
-                    stack.elementIs("Entry") -> context.collectWord(log)
-                    stack.elementIs("translation") -> context.translationParseCompleted()
-                    stack.elementIs("synonyms") -> context.synonymParseCompleted()
-                    stack.elementIsIn(exampleTags) -> context.exampleParseCompleted()
-                }
+                elementListener(stack).endElement(event.asEndElement(), log)
                 stack.pop()
-
             } else if (event.eventType == XMLStreamConstants.CHARACTERS) {
                 val text = event.asCharacters().data
                 if (isNotBlank(text)) {
-                    when {
-                        stack.elementIs("Entry") -> context.newWord(text)
-                        stack.elementIs("translation") -> context.charsForTranslation(text)
-                        stack.elementIs("synonyms") -> context.charsForSynonym(text)
-                        stack.elementIs("example") -> context.charsForExample(text)
-                        stack.elementIs("catexamp") -> context.charsForExample(value = text, prefix = "(ca.) ")
-                        stack.elementIs("engexamp") -> context.charsForExample(value = text, prefix = "(en.) ")
-                        stack.elementIs("expressions") -> context.addExpression(text)
-                    }
+                    elementListener(stack).characters(stack.peek(), text)
                 }
             }
         }
@@ -78,11 +56,34 @@ class DictionaryParser {
         return context.collectedWords()
     }
 
-    private fun Deque<String>.elementIs(name: String) = name == this.peek()
-    private fun Deque<String>.elementIsIn(collection: List<String>) = collection.contains(this.peek())
+    private fun elementListener(stack: Deque<String>): ElementParserListener =
+        defaultIfNull(listeners[stack.peek()], ElementParserListener.noop())!!
 
-    private fun StartElement.attribute(name: String): String {
-        val attribute = this.getAttributeByName(QName.valueOf(name))
-        return if (attribute == null) "" else defaultIfNull(attribute.value, "")
+    private fun initializeListeners(): Map<String, ElementParserListener> {
+        return mapOf(
+            "expressions" to ExpressionElementListener(context),
+            "Entry" to EntryElementListener(context),
+            "translation" to TranslationElementListener(context),
+            "synonyms" to SynonymsElementListener(context),
+            "example" to ExampleElementListener(context),
+            "catexamp" to ExampleElementListener(context),
+            "engexamp" to ExampleElementListener(context),
+            "catacro" to AbbreviationElementListener(context),
+            "abbreviations" to AbbreviationElementListener(context),
+            "acronyms" to AbbreviationElementListener(context),
+            "prepositions" to GrammarParticlesElementListener(context),
+            "adjectives" to GrammarParticlesElementListener(context),
+            "verbs" to GrammarParticlesElementListener(context),
+            "pronouns" to GrammarParticlesElementListener(context),
+            "nouns" to GrammarParticlesElementListener(context),
+            "adverbs" to GrammarParticlesElementListener(context),
+            "conjunctions" to GrammarParticlesElementListener(context),
+            "exclamations" to GrammarParticlesElementListener(context)
+        )
     }
+}
+
+fun StartElement.attribute(name: String): String {
+    val attribute = this.getAttributeByName(QName.valueOf(name))
+    return if (attribute == null) "" else defaultIfNull(attribute.value, "")
 }
