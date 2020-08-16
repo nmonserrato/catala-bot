@@ -1,6 +1,7 @@
 package dev.neeno.catalabot.dictionaryparser
 
 import dev.neeno.catalabot.Word
+import dev.neeno.catalabot.dictionaryparser.listeners.*
 import org.apache.commons.lang3.ObjectUtils.defaultIfNull
 import org.apache.commons.lang3.StringUtils.isNotBlank
 import java.io.BufferedWriter

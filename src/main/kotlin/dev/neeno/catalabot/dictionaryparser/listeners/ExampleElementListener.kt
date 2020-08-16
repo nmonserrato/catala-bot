@@ -1,5 +1,6 @@
-package dev.neeno.catalabot.dictionaryparser
+package dev.neeno.catalabot.dictionaryparser.listeners
 
+import dev.neeno.catalabot.dictionaryparser.ParsingContext
 import java.io.BufferedWriter
 import javax.xml.stream.events.EndElement
 import javax.xml.stream.events.StartElement

@@ -1,4 +1,4 @@
-package dev.neeno.catalabot.dictionaryparser
+package dev.neeno.catalabot.dictionaryparser.listeners
 
 import java.io.BufferedWriter
 import javax.xml.stream.events.EndElement
