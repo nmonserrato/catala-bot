@@ -21,7 +21,6 @@ class Dictionary private constructor(
 
     fun randomWord(): String {
         val aWord = words.random(random)
-        return aWord.original + ": " + aWord.translations[0]
-
+        return "<b>${aWord.original}</b><pre>\n</pre>${aWord.translations[0]}"
     }
 }
