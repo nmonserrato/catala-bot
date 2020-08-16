@@ -16,7 +16,8 @@ import io.ktor.server.netty.Netty
 
 fun main() {
     val dictionary = Dictionary.initializeFromFiles()
-    val server = embeddedServer(Netty, port = 8080) {
+    val port = System.getenv("PORT")?.toInt() ?: 8080
+    val server = embeddedServer(Netty, port) {
         install(ContentNegotiation) {
             jackson {
                 disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES)

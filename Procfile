@@ -1,1 +1,1 @@
-web:    java -jar target/catala-bot-exec.jar
+web: java -jar target/catala-bot-exec.jar
