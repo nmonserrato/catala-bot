@@ -10,7 +10,6 @@ class Dictionary private constructor(
     private val words: List<Word>
 ) {
     private val random: Random = Random(currentTimeMillis())
-    private var filtered: List<Word>? = null
 
     companion object {
         const val NEW_LINE = "<pre>\n</pre>"
@@ -23,14 +22,7 @@ class Dictionary private constructor(
     }
 
     fun randomWord(): String {
-        if (filtered == null) {
-            filtered = words
-                .filter { it.examples.isNotEmpty() }
-                .filter { it.synonyms.isNotEmpty() }
-                .filter { it.tags.isNotEmpty() }
-                .filter { it.translations.isNotEmpty() }
-        }
-        val aWord = filtered!!.random(random)
+        val aWord = words.random(random)
 
         val builder = StringBuilder("<b>${aWord.original}</b>$NEW_LINE")
         builder.addList("translations", aWord.translations)
