@@ -11,13 +11,13 @@ import kotlin.collections.HashSet
 class ParsingContext {
     private var wordFrequency: Long = -1
     private var currentWord = ""
-    private val tags = HashSet<String>()
+    private var tags = HashSet<String>()
     private val translation = StringBuilder()
-    private val translations = LinkedList<String>()
+    private var translations = LinkedList<String>()
     private val example = StringBuilder()
-    private val examples = LinkedList<String>()
+    private var examples = LinkedList<String>()
     private val synonym = StringBuilder()
-    private val synonyms = LinkedList<String>()
+    private var synonyms = LinkedList<String>()
     private var acceptedWord = true
     private val collectedWords = ArrayList<Word>()
 
@@ -96,13 +96,13 @@ class ParsingContext {
     private fun resetForNewWord() {
         wordFrequency = -1
         currentWord = ""
-        tags.clear()
+        tags = HashSet()
         translation.clear()
-        translations.clear()
+        translations = LinkedList()
         example.clear()
-        examples.clear()
+        examples = LinkedList()
         synonym.clear()
-        synonyms.clear()
+        synonyms = LinkedList()
         acceptedWord = true
     }
 }

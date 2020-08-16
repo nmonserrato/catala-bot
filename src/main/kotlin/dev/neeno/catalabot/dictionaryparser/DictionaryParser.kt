@@ -4,7 +4,6 @@ import dev.neeno.catalabot.Word
 import org.apache.commons.lang3.ObjectUtils.defaultIfNull
 import org.apache.commons.lang3.StringUtils.isNotBlank
 import java.io.BufferedWriter
-import java.io.File
 import java.util.*
 import javax.xml.namespace.QName
 import javax.xml.stream.XMLEventReader
@@ -20,12 +19,13 @@ class DictionaryParser {
         listOf("prepositions", "adjectives", "verbs", "pronouns", "nouns", "adverbs", "conjunctions", "exclamations")
 
     fun parse(log: BufferedWriter): ArrayList<Word> {
-        val factory = XMLInputFactory.newInstance()
         val output = ArrayList<Word>()
+        val factory = XMLInputFactory.newInstance()
+        factory.setProperty(XMLInputFactory.IS_SUPPORTING_EXTERNAL_ENTITIES, false)
 
         for (letter in 'a'..'z') {
-            val file = File("src/main/resources/dictionaries/$letter.dic").inputStream()
-            val reader = factory.createXMLEventReader(file)
+            val resource = this.javaClass.getResourceAsStream("/dictionaries/$letter.dic")
+            val reader = factory.createXMLEventReader(resource)
             val fileOutput = parseFile(reader, log)
             output.addAll(fileOutput)
         }
