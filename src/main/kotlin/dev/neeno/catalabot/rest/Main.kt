@@ -1,9 +1,11 @@
 package dev.neeno.catalabot.rest
 
 import com.fasterxml.jackson.databind.DeserializationFeature
+import dev.neeno.catalabot.Dictionary
 import io.ktor.application.call
 import io.ktor.application.install
 import io.ktor.features.ContentNegotiation
+import io.ktor.http.HttpStatusCode
 import io.ktor.jackson.jackson
 import io.ktor.request.receive
 import io.ktor.response.respond
@@ -13,6 +15,7 @@ import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty
 
 fun main() {
+    val dictionary = Dictionary.initializeFromFiles()
     val server = embeddedServer(Netty, port = 8080) {
         install(ContentNegotiation) {
             jackson {
@@ -23,7 +26,11 @@ fun main() {
         routing {
             post("/new-message") {
                 val post = call.receive<Update>()
-                call.respond(Reply(chatId = post.message.chat.id, text = post.message.text))
+                if ("digues me una paraula" == post.message.text) {
+                    call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
+                } else {
+                    call.respond(HttpStatusCode.OK, "")
+                }
             }
         }
     }

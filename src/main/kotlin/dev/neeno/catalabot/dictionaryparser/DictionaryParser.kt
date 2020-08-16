@@ -18,7 +18,7 @@ class DictionaryParser {
     private val listeners = initializeListeners()
 
     //TODO remove log after this is tested properly
-    fun parse(log: BufferedWriter): List<Word> {
+    fun parseAllFiles(log: BufferedWriter): List<Word> {
         val output = ArrayList<Word>()
         val factory = XMLInputFactory.newInstance()
         factory.setProperty(XMLInputFactory.IS_SUPPORTING_EXTERNAL_ENTITIES, false)
