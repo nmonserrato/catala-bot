@@ -13,7 +13,7 @@ class Dictionary private constructor(
     private var filtered: List<Word>? = null
 
     companion object {
-        const val NEW_LINE = "<pre>\n\n</pre>"
+        const val NEW_LINE = "<pre>\n</pre>"
 
         fun initializeFromFiles(): Dictionary {
             val parser = DictionaryParser()
