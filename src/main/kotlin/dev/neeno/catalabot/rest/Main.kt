@@ -27,6 +27,7 @@ fun main() {
         routing {
             post("/new-message") {
                 val post = call.receive<Update>()
+                println("received message $post")
                 if ("digues me una paraula" == post.message.text) {
                     call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
                 } else {
