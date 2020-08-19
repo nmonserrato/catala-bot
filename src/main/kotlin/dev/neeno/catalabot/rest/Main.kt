@@ -40,6 +40,7 @@ fun main() {
                     }
                 } catch (e: Exception) {
                     println("failed parsing message $body")
+                    call.respond(HttpStatusCode.OK, "")
                 }
             }
         }
