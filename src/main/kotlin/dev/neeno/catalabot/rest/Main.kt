@@ -1,6 +1,9 @@
 package dev.neeno.catalabot.rest
 
 import com.fasterxml.jackson.databind.DeserializationFeature
+import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.module.kotlin.readValue
+import com.fasterxml.jackson.module.kotlin.registerKotlinModule
 import dev.neeno.catalabot.Dictionary
 import io.ktor.application.call
 import io.ktor.application.install
@@ -16,6 +19,7 @@ import io.ktor.server.netty.Netty
 
 fun main() {
     val dictionary = Dictionary.initializeFromFiles()
+    val mapper = ObjectMapper().registerKotlinModule().disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES)
     val port = System.getenv("PORT")?.toInt() ?: 8080
     val server = embeddedServer(Netty, port) {
         install(ContentNegotiation) {
@@ -26,8 +30,9 @@ fun main() {
 
         routing {
             post("/new-message") {
-                val post = call.receive<Update>()
-                println("received message $post")
+                val body = call.receive<String>()
+                println("received message $body")
+                val post = mapper.readValue<Update>(body)
                 if ("digues me una paraula" == post.message.text) {
                     call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
                 } else {
