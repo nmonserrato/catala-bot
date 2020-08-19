@@ -31,12 +31,15 @@ fun main() {
         routing {
             post("/new-message") {
                 val body = call.receive<String>()
-                println("received message $body")
-                val post = mapper.readValue<Update>(body)
-                if ("digues me una paraula" == post.message.text) {
-                    call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
-                } else {
-                    call.respond(HttpStatusCode.OK, "")
+                try {
+                    val post = mapper.readValue<Update>(body)
+                    if ("digues me una paraula" == post.message.text) {
+                        call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
+                    } else {
+                        call.respond(HttpStatusCode.OK, "")
+                    }
+                } catch (e: Exception) {
+                    println("failed parsing message $body")
                 }
             }
         }
