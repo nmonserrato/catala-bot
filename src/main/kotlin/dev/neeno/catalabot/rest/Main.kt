@@ -52,5 +52,5 @@ fun main() {
 }
 
 private fun String.isIn(container: String?): Boolean {
-    return (container ?: "").contains(this)
+    return (container ?: "").contains(this, ignoreCase = true)
 }
