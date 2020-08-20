@@ -33,7 +33,9 @@ fun main() {
                 val body = call.receive<String>()
                 try {
                     val post = mapper.readValue<Update>(body)
-                    if ("digues me una paraula" == post.message.text) {
+                    if ("paraula amb o".isIn(post.message.text)) {
+                        call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomFunnyWord()))
+                    } else if ("paraula".isIn(post.message.text)) {
                         call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
                     } else {
                         call.respond(HttpStatusCode.OK, "")
@@ -47,4 +49,8 @@ fun main() {
     }
 
     server.start(wait = true)
+}
+
+private fun String.isIn(container: String?): Boolean {
+    return (container ?: "").contains(this)
 }
