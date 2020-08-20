@@ -33,7 +33,7 @@ fun main() {
                 val body = call.receive<String>()
                 try {
                     val post = mapper.readValue<Update>(body)
-                    if ("paraula amb o".isIn(post.message.text)) {
+                    if ("paraula amb o".isIn(post.message.text) || "paraula divertit".isIn(post.message.text)) {
                         call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomFunnyWord()))
                     } else if ("paraula".isIn(post.message.text)) {
                         call.respond(Reply(chatId = post.message.chat.id, text = dictionary.randomWord()))
